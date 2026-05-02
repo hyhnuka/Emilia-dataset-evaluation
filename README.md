@@ -1,4 +1,4 @@
-# EMILIA: Evaluasi Dataset Q&A Psikologi Indonesia
+# EMILIA: Evaluasi Dataset Q&A tentang Kesehatan Mental Indonesia
 
 Proyek ini difokuskan pada evaluasi dataset tanya-jawab (Q&A) sintetis bertema psikologi. Evaluasi dilakukan menggunakan berbagai metrik termasuk *Natural Language Inference* (NLI) dan *LLM-as-a-Judge* untuk memastikan relevansi jawaban, meminimalkan halusinasi, dan menjaga kualitas dataset.
 
