@@ -1,0 +1,267 @@
+[
+  {
+    "Context": "Tahap penyangkalan (denial) sering muncul segera setelah mendapat kabar penyakit berat; otak berusaha melindungi diri dari stres.",
+    "Question": "Kenapa saya merasa diagnosis ini tidak nyata dan sulit dipercaya?",
+    "Answer": "Perasaan penyangkalan itu normal. Beri dirimu ruang untuk memproses kabar ini perlahan, sambil tetap terhubung dengan tenaga medis dan orang terdekat demi mendapatkan dukungan nyata."
+  },
+  {
+    "Context": "Setelah penyangkalan, emosi marah kerap muncul karena merasa hidup tidak adil.",
+    "Question": "Apa wajar kalau saya marah pada keadaan dan orang lain?",
+    "Answer": "Sangat wajar. Rasa marah menandakan betapa pentingnya hidup bagimu. Coba salurkan kemarahan melalui aktivitas positif seperti menulis atau olahraga ringan, dan berbagi perasaan dengan teman tepercaya."
+  },
+  {
+    "Context": "Bargaining adalah upaya mental untuk bernegosiasi demi kesembuhan, misalnya berjanji akan hidup lebih sehat.",
+    "Question": "Saya sering berjanji akan berubah asal sembuh. Apakah itu membantu?",
+    "Answer": "Janji positif bisa memotivasimu mengubah gaya hidup. Namun kesembuhan juga butuh dukungan medis. Jadikan tekadmu sebagai langkah konkret: makan bergizi, istirahat cukup, dan ikuti saran dokter."
+  },
+  {
+    "Context": "Rasa sedih mendalam (depresi) bisa datang saat menyadari keterbatasan fisik akibat penyakit.",
+    "Question": "Bagaimana cara keluar dari kesedihan yang membuat saya malas bangun?",
+    "Answer": "Mulailah dengan target kecil, seperti duduk di tepi tempat tidur lalu menghirup napas dalam. Ceritakan kesedihanmu ke psikolog atau sahabat; berbagi cerita sering kali meringankan beban."
+  },
+  {
+    "Context": "Penerimaan (acceptance) bukan berarti menyerah, melainkan memahami kondisi dan fokus pada kualitas hidup.",
+    "Question": "Apa artinya benar‑benar menerima kondisi saya sekarang?",
+    "Answer": "Menerima berarti kamu sadar ada hal yang tak bisa diubah, namun masih banyak hal baik yang bisa diperjuangkan: kebersamaan dengan keluarga, hobi ringan, atau momen syukur harian."
+  },
+  {
+    "Context": "Dukungan sosial—keluarga, teman, komunitas—terbukti menurunkan tingkat stres pasien penyakit kronis.",
+    "Question": "Saya takut merepotkan orang lain. Haruskah saya tetap minta bantuan?",
+    "Answer": "Mintalah bantuan. Orang terdekat biasanya ingin menolong tapi menunggu sinyal darimu. Ketika kamu berbagi beban, ikatan dan rasa percaya justru makin kuat."
+  },
+  {
+    "Context": "Hospice care menitikberatkan pada kenyamanan dan makna hidup, bukan hanya pengobatan medis.",
+    "Question": "Apa manfaat layanan hospice bagi kesehatan mental saya?",
+    "Answer": "Hospice memberi lingkungan hangat, perawat terlatih, dan ruang pribadi untuk menjalani hari dengan nyaman, sehingga pikiran lebih tenang dan waktu bersama keluarga terasa lebih berkualitas."
+  },
+  {
+    "Context": "Home care memungkinkan perawatan di rumah sendiri dengan dukungan tenaga medis terjadwal.",
+    "Question": "Apakah perawatan di rumah lebih baik dibanding rawat inap di rumah sakit?",
+    "Answer": "Keuntungan home care ialah suasana akrab, jadwal fleksibel, dan risiko infeksi lebih rendah. Namun pastikan ada caregiver terlatih serta akses cepat ke fasilitas medis jika dibutuhkan."
+  },
+  {
+    "Context": "Komunikasi terbuka antara pasien dan tenaga medis mempermudah pengambilan keputusan perawatan.",
+    "Question": "Saya sungkan bertanya detail rencana pengobatan. Apa yang harus saya lakukan?",
+    "Answer": "Catat pertanyaan di kertas lalu bawa saat kontrol. Ingat, tidak ada pertanyaan bodoh—semakin jelas informasimu, semakin terarah pula keputusan perawatanmu."
+  },
+  {
+    "Context": "Surat wasiat medis (advance directive) membantu tim medis memahami keinginan pasien di keadaan kritis.",
+    "Question": "Perlukah saya membuat surat wasiat medis sekarang?",
+    "Answer": "Ya, lebih baik disiapkan saat kondisi pikiran jernih. Dokumen ini memastikan pilihanmu dihormati dan mengurangi kebingungan keluarga jika keadaan darurat terjadi."
+  },
+  {
+    "Context": "Pola tidur sering terganggu akibat kecemasan kronis.",
+    "Question": "Bagaimana cara agar bisa tidur nyenyak meski pikiran masih penuh kekhawatiran?",
+    "Answer": "Coba rutinitas relaksasi 30 menit sebelum tidur: matikan gawai, lakukan pernapasan 4‑7‑8, dan dengarkan musik lembut. Konsultasikan obat tidur hanya jika benar‑benar perlu."
+  },
+  {
+    "Context": "Aktivitas ringan seperti peregangan dapat meningkatkan mood dan mengurangi nyeri ringan.",
+    "Question": "Saya kurang tenaga untuk olahraga. Apa ada gerakan sederhana?",
+    "Answer": "Mulailah dengan gerakan di kursi: angkat tumit, putar pergelangan tangan, atau tarik napas sambil merentangkan tangan perlahan. Lakukan 3‑5 menit, beberapa kali sehari."
+  },
+  {
+    "Context": "Latihan syukur (gratitude) membantu otak fokus pada hal positif bahkan di masa sulit.",
+    "Question": "Apa contoh mudah latihan syukur harian?",
+    "Answer": "Sebelum tidur, tulis tiga hal kecil yang membuatmu tersenyum hari itu—secangkir teh hangat, pesan lucu teman, atau sinar matahari pagi."
+  },
+  {
+    "Context": "Teknik mindfulness mampu menurunkan hormon stres kortisol.",
+    "Question": "Bagaimana memulai meditasi mindfulness untuk pemula?",
+    "Answer": "Duduk nyaman, tutup mata, perhatikan napas masuk‑keluar selama 5 menit. Saat pikiran melayang, lembutkan perhatian kembali ke napas tanpa menghakimi."
+  },
+  {
+    "Context": "Keterbukaan emosi di grup support memberikan rasa ‘saya tidak sendirian’.",
+    "Question": "Saya pemalu. Bagaimana cara ikut grup support tanpa canggung?",
+    "Answer": "Awali sebagai pendengar. Lama‑kelamaan kamu akan nyaman berbagi. Ingat, tiap anggota datang membawa cerita unik—tidak ada penilaian, hanya saling menguatkan."
+  },
+  {
+    "Context": "Ritme aktivitas harian yang terstruktur memberi perasaan kontrol.",
+    "Question": "Haruskah saya membuat jadwal meski sering merasa lelah?",
+    "Answer": "Buat jadwal fleksibel: sisipkan waktu istirahat di antara aktivitas penting. Mengetahui rencana hari ini jauh mengurangi kecemasan dibanding ‘mengikuti arus’ tanpa pegangan."
+  },
+  {
+    "Context": "Kecemasan berlebihan dapat memicu gejala fisik seperti jantung berdebar.",
+    "Question": "Apa cara cepat menenangkan diri saat serangan panik datang?",
+    "Answer": "Coba teknik grounding 5‑4‑3‑2‑1: sebut 5 benda yang kamu lihat, 4 yang kamu sentuh, 3 yang kamu dengar, 2 yang kamu cium, 1 yang kamu rasakan. Fokus ini menurunkan kepanikan."
+  },
+  {
+    "Context": "Perubahan tubuh akibat perawatan kadang menurunkan kepercayaan diri.",
+    "Question": "Bagaimana menerima perubahan penampilan karena kemoterapi?",
+    "Answer": "Ingat bahwa identitasmu lebih dari sekadar rambut atau berat badan. Gunakan wig, topi trendi, atau riasan simpel bila ingin, tapi rayakan juga keberanian dan ketangguhanmu."
+  },
+  {
+    "Context": "Rasa bersalah sering muncul pada caregiver yang merasa belum cukup membantu.",
+    "Question": "Sebagai pendamping, saya takut melakukan kesalahan. Apa yang bisa saya pegang?",
+    "Answer": "Kesempurnaan bukan tujuan. Fokuslah pada niat tulus mendampingi. Komunikasikan batas kemampuanmu agar kamu juga tetap sehat secara fisik dan emosional."
+  },
+  {
+    "Context": "Musik terapi terbukti meredakan nyeri dan meningkatkan suasana hati.",
+    "Question": "Apakah playlist tertentu bisa membantu mengurangi stres?",
+    "Answer": "Pilih musik tempo lambat 60‑80 bpm—genre klasik, lo‑fi, atau instrumental akustik. Dengarkan dengan napas teratur untuk efek relaksasi maksimal."
+  },
+  {
+    "Context": "Tawa memicu pelepasan endorfin, zat kimia alami penurun stres.",
+    "Question": "Apakah menonton komedi saat sakit itu pantas?",
+    "Answer": "Tentu! Tertawa adalah vitamin gratis. Pilih tontonan ringan yang membuatmu terhibur—efek positifnya nyata bagi kesehatan mental dan fisik."
+  },
+  {
+    "Context": "Mereka yang menuliskan perasaan dalam jurnal cenderung memiliki tekanan darah lebih stabil.",
+    "Question": "Saya belum pernah menulis jurnal. Bagaimana memulainya?",
+    "Answer": "Tuliskan apa yang dirasakan tanpa sensor selama 5 menit setiap malam. Tak perlu tata bahasa sempurna—tujuannya membebaskan pikiran, bukan membuat karya sastra."
+  },
+  {
+    "Context": "Spiritualitas atau praktik ibadah bisa menjadi sumber kekuatan batin.",
+    "Question": "Saya takut masa depan; bagaimana iman dapat membantu?",
+    "Answer": "Luangkan waktu hening, doa, atau bacaan suci yang menenangkan. Banyak orang merasakan ketenangan dan makna baru setelah bersandar pada keyakinan spiritual."
+  },
+  {
+    "Context": "Mengatur media sosial penting agar tidak terpapar informasi memicu kecemasan.",
+    "Question": "Haruskah saya berhenti menggunakan media sosial sementara?",
+    "Answer": "Bisa jadi bermanfaat. Cobalah ‘detoks digital’ harian, misalnya offline setelah pukul 20.00, dan ikuti akun yang memberi semangat, bukan sebaliknya."
+  },
+  {
+    "Context": "Obrolan ringan dengan teman lama dapat memunculkan kenangan positif.",
+    "Question": "Mengapa nostalgia justru membuat saya senang?",
+    "Answer": "Nostalgia mengaktifkan bagian otak yang memproduksi hormon bahagia, mengingatkanmu bahwa hidup penuh momen berharga yang layak disyukuri."
+  },
+  {
+    "Context": "Plan A dan Plan B perawatan memberi rasa aman bila kondisi berubah.",
+    "Question": "Bagaimana menyusun rencana perawatan cadangan?",
+    "Answer": "Diskusikan bersama dokter mengenai opsi terapi, efek samping, dan kualitas hidup. Catat preferensimu lalu bagikan ke keluarga agar semua memahami skenario ‘jika‑maka’."
+  },
+  {
+    "Context": "Menetapkan tujuan kecil bisa memperkuat motivasi harian.",
+    "Question": "Target apa yang realistis bagi saya saat ini?",
+    "Answer": "Pilih hal sederhana namun bermakna: menyelesaikan buku favorit dalam sebulan, atau merawat tanaman mini. Tujuan kecil memberi rasa pencapaian yang menyejukkan."
+  },
+  {
+    "Context": "Keterampilan pernapasan diafragma membantu meningkatkan kapasitas paru‑paru.",
+    "Question": "Bagaimana cara melakukan napas diafragma dengan benar?",
+    "Answer": "Letakkan satu tangan di dada, satu di perut. Tarik napas lewat hidung selama 4 hitungan hingga tangan di perut terangkat, tahan 2, buang perlahan melalui mulut 6 hitungan."
+  },
+  {
+    "Context": "Ketidakpastian medis bisa menimbulkan overthinking sebelum tidur.",
+    "Question": "Bagaimana menghentikan pikiran negatif di malam hari?",
+    "Answer": "Tuliskan kekhawatiran di kertas ‘parking lot’ lalu simpan. Katakan pada diri, ‘Saya akan meninjau ini besok.’ Teknik ini memberi otak izin untuk beristirahat."
+  },
+  {
+    "Context": "Menentukan prioritas energi membantu menghindari kelelahan berlebihan.",
+    "Question": "Bagaimana menyusun prioritas ketika tenaga saya terbatas?",
+    "Answer": "Gunakan skala 1‑3: tugas penting‑mendesak (1), penting‑tidak mendesak (2), dan bisa ditunda (3). Fokus selesaikan level 1, delegasikan level 3 ke orang lain."
+  },
+  {
+    "Context": "Makanan seimbang kaya serat dan protein mendukung sistem imun.",
+    "Question": "Apa tips makan sehat meski nafsu makan menurun?",
+    "Answer": "Pilih porsi kecil tapi sering, kombinasi karbo kompleks, protein lembut (telur, tahu), dan sayur warna‑warni. Smoothie dingin bisa jadi alternatif mudah ditelan."
+  },
+  {
+    "Context": "Terapi seni (art therapy) membuka saluran ekspresi non‑verbal.",
+    "Question": "Saya tidak pandai menggambar. Apakah terapi seni tetap efektif?",
+    "Answer": "Tak perlu mahir. Coretan abstrak pun bermakna. Fokus pada proses, bukan hasil; biarkan warna mewakili perasaan yang sulit diucapkan."
+  },
+  {
+    "Context": "Membaca kisah inspiratif memberi teladan mengenai ketangguhan.",
+    "Question": "Buku seperti apa yang baik untuk menjaga semangat?",
+    "Answer": "Pilih memoar penyintas atau fiksi hangat yang berakhir optimis. Cerita ini memantik harapan bahwa rintangan dapat dihadapi dengan hati teguh."
+  },
+  {
+    "Context": "Humor ringan dapat mencairkan suasana tegang di ruang keluarga.",
+    "Question": "Bagaimana bercanda tanpa mengurangi keseriusan kondisi?",
+    "Answer": "Gunakan humor situasional yang tidak menyinggung penyakit. Misal, bercanda soal drama sinetron favorit. Tawa sehat—asal tetap menghormati perasaan semua pihak."
+  },
+  {
+    "Context": "Perasaan tidak berdaya sering muncul ketika harus bergantung pada alat medis.",
+    "Question": "Bagaimana tetap merasa mandiri dengan kondisi ini?",
+    "Answer": "Identifikasi hal yang masih bisa kamu kontrol—memilih pakaian, playlist musik, atau waktu kunjungan teman. Kendali kecil memberi rasa kemandirian yang penting."
+  },
+  {
+    "Context": "Teknologi tele‑health memudahkan konsultasi dokter tanpa ke rumah sakit.",
+    "Question": "Apakah konsultasi daring cukup efektif?",
+    "Answer": "Untuk evaluasi rutin atau tanya efek samping ringan, tele‑health sangat praktis. Namun gejala berat tetap perlu pemeriksaan langsung. Padukan keduanya sesuai saran dokter."
+  },
+  {
+    "Context": "Menyalakan lilin aromaterapi dengan wangi lavender dapat menenangkan sistem saraf.",
+    "Question": "Aroma apa yang paling baik untuk relaksasi?",
+    "Answer": "Lavender, chamomile, atau sandalwood dikenal menurunkan kecemasan. Pilih aroma favoritmu—keharuman yang disukai otak akan bekerja lebih efektif."
+  },
+  {
+    "Context": "Berbicara tentang kematian tidak mempercepat kematian, justru membantu mengurangi ketakutan.",
+    "Question": "Mengapa saya merasa tabuh membahas kepergian?",
+    "Answer": "Budaya kita sering menghindari topik itu. Padahal, diskusi terbuka memberi kejelasan dan kedamaian. Mulailah perlahan dengan orang tepercaya atau konselor."
+  },
+  {
+    "Context": "Teknik visualisasi positif membantu otak ‘merasakan’ ketenangan sebelum benar‑benar terjadi.",
+    "Question": "Bagaimana cara mempraktikkan visualisasi?",
+    "Answer": "Tutup mata, bayangkan tempat paling membuatmu damai—pantai, pegunungan. Rasakan angin, suara ombak. Latih 5 menit setiap hari."
+  },
+  {
+    "Context": "Asupan cahaya matahari pagi meningkatkan vitamin D dan mood.",
+    "Question": "Berapa lama sebaiknya berjemur setiap hari?",
+    "Answer": "Sekitar 10‑15 menit antara pukul 07‑09 dengan lengan terbuka tanpa tabir surya. Konsultasikan dokter bila kulit sensitif atau konsumsi obat tertentu."
+  },
+  {
+    "Context": "Peliharaan seperti kucing atau anjing dapat menurunkan tekanan darah pemiliknya.",
+    "Question": "Apakah hewan peliharaan cocok untuk pasien penyakit kronis?",
+    "Answer": "Jika alergi dan imunitas memungkinkan, kehadiran hewan memberi kasih tanpa syarat dan rutinitas positif. Pilih hewan berenergi tenang dan mudah dirawat."
+  },
+  {
+    "Context": "Self‑compassion berarti memperlakukan diri sendiri dengan kebaikan saat rapuh.",
+    "Question": "Bagaimana mempraktikkan self‑compassion setiap hari?",
+    "Answer": "Saat pikiran keras, tanya: ‘Andai sahabatku dalam situasi ini, apa yang akan kuberi tahu dia?’ Kemudian katakan hal yang sama pada dirimu."
+  },
+  {
+    "Context": "Memahami statistik penyakit bisa bermanfaat, tetapi terobsesi angka dapat menambah stres.",
+    "Question": "Perlukah saya membaca semua data kesembuhan di internet?",
+    "Answer": "Cukup pahami garis besar dari sumber tepercaya lalu fokus pada rencana pribadi. Ingat, setiap orang memiliki perjalanan kesehatan unik."
+  },
+  {
+    "Context": "Kegiatan kreatif seperti merajut menjaga tangan aktif dan pikiran fokus.",
+    "Question": "Saya ingin hobi baru yang bisa dilakukan di tempat tidur. Saran?",
+    "Answer": "Coba merajut, mewarnai mandala, atau puzzle sederhana. Aktivitas ini mudah dihentikan bila lelah dan memberi rasa pencapaian saat selesai."
+  },
+  {
+    "Context": "Penggunaan humor hitam harus sensitif terhadap batas kenyamanan orang lain.",
+    "Question": "Bolehkah saya bercanda soal penyakit saya sendiri?",
+    "Answer": "Jika itu membuatmu lebih ringan dan orang di sekitar nyaman, silakan. Pastikan tidak membuat mereka salah paham atau merasa tertolak ketika serius ingin membantu."
+  },
+  {
+    "Context": "Menjaga hidrasi penting untuk proses penyembuhan dan energi.",
+    "Question": "Saya sering lupa minum. Tips agar tetap terhidrasi?",
+    "Answer": "Gunakan botol 1 liter berpenanda waktu. Setiap tanda waktunya terlewati, jadikan alarm minum. Tambah irisan buah untuk rasa segar."
+  },
+  {
+    "Context": "Penting untuk membedakan rasa sakit fisik dan emosional agar penanganan tepat.",
+    "Question": "Bagaimana saya tahu ini nyeri fisik atau cemas yang terasa di tubuh?",
+    "Answer": "Catat kapan nyeri muncul, durasi, dan apa yang memicu. Jika membaik setelah teknik relaksasi, mungkin aspek emosional dominan. Konsultasikan dokter untuk konfirmasi."
+  },
+  {
+    "Context": "Menetapkan kata ‘aman’ dengan caregiver membantu saat butuh jeda.",
+    "Question": "Apa itu kata ‘aman’ dan bagaimana menggunakannya?",
+    "Answer": "Kata atau isyarat sederhana, misal ‘pause’, yang kamu ucapkan saat prosedur terasa terlalu berat sehingga tim tahu harus berhenti sejenak."
+  },
+  {
+    "Context": "Berbagi cerita via blog atau media sosial dapat menjadi terapi sekaligus memberi manfaat ke orang lain.",
+    "Question": "Saya khawatir curhat di internet malah menambah stres. Bagaimana menulis dengan aman?",
+    "Answer": "Tentukan batas privasi: hanya bagikan yang nyaman untukmu. Fokus pada pengalaman dan pelajaran, hindari detail medis sensitif yang bisa menimbulkan kecemasan."
+  },
+  {
+    "Context": "Memaafkan diri atas ‘hari buruk’ penting supaya semangat tetap terjaga.",
+    "Question": "Hari ini saya gagal mengikuti jadwal. Apa yang harus saya lakukan?",
+    "Answer": "Tarik napas, akui bahwa tubuhmu butuh istirahat ekstra. Evaluasi jadwal—mungkin perlu disesuaikan. Besok adalah kesempatan baru."
+  },
+  {
+    "Context": "Konselor profesional membantu memetakan emosi dan strategi coping.",
+    "Question": "Kapan sebaiknya saya menemui psikolog?",
+    "Answer": "Jika sedih, cemas, atau marah tak kunjung reda dalam dua minggu dan mengganggu aktivitas harian, itu sinyal kuat untuk mencari bantuan profesional."
+  },
+  {
+    "Context": "Menabung energi untuk kegiatan menyenangkan meningkatkan kualitas hidup.",
+    "Question": "Bagaimana caranya ‘energy budgeting’?",
+    "Answer": "Pakai metode sendok (spoon theory): bayangkan jumlah sendok energi harian. Pilih aktivitas prioritas dan sisakan sendok untuk sesuatu yang kamu sukai, misal menonton film favorit."
+  },
+  {
+    "Context": "Support virtual melalui grup online menjadi sumber informasi dan persahabatan.",
+    "Question": "Apakah grup daring seefektif tatap muka?",
+    "Answer": "Setiap orang berbeda. Grup online memberi fleksibilitas waktu dan anonim bila dibutuhkan, sedangkan tatap muka punya sentuhan personal. Kamu bisa coba keduanya."
+  }
+]

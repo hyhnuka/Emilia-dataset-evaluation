@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "Aku sering merasa cemas tanpa alasan yang jelas, ini kenapa ya?",
+        "Answer": "Rasa cemas yang muncul tanpa alasan jelas bisa jadi tanda gangguan kecemasan umum. Ini sering terjadi karena banyak faktor, seperti stres atau tekanan hidup. Coba ceritain lebih detail, apa yang biasanya bikin kamu cemas? Mungkin kita bisa cari tahu pemicunya bareng."
+    },
+    {
+        "Question": "Kadang aku merasa sedih banget, tapi nggak tahu kenapa. Normal nggak sih?",
+        "Answer": "Merasa sedih tanpa sebab yang jelas bisa jadi tanda depresi ringan atau suasana hati yang lagi nggak stabil. Banyak orang mengalami ini, tapi kalau sering terjadi, penting untuk perhatikan. Apa kamu punya waktu buat cerita lebih banyak? Aku di sini buat dengerin."
+    },
+    {
+        "Question": "Aku dengar orang bilang kalau orang kulit hitam lebih gampang kena gangguan jiwa. Bener nggak sih?",
+        "Answer": "Itu cuma mitos yang nggak berdasar. Data menunjukkan nggak ada bukti bahwa ras tertentu lebih rentan kena gangguan jiwa. Yang bikin beda biasanya adalah akses ke layanan kesehatan atau tekanan sosial. Kalau kamu khawatir soal kesehatan mental, ceritain aja, aku bantu kasih perspektif!"
+    },
+    {
+        "Question": "Aku takut banget sama laba-laba, sampe nggak bisa tidur kalau ingat. Ini wajar nggak?",
+        "Answer": "Kedengerannya kamu mungkin punya fobia spesifik, kayak takut berlebihan sama laba-laba. Ini cukup umum, tapi kalau sampe ganggu tidur, mungkin kita bisa cari cara buat ngatasinnya. Pernah coba teknik relaksasi atau ngobrol sama seseorang soal ini?"
+    },
+    {
+        "Question": "Aku suka minum alkohol buat ngatasin stres. Apa salah sih?",
+        "Answer": "Minum alkohol buat ngatasin stres sebenarnya nggak disarankan. Itu bisa bikin kamu ketergantungan dan malah nambah masalah baru. Mungkin kita bisa cari cara lain yang lebih sehat, kayak olahraga atau meditasi. Mau coba diskusiin apa yang bikin kamu stres?"
+    },
+    {
+        "Question": "Kenapa sih orang Latin sering dibilang punya masalah mental lebih banyak?",
+        "Answer": "Nggak bener kalau orang Latin dibilang punya masalah mental lebih banyak. Data menunjukkan bahwa tingkat gangguan mental di kelompok Latin bervariasi, tergantung subgrupnya, kayak orang Puerto Rico atau Kuba. Yang sering bikin beda adalah faktor sosial, seperti kemiskinan atau diskriminasi. Kalau kamu merasa tertekan, ceritain dong, aku dengerin."
+    },
+    {
+        "Question": "Aku merasa nggak punya energi buat ngapa-ngapain. Ini depresi nggak sih?",
+        "Answer": "Kehilangan energi bisa jadi salah satu tanda depresi, tapi bisa juga karena faktor lain, seperti kurang tidur atau stres. Penting buat cek apakah ini berlangsung lama atau ada gejala lain. Mau ceritain lebih banyak soal perasaanmu? Aku di sini buat bantu."
+    },
+    {
+        "Question": "Aku orang Asia, katanya orang Asia jarang punya masalah mental. Bener nggak?",
+        "Answer": "Itu stereotip yang salah. Orang Asia sama aja kayak kelompok lain, bisa punya masalah mental. Cuma, kadang data kurang lengkap karena banyak yang nggak lapor atau cari bantuan. Kalau kamu lagi ngerasa nggak oke, ceritain aja, nggak usah malu."
+    },
+    {
+        "Question": "Aku suka ngelamun jadi orang lain, itu gangguan mental nggak?",
+        "Answer": "Ngelamun jadi orang lain kadang-kadang normal, apalagi kalau cuma imajinasi kreatif. Tapi kalau ini sering banget dan bikin kamu susah bedain realitas, mungkin perlu diperhatikan. Ceritain dong, seberapa sering ini terjadi?"
+    },
+    {
+        "Question": "Aku dengar orang Indian Amerika sering bunuh diri. Kenapa gitu?",
+        "Answer": "Data memang menunjukkan tingkat bunuh diri di kalangan Indian Amerika lebih tinggi, seringkali karena faktor seperti kemiskinan, trauma sejarah, atau kurangnya akses ke layanan kesehatan. Tapi ini nggak berarti semua orang Indian begitu. Kalau kamu khawatir soal pikiran bunuh diri, tolong ceritain, aku di sini buat dengerin."
+    },
+    {
+        "Question": "Aku ngerasa orang-orang ngejauhin aku karena aku orang kulit hitam. Ini bikin aku stres banget.",
+        "Answer": "Aku sedih dengerin ini. Rasisme atau diskriminasi bisa bikin stres berat dan memengaruhi kesehatan mental. Kamu nggak salah merasa begitu. Mau ceritain lebih banyak? Mungkin kita bisa pikirin cara buat ngatasin tekanan ini bareng."
+    },
+    {
+        "Question": "Aku nggak suka ke dokter, tapi aku merasa ada yang salah sama pikiranku. Apa harus ke dokter?",
+        "Answer": "Kalau kamu merasa ada yang nggak beres sama pikiranmu, itu sinyal penting. Nggak harus langsung ke dokter, tapi ngobrol sama orang yang bisa dipercaya atau profesional bisa membantu. Mau ceritain apa yang lagi bikin kamu ngerasa nggak nyaman?"
+    },
+    {
+        "Question": "Aku kadang denger suara-suara, tapi nggak ada orang. Aku takut banget.",
+        "Answer": "Denger suara yang nggak ada sumbernya bisa jadi tanda sesuatu yang perlu diperhatikan, seperti gejala skizofrenia atau stres berat. Aku tahu ini pasti menakutkan. Penting banget buat ngobrol sama profesional soal ini. Mau aku bantu cari tahu langkah selanjutnya?"
+    },
+    {
+        "Question": "Aku merasa hidupku nggak ada artinya. Aku harus apa?",
+        "Answer": "Merasa hidup nggak ada artinya adalah perasaan yang berat, dan aku senang kamu ceritain ini. Ini bisa jadi tanda depresi atau kelelahan emosional. Coba ceritain apa yang bikin kamu merasa gitu, mungkin kita bisa cari langkah kecil buat bikin hari-harimu lebih ringan."
+    },
+    {
+        "Question": "Aku orang Puerto Rico, katanya orang kayak aku gampang depresi. Bener nggak?",
+        "Answer": "Data menunjukkan orang Puerto Rico kadang punya tingkat depresi lebih tinggi dibandingkan subgrup Latin lain, tapi ini bukan karena ‘gampang depresi’. Faktor seperti tekanan sosial atau segregasi bisa berperan. Tapi setiap orang beda. Kalau kamu lagi ngerasa nggak oke, ceritain, aku dengerin."
+    },
+    {
+        "Question": "Aku cuma pengen tidur seharian, nggak mau ngapa-ngapain. Ini kenapa?",
+        "Answer": "Keinginan buat tidur seharian bisa jadi tanda kamu lagi lelah banget, baik fisik maupun emosional, atau mungkin depresi. Coba perhatikan, ini sering terjadi nggak? Ceritain lebih banyak, mungkin kita bisa cari tahu apa yang lagi bikin kamu begini."
+    },
+    {
+        "Question": "Aku ngerasa nggak bisa kontrol emosi, gampang marah. Apa ini normal?",
+        "Answer": "Gampang marah atau susah kontrol emosi bisa terjadi karena stres, kurang tidur, atau mungkin ada masalah lain kayak gangguan kecemasan. Nggak selalu nggak normal, tapi kalau sering, mungkin perlu diperhatikan. Mau ceritain apa yang biasanya bikin kamu marah?"
+    },
+    {
+        "Question": "Aku kadang ngerasa orang-orang ngomongin aku di belakang. Aku paranoid nggak sih?",
+        "Answer": "Merasa orang lain ngomongin kamu bisa jadi tanda kecemasan atau paranoia, terutama kalau ini sering bikin kamu nggak nyaman. Coba ceritain, ini terjadi di situasi tertentu apa acak? Aku bantu kasih sudut pandang, deh."
+    },
+    {
+        "Question": "Aku ngerasa hidupku berantakan karena aku orang miskin. Apa bener kemiskinan bikin gila?",
+        "Answer": "Kemiskinan nggak bikin gila, tapi tekanan dari kemiskinan, kayak susah akses layanan kesehatan atau stres keuangan, bisa memengaruhi kesehatan mental. Aku tahu ini berat. Mau ceritain apa yang lagi bikin hidupmu terasa berantakan? Aku di sini."
+    },
+    {
+        "Question": "Aku nggak mau cerita ke siapa-siapa soal masalahku. Apa aku salah?",
+        "Answer": "Nggak salah kalau kamu belum siap cerita. Setiap orang punya waktu sendiri buat terbuka. Tapi nyimpan masalah sendirian kadang bikin lebih berat. Kalau kamu mau, aku di sini buat dengerin tanpa judging. Mau coba ceritain sedikit?"
+    }
+]

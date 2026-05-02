@@ -1,0 +1,82 @@
+ [
+    {
+      "Question": "Aku sering merasa takut tiba-tiba tanpa alasan yang jelas, itu kenapa ya?",
+      "Answer": "Itu bisa jadi tanda gangguan panik. Kadang, tubuh kita bereaksi seolah ada bahaya, padahal tidak ada. Sensasi ini sering datang dengan jantungan cepat atau sesak napas. Coba ceritain lebih detail, kapan biasanya ini terjadi?"
+    },
+    {
+      "Question": "Kalau aku panik di tempat ramai, apa aku harus hindari tempat itu selamanya?",
+      "Answer": "Nggak harus gitu. Itu mungkin tanda agorafobia, di mana kamu takut di situasi yang susah kabur atau minta bantuan. Menghindari bisa bikin ketakutan itu tambah kuat. Mungkin kita bisa mulai dengan latihan kecil, seperti pergi ke tempat ramai sebentar sambil atur napas?"
+    },
+    {
+      "Question": "Aku coba terapi perilaku kognitif, tapi kok cuma beberapa sesi nggak cukup?",
+      "Answer": "Iya, kadang terapi perilaku kognitif butuh waktu lebih dari beberapa sesi, apalagi untuk gangguan panik. Penelitian bilang 6-12 sesi bisa bikin perubahan besar, terutama kalau ada sesi penguatan setelahnya. Apa kamu mau coba lanjut atau diskusi sama terapis buat sesuaikan rencana?"
+    },
+    {
+      "Question": "Aku minum obat untuk panik, tapi kok takut ketergantungan?",
+      "Answer": "Wajar kok khawatir soal itu. Obat seperti benzodiazepin memang bisa bikin ketergantungan kalau dipakai lama. Penelitian menyarankan kombinasikan dengan terapi perilaku kognitif, biar kamu belajar atasi panik tanpa obat. Apa kamu sudah bicara sama dokter soal ini?"
+    },
+    {
+      "Question": "Kalau aku panik, aku suka telepon temen. Itu salah nggak sih?",
+      "Answer": "Nggak salah, tapi itu bisa jadi kebiasaan yang bikin kamu bergantung pada orang lain buat merasa aman. Coba deh catat dulu apa yang kamu rasakan saat panik, seperti di buku harian panik. Itu bisa bantu kamu kenali pemicunya dan atasi sendiri sedikit demi sedikit."
+    },
+    {
+      "Question": "Aku merasa nggak nyata waktu panik, itu normal nggak?",
+      "Answer": "Itu wajar kok di gangguan panik, namanya depersonalisasi atau derealisasi. Kamu merasa terpisah dari diri sendiri atau dunia sekitar. Coba fokus ke napas atau sentuh benda di sekitar buat grounding. Apa kamu sering merasa gitu?"
+    },
+    {
+      "Question": "Aku takut banget kalau panik lagi, apa yang bisa aku lakuin?",
+      "Answer": "Rasa takut kambuh itu biasa, namanya kecemasan antisipatoris. Coba latihan pernapasan dalam atau teknik relaksasi setiap hari. Juga, catat kapan kamu panik dan apa yang terjadi, biar kamu lihat polanya. Mau aku bantu buat rencana latihan sederhana?"
+    },
+    {
+      "Question": "Aku cuma minum obat tanpa terapi, itu cukup nggak?",
+      "Answer": "Obat bisa bantu kurangi gejala, tapi penelitian bilang terapi perilaku kognitif sering lebih tahan lama karena ajarin kamu cara atasi panik sendiri. Kalau cuma obat, risiko kambuh bisa lebih tinggi setelah berhenti. Apa kamu tertarik coba terapi juga?"
+    },
+    {
+      "Question": "Aku suka panik pas nyetir, apa aku harus berhenti nyetir?",
+      "Answer": "Nggak perlu berhenti, tapi aku ngerti itu bikin takut. Coba mulai dengan nyetir di jalan yang sepi dulu, sambil latihan napas. Ini namanya eksposur bertahap, biar kamu terbiasa. Apa ada rute yang bikin kamu lebih nyaman?"
+    },
+    {
+      "Question": "Aku dengar terapi bisa dilakukan dalam 6 sesi, bener nggak?",
+      "Answer": "Bener, ada penelitian yang bilang 6 sesi terapi perilaku kognitif bisa efektif, tapi hasilnya lebih kuat kalau ada sesi lanjutan. Setiap orang beda, jadi mungkin kamu butuh sedikit lebih atau kurang. Apa kamu sudah coba terapi atau baru rencana?"
+    },
+    {
+      "Question": "Aku takut panik di depan orang, apa yang harus aku lakukan?",
+      "Answer": "Itu bisa bikin stres, ya. Coba latihan eksposur interoceptif, misalnya sengaja bikin jantungan cepat dengan lari di tempat, biar kamu terbiasa sama sensasi itu. Mulai dari tempat yang aman dulu. Mau coba bareng aku bikin daftar latihan?"
+    },
+    {
+      "Question": "Aku merasa pasangan aku nggak ngerti kenapa aku panik, apa yang bisa aku lakukan?",
+      "Answer": "Itu bisa bikin frustrasi. Coba ajak pasangan kamu ikut sesi terapi atau jelasin pemicu panik kamu pake contoh sederhana. Penelitian bilang melibatkan orang terdekat bisa bantu hasil terapi. Apa kamu mau coba buat daftar hal yang bisa pasangan kamu bantu?"
+    },
+    {
+      "Question": "Aku suka minum alkohol biar nggak panik, itu boleh nggak?",
+      "Answer": "Aku ngerti kamu cari cara buat tenang, tapi alkohol sebenarnya bisa bikin panik lebih buruk dalam jangka panjang. Penelitian bilang itu cuma solusi sementara dan bisa ganggu terapi. Mungkin kita bisa cari cara lain, seperti teknik relaksasi? Apa kamu mau coba?"
+    },
+    {
+      "Question": "Aku takut anakku juga bakal panik kayak aku, apa yang bisa aku lakukan?",
+      "Answer": "Wajar khawatir soal anak. Ada faktor genetik di gangguan panik, tapi lingkungan juga penting. Coba ajarin anak teknik relaksasi sederhana atau dorong dia coba hal baru pelan-pelan. Apa kamu lihat tanda-tanda spesifik di anakmu?"
+    },
+    {
+      "Question": "Aku panik pas sendirian di rumah, apa yang bisa bantu?",
+      "Answer": "Itu bisa bikin cemas, ya. Coba buat rutinitas kecil di rumah, seperti dengar musik atau latihan napas. Juga, catat di buku panik apa yang kamu rasakan, biar kamu kenali pemicunya. Mau aku bantu buat daftar aktivitas yang bikin nyaman?"
+    },
+    {
+      "Question": "Aku pernah coba terapi, tapi kok nggak cocok, apa aku salah pilih terapi?",
+      "Answer": "Nggak selalu salah pilih, kadang butuh waktu buat nemuin terapis atau pendekatan yang pas. Penelitian bilang terapi perilaku kognitif efektif buat panik, tapi mungkin kamu perlu coba format lain, seperti sesi lebih pendek atau online. Apa yang nggak cocok dari terapi sebelumnya?"
+    },
+    {
+      "Question": "Aku suka lari dari situasi yang bikin panik, itu buruk nggak?",
+      "Answer": "Lari dari situasi itu wajar, tapi bisa bikin ketakutanmu tambah kuat karena kamu nggak belajar bahwa situasinya aman. Coba mulai dengan tetap di situasi itu sebentar, sambil atur napas. Apa situasi yang paling sering kamu hindari?"
+    },
+    {
+      "Question": "Aku merasa jantungan cepat itu tanda serangan jantung, bener nggak?",
+      "Answer": "Aku ngerti itu bikin takut. Jantungan cepat sering terjadi di gangguan panik dan bukan serangan jantung, tapi penting periksa ke dokter buat pastikan. Kalau sudah dicek, kita bisa latihan buat kenali sensasi ini sebagai bagian dari panik. Apa dokter sudah bilang apa-apa?"
+    },
+    {
+      "Question": "Aku coba catat panikku, tapi susah banget, apa aku salah cara?",
+      "Answer": "Nggak salah, kadang catat panik memang susah, apalagi kalau lagi cemas. Coba mulai dengan catat waktu, tempat, dan satu gejala aja, seperti ‘jantungan cepat’. Aku bisa bantu bikin format sederhana. Apa yang bikin susah buatmu?"
+    },
+    {
+      "Question": "Aku takut terapi nggak berhasil, apa yang harus aku pikirkan?",
+      "Answer": "Wajar kok takut gagal, tapi penelitian bilang terapi perilaku kognitif berhasil buat banyak orang dengan gangguan panik, apalagi kalau konsisten. Coba fokus ke langkah kecil, seperti ikut satu sesi dulu. Apa yang bikin kamu khawatir terapi nggak berhasil?"
+    }
+  ]

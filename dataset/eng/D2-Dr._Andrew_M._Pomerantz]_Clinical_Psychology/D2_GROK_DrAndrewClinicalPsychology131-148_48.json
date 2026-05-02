@@ -1,0 +1,242 @@
+[
+    {
+      "Context": "Psikolog klinis melakukan penelitian untuk mengetahui seberapa baik terapi mereka bekerja, sering disebut sebagai penelitian hasil terapi.",
+      "Question": "Aku lagi mikir buat coba terapi. Apa sih yang diteliti psikolog soal terapi?",
+      "Answer": "Keren, kamu lagi mikirin terapi! Psikolog klinis suka ngecek seberapa bagus terapi mereka lewat penelitian hasil terapi. Mereka pengen tahu apakah terapi beneran bantu orang kayak kamu merasa lebih baik, misalnya kurang stres atau cemas. Mereka lihat hal-hal kayak jenis terapi apa yang paling oke buat masalah tertentu. Ini bikin kamu bisa percaya terapi yang kamu coba udah dites. Apa yang lagi bikin kamu pengen coba terapi? Ceritain, yuk."
+    },
+    {
+      "Context": "Hans Eysenck pada tahun 1952 mempublikasikan ulasan yang mempertanyakan efektivitas psikoterapi, yang menjadi katalis untuk penelitian lebih lanjut.",
+      "Question": "Aku dengar dulu ada yang bilang terapi nggak works. Bener nggak sih?",
+      "Answer": "Pertanyaan bagus! Iya, di tahun 1952, Hans Eysenck bikin heboh dengan bilang psikoterapi belum tentu efektif. Tapi, itu malah jadi pemicu buat banyak penelitian yang akhirnya buktiin terapi beneran bantu banyak orang. Sekarang, kita tahu terapi bisa bikin perubahan besar, apalagi kalau disesuain sama masalahmu. Kalau kamu lagi mikirin terapi, apa yang bikin penasaran? Ceritain, dong."
+    },
+    {
+      "Context": "Penelitian efikasi mengukur keberhasilan terapi dalam pengaturan terkontrol dengan klien yang dipilih berdasarkan kriteria tertentu, sedangkan efektivitas mengukur keberhasilan di pengaturan klinis nyata.",
+      "Question": "Apa bedanya efikasi sama efektivitas di terapi?",
+      "Answer": "Aku ngerti kamu pengen tahu apa artinya istilah-istilah ini. Efikasi itu kayak ngetes terapi di ‘lab’, dengan klien yang dipilih ketat dan kondisi super terkontrol, biar tahu terapi itu works apa nggak. Efektivitas itu ngetes di dunia nyata, kayak di klinik atau praktek, dengan klien yang macem-macem. Jadi, efikasi lebih ketat, efektivitas lebih realistis. Ini bantu psikolog yakin terapi bisa bantu kamu. Apa yang lagi bikin penasaran soal terapi? Ceritain, yuk."
+    },
+    {
+      "Context": "Validitas internal mengacu pada sejauh mana perubahan dalam variabel dependen hanya disebabkan oleh variabel independen, sedangkan validitas eksternal mengacu pada generalisasi hasil.",
+      "Question": "Apa itu validitas internal sama eksternal? Penting nggak buat terapi?",
+      "Answer": "Validitas itu kayak jaminan kualitas penelitian terapi. Validitas internal artinya peneliti yakin banget terapi bikin perubahan, bukan karena hal lain. Validitas eksternal artinya hasil penelitian itu bisa dipake buat orang-orang di luar penelitian, kayak kamu di dunia nyata. Keduanya penting biar psikolog tahu terapi yang mereka kasih beneran works dan bisa bantu banyak orang. Kalau kamu lagi mikirin terapi, apa yang pengen kamu tanya? Ceritain, dong."
+    },
+    {
+      "Context": "Penelitian hasil terapi menghadapi pertanyaan seperti bagaimana, apa, kapan, dan siapa yang menilai hasil terapi.",
+      "Question": "Gimana psikolog tahu terapi aku berhasil apa nggak?",
+      "Answer": "Aku ngerti kamu pengen tahu terapi bakal works buatmu. Psikolog ngecek hasil terapi dengan macem-macem cara, kayak tanya langsung ke kamu lewat kuesioner, ngobrol, atau lihat perubahan perilakumu. Mereka juga mikir kapan ngeceknya—setelah terapi selesai atau pas lagi jalan. Plus, mereka nanya siapa yang nilai, kamu atau mereka sendiri. Ini bikin mereka yakin terapi bantu kamu. Apa yang lagi bikin khawatir soal terapi? Ceritain, yuk."
+    },
+    {
+      "Context": "Penelitian menunjukkan bahwa terapi berbasis bukti sering kali tidak melibatkan cukup partisipan minoritas, menurut Derald Wing Sue dan David Sue.",
+      "Question": "Aku dari budaya minoritas. Apa terapi bakal cocok buat aku?",
+      "Answer": "Aku ngerti kamu pengen terapi yang bener-bener pas. Derald Wing Sue dan David Sue bilang banyak penelitian terapi emang kurang melibatkan orang dari budaya minoritas, jadi kadang hasilnya lebih cocok buat kelompok mayoritas. Tapi, sekarang peneliti lagi usaha biar terapi works buat semua, termasuk budayamu. Coba tanya psikologmu soal pengalaman mereka sama budayamu. Apa yang lagi bikin khawatir? Ceritain, dong."
+    },
+    {
+      "Context": "Psikolog klinis melakukan penelitian untuk mengevaluasi dan meningkatkan metode penilaian yang mereka gunakan dengan klien.",
+      "Question": "Aku takut dites sama psikolog. Apa mereka ngecek tes itu bener apa nggak?",
+      "Answer": "Aku ngerti tes psikologi bisa bikin deg-degan. Kabar baiknya, psikolog klinis suka neliti tes-tes mereka biar yakin tes itu bener-bener akurat dan membantu. Mereka cek apakah tes cocok buat orang kayak kamu, termasuk budaya atau usiamu, dan bikin tes baru kalau perlu. Jadi, kamu bisa percaya hasilnya bakal ngegambarin kondisimu. Apa yang bikin takut soal tes? Ceritain, yuk."
+    },
+    {
+      "Context": "Penelitian tentang metode penilaian dapat melibatkan pengembangan alat baru, validasi, atau perbandingan alat penilaian.",
+      "Question": "Apa psikolog bikin tes baru buat orang kayak aku?",
+      "Answer": "Kamu pengen tes yang bener-bener pas, ya? Psikolog klinis sering neliti buat bikin tes baru atau ngecek tes lama biar cocok buat berbagai orang, termasuk kamu. Mereka tes validitasnya, bandingin sama tes lain, atau sesuain sama kebutuhan khusus, kayak usia atau budaya. Ini bikin tes lebih akurat buat ngerti kondisimu. Apa yang lagi bikin penasaran soal tes? Ceritain, dong."
+    },
+    {
+      "Context": "Penelitian diagnostik mengeksplorasi validitas atau reliabilitas konstruk diagnostik, hubungan antar gangguan, atau prevalensi gangguan.",
+      "Question": "Aku takut diagnosisku salah. Apa psikolog ngecek soal diagnosis?",
+      "Answer": "Aku ngerti kamu takut diagnosis nggak bener. Psikolog klinis banyak neliti soal diagnosis biar yakin label yang mereka kasih itu tepat. Mereka cek apakah kategori gangguan itu valid, hubungannya sama gangguan lain, atau seberapa sering muncul. Ini bantu mereka kasih diagnosis yang bener-bener ngegambarin kondisimu. Coba tanya psikologmu soal proses diagnosis. Apa yang bikin khawatir? Ceritain, yuk."
+    },
+    {
+      "Context": "Penelitian tentang isu profesional memeriksa aktivitas, kepercayaan, dan praktik psikolog klinis.",
+      "Question": "Apa psikolog ngecek apa yang mereka lakuin bener apa nggak?",
+      "Answer": "Pasti! Psikolog klinis nggak cuma bantu klien, mereka juga neliti kerja mereka sendiri, kayak apa yang mereka lakuin, apa yang mereka percaya, atau gimana praktik mereka. Misalnya, mereka cek apakah mereka ngobrolin budaya sama klien atau apa pendapat mereka soal isu tertentu. Ini bikin mereka kerja lebih baik buat kamu. Apa yang lagi bikin penasaran soal psikolog? Ceritain, dong."
+    },
+    {
+      "Context": "Penelitian tentang pelatihan mengeksplorasi filosofi pelatihan, kurikulum, atau hasil dari upaya pelatihan tertentu.",
+      "Question": "Aku pengen psikolog yang terlatih baik. Apa mereka dites pelatihannya?",
+      "Answer": "Kamu pengen psikolog yang bener-bener jago, ya. Psikolog klinis neliti pelatihan mereka, kayak cek kurikulum apa yang terbaik, cara ngajarin yang efektif, atau hasil pelatihan buat mahasiswa. Ini bikin mereka yakin psikolog baru siap bantu orang kayak kamu. Coba tanya psikologmu soal pelatihan mereka. Apa yang lagi bikin khawatir? Ceritain, yuk."
+    },
+    {
+      "Context": "Metode eksperimental melibatkan observasi, pengembangan hipotesis, pengujian empiris, dan modifikasi hipotesis berdasarkan hasil.",
+      "Question": "Gimana psikolog bikin penelitian yang bener?",
+      "Answer": "Psikolog punya cara jitu buat bikin penelitian. Mereka mulai dari ngeliat apa yang terjadi, bikin dugaan (hipotesis), tes dugaan itu dengan data, terus sesuain dugaan sama hasilnya. Ini metode eksperimental yang bikin penelitian mereka kuat dan bisa dipercaya. Jadi, kamu bisa yakin terapi atau tes yang mereka pake udah dites bener. Apa yang lagi bikin penasaran soal penelitian? Ceritain, dong."
+    },
+    {
+      "Context": "Desain kuasi-eksperimental digunakan ketika variabel tidak dapat sepenuhnya dikontrol, sering karena kendala etis atau praktis.",
+      "Question": "Apa itu kuasi-eksperimental? Penting nggak buat terapi?",
+      "Answer": "Kuasi-eksperimental itu kayak penelitian yang hampir kayak eksperimen beneran, tapi nggak bisa kontrol semuanya, misalnya karena nggak etis buat nahan terapi dari orang. Ini penting banget buat terapi soalnya bantu psikolog cek apa yang works di situasi nyata tanpa langgar etika. Jadi, mereka bisa kasih terapi yang bener-bener membantu kamu. Apa yang lagi bikin penasaran? Ceritain, yuk."
+    },
+    {
+      "Context": "Desain antar-kelompok membandingkan kelompok yang berbeda, sedangkan desain dalam-kelompok membandingkan kelompok yang sama pada waktu yang berbeda.",
+      "Question": "Apa bedanya desain antar-kelompok sama dalam-kelompok?",
+      "Answer": "Desain antar-kelompok itu kayak bandingin dua tim, misalnya satu tim dapet terapi, satu nggak, buat lihat bedanya. Desain dalam-kelompok cek tim yang sama, misalnya lihat mereka sebelum dan sesudah terapi. Keduanya bantu psikolog tahu terapi works apa nggak, tapi dari sudut beda. Ini bikin mereka bisa kasih terapi yang pas buat kamu. Apa yang lagi bikin penasaran soal terapi? Ceritain, dong."
+    },
+    {
+      "Context": "Desain analog melibatkan simulasi populasi atau situasi klinis ketika akses ke populasi target terbatas.",
+      "Question": "Apa itu desain analog? Bisa dipercaya nggak?",
+      "Answer": "Desain analog itu kayak bikin ‘tiruan’ situasi klinis, misalnya pake mahasiswa buat ngecek terapi kalau susah dapetin klien beneran. Ini berguna banget, tapi hasilnya nggak selalu 100% sama kayak di dunia nyata. Psikolog pake ini buat mulai neliti, terus cek lagi di setting asli. Jadi, bisa dipercaya, tapi harus hati-hati. Apa yang lagi bikin penasaran soal penelitian? Ceritain, yuk."
+    },
+    {
+      "Context": "Metode korelasional memeriksa hubungan antara dua atau lebih variabel tanpa menyiratkan kausalitas.",
+      "Question": "Aku dengar ada penelitian korelasional. Apa sih itu?",
+      "Answer": "Penelitian korelasional itu cek hubungan antara dua hal, kayak olahraga sama mood, tanpa bilang yang satu bikin yang lain. Misalnya, kalau olahraga banyak, mood bagus, tapi nggak bisa bilang olahraga yang bikin mood bagus. Ini bantu psikolog mulai ngerti apa yang nyambung, sebelum neliti lebih dalam. Keren, kan? Apa yang lagi bikin penasaran soal terapi? Ceritain, dong."
+    },
+    {
+      "Context": "Studi kasus melibatkan pemeriksaan mendalam terhadap satu orang atau situasi, sering digunakan dalam pendekatan idiografik.",
+      "Question": "Apa itu studi kasus? Berguna nggak buat terapi?",
+      "Answer": "Studi kasus itu kayak ngulik satu orang atau situasi bener-bener dalam, biar ngerti apa yang unik dari mereka. Ini bagus banget buat pendekatan idiografik, yang fokus ke apa yang spesial dari seseorang. Bisa kasih ide buat terapi atau pemicu penelitian lebih besar. Jadi, meski cuma satu orang, bisa bantu banyak. Apa yang lagi bikin penasaran soal terapi? Ceritain, yuk."
+    },
+    {
+      "Context": "Meta-analisis adalah metode statistik untuk menggabungkan hasil penelitian terpisah untuk menghasilkan estimasi efek keseluruhan, menurut Joseph A. Durlak.",
+      "Question": "Apa itu meta-analisis? Bikin terapi lebih yakin nggak?",
+      "Answer": "Meta-analisis itu kayak nyampurin banyak penelitian jadi satu kesimpulan besar, biar lebih kuat. Joseph A. Durlak bilang ini bantu psikolog lihat apa yang bener-bener works dari banyak studi. Buat terapi, ini bikin yakin banget soalnya nggak cuma ngandalin satu penelitian. Jadi, kamu bisa percaya terapi yang dipake udah dites banyak. Apa yang lagi bikin penasaran? Ceritain, dong."
+    },
+    {
+      "Context": "Desain cross-sectional menilai partisipan pada satu titik waktu, sedangkan desain longitudinal menekankan perubahan sepanjang waktu.",
+      "Question": "Apa bedanya cross-sectional sama longitudinal? Mana yang lebih baik?",
+      "Answer": "Cross-sectional itu cek orang di satu waktu, kayak foto. Longitudinal cek orang sama berulang-ulang, kayak video. Cross-sectional lebih gampang dan cepet, tapi longitudinal bisa lihat perubahan dari waktu ke waktu, misalnya mood kamu. Mana yang lebih baik tergantung pertanyaannya. Buat terapi, keduanya bantu psikolog ngerti kamu. Apa yang lagi bikin penasaran soal penelitian? Ceritain, yuk."
+    },
+    {
+      "Context": "Kode etik American Psychological Association (2002) mencakup standar seperti memperoleh persetujuan informed consent dari partisipan penelitian.",
+      "Question": "Aku takut ikut penelitian psikologi. Apa mereka jaga etika?",
+      "Answer": "Aku ngerti kamu takut soal penelitian. Tenang, kode etik American Psychological Association tahun 2002 bilang peneliti harus jaga etika, kayak kasih tahu dulu apa tujuan penelitian dan hak kamu buat nolak atau keluar kapan aja. Ini bikin kamu aman dan dihargai. Coba tanya peneliti soal detailnya. Apa yang bikin takut? Ceritain, yuk."
+    },
+    {
+      "Context": "Penelitian hasil terapi menghadapi pertanyaan seperti bagaimana, apa, kapan, dan siapa yang menilai hasil terapi.",
+      "Question": "Aku pengen terapi yang bener-bener works. Gimana psikolog ngeceknya?",
+      "Answer": "Kamu pengen terapi yang bener-bener membantu, ya. Psikolog ngecek hasil terapi dengan cara kayak kuesioner, ngobrol sama kamu, atau lihat perubahan perilaku. Mereka juga mikir kapan ngecek—pas terapi jalan atau setelah selesai—dan siapa yang nilai, kamu atau mereka. Ini bikin mereka yakin terapi pas buatmu. Apa yang lagi bikin khawatir soal terapi? Ceritain, yuk."
+    },
+    {
+      "Context": "Penelitian menunjukkan bahwa terapi berbasis bukti sering kali tidak melibatkan cukup partisipan minoritas, menurut Derald Wing Sue dan David Sue.",
+      "Question": "Aku orang Asia. Apa terapi yang dites bakal cocok buat aku?",
+      "Answer": "Aku ngerti kamu pengen terapi yang pas sama budayamu. Derald Wing Sue dan David Sue bilang banyak penelitian terapi kurang melibatkan orang Asia atau minoritas lain, jadi hasilnya kadang lebih cocok buat mayoritas. Tapi, sekarang ada usaha buat bikin terapi yang works buat semua. Coba tanya psikologmu soal pengalaman mereka sama budaya Asia. Apa yang lagi bikin khawatir? Ceritain, dong."
+    },
+    {
+      "Context": "Psikolog klinis melakukan penelitian untuk mengevaluasi dan meningkatkan metode penilaian yang mereka gunakan dengan klien.",
+      "Question": "Aku takut tes psikologi nggak akurat. Apa psikolog benerin tesnya?",
+      "Answer": "Aku ngerti tes bisa bikin cemas. Psikolog klinis sering neliti buat bikin tes mereka lebih akurat, kayak ngecek apakah tes cocok buat orang kayak kamu atau bikin tes baru yang lebih pas. Mereka juga cek apakah tes sama bagusnya di budaya atau bahasa yang beda. Jadi, kamu bisa percaya tes itu beneran ngegambarin kamu. Apa yang bikin takut soal tes? Ceritain, yuk."
+    },
+    {
+      "Context": "Penelitian diagnostik mengeksplorasi validitas atau reliabilitas konstruk diagnostik, hubungan antar gangguan, atau prevalensi gangguan.",
+      "Question": "Aku khawatir diagnosisku nggak tepat. Apa psikolog cek ini?",
+      "Answer": "Wajar banget kamu khawatir soal diagnosis. Psikolog klinis neliti buat pastiin diagnosis itu bener, kayak cek apakah kategori gangguan itu valid atau hubungannya sama gangguan lain. Mereka juga lihat seberapa sering gangguan itu muncul. Ini bantu mereka kasih diagnosis yang pas buat kondisimu. Coba tanya psikologmu soal prosesnya. Apa yang bikin khawatir? Ceritain, yuk."
+    },
+    {
+      "Context": "Penelitian tentang isu profesional memeriksa aktivitas, kepercayaan, dan praktik psikolog klinis.",
+      "Question": "Aku pengen tahu psikologku kerja bener apa nggak. Apa ada penelitian soal ini?",
+      "Answer": "Kamu pengen yakin psikologmu kerja baik, ya. Psikolog klinis sering neliti kerja mereka sendiri, kayak cek apa yang mereka lakuin, apa yang mereka percaya, atau gimana mereka bantu klien. Misalnya, mereka cek apakah mereka ngobrolin budaya sama klien. Ini bikin mereka terus ningkatin cara kerja biar bantu kamu lebih baik. Apa yang lagi bikin penasaran? Ceritain, dong."
+    },
+    {
+      "Context": "Penelitian tentang pelatihan mengeksplorasi filosofi pelatihan, kurikulum, atau hasil dari upaya pelatihan tertentu.",
+      "Question": "Aku pengen psikolog yang jago. Apa pelatihannya dites?",
+      "Answer": "Kamu pengen psikolog yang bener-bener top, ya. Psikolog klinis neliti pelatihan mereka, kayak cek kurikulum apa yang paling bagus atau apakah mahasiswa bener-bener siap bantu klien. Ini bikin mereka yakin psikolog baru punya skill buat bantu orang kayak kamu. Coba tanya psikologmu soal pelatihan mereka. Apa yang lagi bikin penasaran? Ceritain, yuk."
+    },
+    {
+      "Context": "Desain kuasi-eksperimental digunakan ketika variabel tidak dapat sepenuhnya dikontrol, sering karena kendala etis atau praktis.",
+      "Question": "Aku takut penelitian terapi nggak adil. Apa kuasi-eksperimental bantu?",
+      "Answer": "Aku ngerti kamu pengen penelitian yang adil. Desain kuasi-eksperimental dipake psikolog kalau mereka nggak bisa kontrol semua, misalnya karena nggak etis buat nggak kasih terapi ke seseorang. Ini bantu mereka cek terapi di situasi nyata tanpa langgar etika, jadi hasilnya lebih bisa dipercaya buat bantu kamu. Apa yang lagi bikin khawatir? Ceritain, yuk."
+    },
+    {
+      "Context": "Desain antar-kelompok membandingkan kelompok yang berbeda, sedangkan desain dalam-kelompok membandingkan kelompok yang sama pada waktu yang berbeda.",
+      "Question": "Aku pengen tahu terapi works. Desain mana yang lebih bagus?",
+      "Answer": "Kamu pengen yakin terapi beneran membantu, ya. Desain antar-kelompok bandingin kelompok beda, kayak yang dapet terapi sama yang nggak. Dalam-kelompok lihat perubahan di kelompok yang sama dari waktu ke waktu. Keduanya bagus, tergantung pertanyaannya. Antar-kelompok bagus buat bandingin, dalam-kelompok buat lihat progres. Ini bantu psikolog kasih terapi pas. Apa yang lagi bikin penasaran? Ceritain, dong."
+    },
+    {
+      "Context": "Desain analog melibatkan simulasi populasi atau situasi klinis ketika akses ke populasi target terbatas.",
+      "Question": "Aku takut penelitian analog nggak bener. Apa itu akurat?",
+      "Answer": "Aku ngerti kamu pengen penelitian yang bener. Desain analog itu kayak pake ‘tiruan’ klien, misalnya mahasiswa, kalau susah dapetin klien asli. Hasilnya mungkin nggak 100% sama, tapi ini bantu psikolog mulai ngerti apa yang works sebelum cek di dunia nyata. Jadi, berguna, tapi perlu dites lagi. Apa yang lagi bikin khawatir soal penelitian? Ceritain, yuk."
+    },
+    {
+      "Context": "Metode korelasional memeriksa hubungan antara dua atau lebih variabel tanpa menyiratkan kausalitas.",
+      "Question": "Aku dengar olahraga bantu mood. Itu dari penelitian korelasional?",
+      "Answer": "Iya, banyak penelitian bilang olahraga bantu mood, dan sering pake metode korelasional. Artinya, mereka cek kalau orang yang lebih banyak olahraga cenderung mood-nya lebih bagus, tapi nggak bilang olahraga pasti bikin mood bagus. Ini langkah awal sebelum penelitian lebih dalam. Keren, kan, gimana mereka mulai ngerti? Apa yang lagi bikin penasaran soal mood-mu? Ceritain, dong."
+    },
+    {
+      "Context": "Studi kasus melibatkan pemeriksaan mendalam terhadap satu orang atau situasi, sering digunakan dalam pendekatan idiografik.",
+      "Question": "Aku pengen terapi yang ngerti aku. Apa studi kasus bantu?",
+      "Answer": "Kamu pengen terapi yang bener-bener personal, ya. Studi kasus itu ngeliat satu orang, kayak kamu, secara mendalam, biar ngerti apa yang unik dari situasimu. Ini pendekatan idiografik yang bantu psikolog lihat apa yang works buat seseorang spesifik. Bisa bantu bikin terapi lebih pas buatmu. Apa yang lagi pengen kamu ceritain soal dirimu? Aku dengerin kok."
+    },
+    {
+      "Context": "Meta-analisis adalah metode statistik untuk menggabungkan hasil penelitian terpisah untuk menghasilkan estimasi efek keseluruhan, menurut Joseph A. Durlak.",
+      "Question": "Aku pengen terapi yang pasti works. Apa meta-analisis bantu?",
+      "Answer": "Kamu pengen terapi yang bener-bener terbukti, ya. Joseph A. Durlak bilang meta-analisis itu kayak ngumpulin banyak penelitian jadi satu kesimpulan kuat. Jadi, psikolog bisa lihat terapi mana yang beneran works dari banyak sudut. Ini bikin kamu bisa percaya terapi yang ditawarin udah dites berulang-ulang. Apa yang lagi bikin penasaran soal terapi? Ceritain, dong."
+    },
+    {
+      "Context": "Desain cross-sectional menilai partisipan pada satu titik waktu, sedangkan desain longitudinal menekankan perubahan sepanjang waktu.",
+      "Question": "Aku pengen tahu terapi works lama-lama. Desain apa yang dipake?",
+      "Answer": "Kamu pengen tahu terapi bantu dalam jangka panjang, ya. Buat itu, desain longitudinal lebih pas, soalnya cek perubahan dari waktu ke waktu, misalnya mood-mu selama setahun. Cross-sectional cuma lihat satu waktu, kayak snapshot. Longitudinal lebih detail buat lihat progres. Ini bantu psikolog kasih terapi yang tahan lama. Apa yang lagi bikin penasaran? Ceritain, yuk."
+    },
+    {
+      "Context": "Kode etik American Psychological Association (2002) mencakup standar seperti memperoleh persetujuan informed consent dari partisipan penelitian.",
+      "Question": "Aku pengen ikut penelitian terapi. Apa hakku dilindungi?",
+      "Answer": "Keren, kamu berani mikirin ikut penelitian! Kode etik American Psychological Association tahun 2002 bilang peneliti harus kasih tahu dulu apa tujuan penelitian, berapa lama, dan hak kamu buat nolak atau keluar kapan aja. Mereka juga nggak boleh maksa atau kasih hadiah berlebihan. Jadi, hakmu dilindungi. Coba tanya peneliti soal detailnya. Apa yang bikin khawatir? Ceritain, yuk."
+    },
+    {
+      "Context": "Penelitian hasil terapi menghadapi pertanyaan seperti bagaimana, apa, kapan, dan siapa yang menilai hasil terapi.",
+      "Question": "Aku takut terapi nggak works. Gimana psikolog tahu aku membaik?",
+      "Answer": "Aku ngerti kamu takut terapi nggak membantu. Psikolog ngecek apakah kamu membaik dengan cara kayak tanya pendapatmu lewat kuesioner, ngobrol, atau lihat perubahan perilaku. Mereka juga mikir kapan ngecek—selama terapi atau setelah selesai—dan siapa yang nilai, kamu atau mereka. Ini bikin mereka yakin terapi bantu kamu. Apa yang lagi bikin khawatir? Ceritain, yuk."
+    },
+    {
+      "Context": "Penelitian menunjukkan bahwa terapi berbasis bukti sering kali tidak melibatkan cukup partisipan minoritas, menurut Derald Wing Sue dan David Sue.",
+      "Question": "Aku Latino. Apa terapi yang diteliti bakal cocok buat budayaku?",
+      "Answer": "Aku ngerti kamu pengen terapi yang nyambung sama budaya Latino-mu. Derald Wing Sue dan David Sue bilang banyak penelitian terapi kurang melibatkan orang Latino atau minoritas lain, jadi hasilnya kadang lebih cocok buat mayoritas. Tapi, sekarang peneliti lagi usaha bikin terapi yang works buat semua. Coba tanya psikologmu soal pengalaman mereka sama budaya Latino. Apa yang bikin khawatir? Ceritain, dong."
+    },
+    {
+      "Context": "Psikolog klinis melakukan penelitian untuk mengevaluasi dan meningkatkan metode penilaian yang mereka gunakan dengan klien.",
+      "Question": "Aku takut tes psikologi nggak ngerti budayaku. Apa psikolog cek ini?",
+      "Answer": "Aku ngerti kamu takut tes nggak pas sama budayamu. Psikolog klinis sering neliti tes mereka biar akurat buat berbagai budaya, kayak cek apakah tes sama bagusnya di bahasa atau latar belakang yang beda. Mereka juga bikin tes baru kalau perlu. Jadi, kamu bisa percaya tes itu beneran ngegambarin kondisimu. Apa yang bikin takut soal tes? Ceritain, yuk."
+    },
+    {
+      "Context": "Penelitian diagnostik mengeksplorasi validitas atau reliabilitas konstruk diagnostik, hubungan antar gangguan, atau prevalensi gangguan.",
+      "Question": "Aku takut dikira punya gangguan yang salah. Apa psikolog teliti ini?",
+      "Answer": "Aku ngerti kekhawatiranmu soal diagnosis. Psikolog klinis neliti soal diagnosis, kayak cek apakah kategori gangguan itu bener-bener valid atau hubungannya sama gangguan lain. Mereka juga lihat seberapa sering gangguan itu muncul biar nggak salah label. Ini bantu mereka kasih diagnosis yang pas buatmu. Coba tanya psikologmu soal prosesnya. Apa yang bikin khawatir? Ceritain, yuk."
+    },
+    {
+      "Context": "Penelitian tentang isu profesional memeriksa aktivitas, kepercayaan, dan praktik psikolog klinis.",
+      "Question": "Aku pengen psikolog yang ngerti budaya. Apa mereka teliti soal ini?",
+      "Answer": "Kamu pengen psikolog yang bener-bener ngerti budayamu, ya. Psikolog klinis neliti praktik mereka, termasuk apakah mereka ngobrolin budaya sama klien atau gimana mereka bantu orang dari latar belakang beda. Ini bantu mereka ningkatin cara kerja biar lebih pas buat kamu. Coba tanya psikologmu soal pengalaman mereka sama budayamu. Apa yang bikin penasaran? Ceritain, dong."
+    },
+    {
+      "Context": "Penelitian tentang pelatihan mengeksplorasi filosofi pelatihan, kurikulum, atau hasil dari upaya pelatihan tertentu.",
+      "Question": "Aku pengen psikolog yang dilatih baik soal budaya. Apa ini dites?",
+      "Answer": "Kamu pengen psikolog yang jago ngerti budaya, ya. Psikolog klinis neliti pelatihan mereka, kayak cek kurikulum apa yang bikin mereka siap bantu orang dari budaya beda atau apakah pelatihan budaya works. Ini bikin mereka yakin psikolog baru punya skill buat bantu kamu. Coba tanya psikologmu soal pelatihan budaya mereka. Apa yang bikin penasaran? Ceritain, yuk."
+    },
+    {
+      "Context": "Desain kuasi-eksperimental digunakan ketika variabel tidak dapat sepenuhnya dikontrol, sering karena kendala etis atau praktis.",
+      "Question": "Aku pengen penelitian terapi yang nggak nyakitin orang. Apa kuasi-eksperimental aman?",
+      "Answer": "Aku ngerti kamu pengen penelitian yang aman. Desain kuasi-eksperimental dipake psikolog biar nggak langgar etika, kayak nggak nahan terapi dari orang yang butuh. Ini bantu mereka cek terapi di situasi nyata dengan hati-hati, jadi hasilnya berguna tanpa nyakitin. Jadi, aman kok. Apa yang lagi bikin khawatir soal penelitian? Ceritain, yuk."
+    },
+    {
+      "Context": "Desain antar-kelompok membandingkan kelompok yang berbeda, sedangkan desain dalam-kelompok membandingkan kelompok yang sama pada waktu yang berbeda.",
+      "Question": "Aku pengen tahu terapi bantu aku apa nggak. Desain apa yang dipake?",
+      "Answer": "Kamu pengen yakin terapi works, ya. Psikolog bisa pake desain antar-kelompok buat bandingin kamu yang dapet terapi sama yang nggak, atau desain dalam-kelompok buat lihat perubahanmu dari waktu ke waktu. Keduanya bantu mereka ngerti apa terapi bantu kamu. Coba tanya psikologmu soal penelitian yang mereka pake. Apa yang lagi bikin penasaran? Ceritain, dong."
+    },
+    {
+      "Context": "Desain analog melibatkan simulasi populasi atau situasi klinis ketika akses ke populasi target terbatas.",
+      "Question": "Aku takut penelitian analog nggak ngegambarin aku. Apa itu berguna?",
+      "Answer": "Aku ngerti kamu pengen penelitian yang bener-bener pas. Desain analog itu pake ‘tiruan’ klien, kayak orang yang mirip kondisimu, kalau susah dapetin klien asli. Ini berguna buat mulai ngerti apa yang works, meski hasilnya perlu dites lagi di dunia nyata. Jadi, bisa bantu, tapi hati-hati. Apa yang lagi bikin khawatir soal penelitian? Ceritain, yuk."
+    },
+    {
+      "Context": "Metode korelasional memeriksa hubungan antara dua atau lebih variabel tanpa menyiratkan kausalitas.",
+      "Question": "Aku dengar stres bikin depresi. Itu dari penelitian korelasional?",
+      "Answer": "Iya, banyak penelitian bilang stres sama depresi berhubungan, dan sering pake metode korelasional. Artinya, mereka lihat kalau stres tinggi, depresi cenderung muncul, tapi nggak bilang stres pasti bikin depresi. Ini langkah awal buat ngerti hubungannya. Keren, kan, gimana mereka mulai nyambungin? Apa yang lagi bikin penasaran soal stresmu? Ceritain, dong."
+    },
+    {
+      "Context": "Studi kasus melibatkan pemeriksaan mendalam terhadap satu orang atau situasi, sering digunakan dalam pendekatan idiografik.",
+      "Question": "Aku pengen terapi yang personal banget. Apa studi kasus bantu psikolog?",
+      "Answer": "Kamu pengen terapi yang bener-bener ngerti kamu, ya. Studi kasus itu ngeliat satu orang secara mendalam, kayak cerita hidupmu, biar psikolog ngerti apa yang unik dari situasimu. Ini pendekatan idiografik yang bantu mereka bikin terapi yang pas banget buatmu. Bisa banget bantu! Apa yang lagi pengen kamu ceritain soal dirimu? Aku dengerin kok."
+    },
+    {
+      "Context": "Meta-analisis adalah metode statistik untuk menggabungkan hasil penelitian terpisah untuk menghasilkan estimasi efek keseluruhan, menurut Joseph A. Durlak.",
+      "Question": "Aku takut terapi nggak terbukti. Apa meta-analisis bikin yakin?",
+      "Answer": "Aku ngerti kamu pengen terapi yang bener-bener terbukti. Joseph A. Durlak bilang meta-analisis itu ngumpulin banyak penelitian biar kasih gambaran yang kuat soal apa yang works. Jadi, kalau terapi udah lolos meta-analisis, itu artinya udah dites berulang-ulang. Ini bikin kamu bisa percaya terapi itu solid. Apa yang lagi bikin khawatir? Ceritain, yuk."
+    },
+    {
+      "Context": "Desain cross-sectional menilai partisipan pada satu titik waktu, sedangkan desain longitudinal menekankan perubahan sepanjang waktu.",
+      "Question": "Aku pengen terapi yang bantu jangka panjang. Apa longitudinal bantu?",
+      "Answer": "Kamu pengen terapi yang bener-bener tahan lama, ya. Desain longitudinal pas banget, soalnya cek perubahan dari waktu ke waktu, misalnya mood-mu selama beberapa tahun. Ini beda sama cross-sectional yang cuma lihat satu waktu. Longitudinal bantu psikolog tahu terapi works dalam jangka panjang. Coba tanya psikologmu soal ini. Apa yang lagi bikin penasaran? Ceritain, yuk."
+    },
+    {
+      "Context": "Kode etik American Psychological Association (2002) mencakup standar seperti memperoleh persetujuan informed consent dari partisipan penelitian.",
+      "Question": "Aku takut penelitian nggak etis. Apa psikolog ikut aturan?",
+      "Answer": "Aku ngerti kamu takut soal etika penelitian. Kode etik American Psychological Association tahun 2002 bilang peneliti harus ikut aturan ketat, kayak kasih tahu dulu apa yang bakal kamu lakuin, kasih hak buat nolak, dan nggak boleh bohongin data. Ini bikin kamu aman sebagai partisipan. Coba tanya peneliti soal aturannya. Apa yang bikin khawatir? Ceritain, yuk."
+    }
+]

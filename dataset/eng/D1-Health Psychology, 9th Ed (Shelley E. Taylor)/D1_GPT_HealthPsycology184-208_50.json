@@ -1,0 +1,252 @@
+[
+  {
+    "Context": "Komunikasi pasien-dokter dipengaruhi oleh setting klinik yang sibuk; dokter rata‑rata memotong penjelasan pasien setelah 23 detik. Hal ini meningkatkan risiko salah tafsir gejala.",
+    "Question": "Dok, aku sering merasa belum sempat cerita lengkap. Bagaimana caranya agar keluhanku tersampaikan sebelum waktunya habis?",
+    "Answer": "Coba catat poin utama gejala dan urutkan prioritas sebelum masuk ruang periksa. Saat konsultasi, sampaikan ringkasan itu lebih dulu. Jika dokter mulai memotong, katakan dengan sopan, “Dok, ada satu gejala lagi yang penting.” Kebanyakan dokter akan memberi ruang jika kamu menunjukkan sudah menyiapkan catatan singkat."
+  },
+  {
+    "Context": "Penggunaan jargon medis oleh tenaga kesehatan membuat pasien kesulitan memahami diagnosis dan terapi, sehingga menurunkan kepatuhan.",
+    "Question": "Aku sering bingung dengan istilah medis. Apa yang sebaiknya kulakukan agar lebih paham?",
+    "Answer": "Setelah dokter menjelaskan, ulangi dengan kata‑katamu sendiri dan minta klarifikasi: “Jadi maksudnya..., benar ya dok?” Cara ini membantu dokter menilai pemahamanmu dan mengoreksi bila perlu. Jangan ragu minta penjelasan sederhana atau materi tertulis."
+  },
+  {
+    "Context": "Perawatan managed care terkadang menyebabkan pasien merasa dipindah‑pindah antar spesialis tanpa relasi personal yang hangat.",
+    "Question": "Aku lelah harus cerita ulang ke dokter berbeda. Bagaimana menjaga kesinambungan informasi medis?",
+    "Answer": "Minta salinan ringkasan kunjungan atau hasil lab setiap kontrol dan simpan di satu folder (fisik atau digital). Bawa dokumen itu ke konsultasi berikutnya. Kamu juga bisa menuliskan 'timeline kesehatan' singkat agar dokter baru cepat memahami riwayatmu."
+  },
+  {
+    "Context": "Kepatuhan meningkat ketika instruksi tertulis, bebas jargon, dan pasien diminta mengulang kembali langkah pengobatan.",
+    "Question": "Bagaimana strategi praktis agar aku tidak lupa minum obat dan kontrol?",
+    "Answer": "Gunakan pill‑box harian, alarm ponsel, dan tempel catatan singkat (mis. dosis & jam) di tempat yang sering kamu lihat. Setelah konsultasi, tulis di kalender jadwal kontrol berikutnya dan aktifkan pengingat seminggu sebelumnya."
+  },
+  {
+    "Context": "Delay behavior terdiri atas appraisal, illness, behavioral, dan medical delay; sering kali pasien terlambat ke dokter karena meremehkan gejala.",
+    "Question": "Aku suka menunda periksa meski gejala tak hilang. Bagaimana mengurangi kebiasaan ini?",
+    "Answer": "Buat aturan 3×24 jam: jika keluhan tidak membaik dalam tiga hari, segera booking janji. Simpan kontak klinik di ponsel agar proses buat janji hanya butuh dua menit—semakin mudah akses, makin kecil kemungkinan menunda."
+  },
+  {
+    "Context": "Kepatuhan 90% tercapai saat instruksi bersifat medis (minum obat) namun turun menjadi 66% jika menyangkut perubahan sosial/psikologis.",
+    "Question": "Kenapa sulit menerapkan saran 'hindari stres' dibanding minum obat?",
+    "Answer": "Menghindari stres butuh perubahan kebiasaan dan sering tak terasa manfaat instannya. Pecah target: pilih satu pemicu stres untuk diubah per minggu, contoh: setel mode 'jangan ganggu' ponsel saat tidur. Rayakan keberhasilan kecil agar otak termotivasi."
+  },
+  {
+    "Context": "Burnout pada tenaga medis ditandai kelelahan emosi, sinisme, dan rendahnya rasa efektif; berdampak pada kualitas layanan.",
+    "Question": "Sebagai perawat, aku mulai merasa lelah dan sinis. Langkah apa yang bisa kuambil?",
+    "Answer": "Luangkan micro‑break dua menit setiap beberapa pasien untuk napas dalam. Manfaatkan kelompok dukungan rekan sejawat untuk berbagi beban emosional. Bicarakan pada supervisor tentang rotasi atau cuti jika gejala burnout makin berat."
+  },
+  {
+    "Context": "Rumah sakit memiliki tujuan cure, care, dan core yang kadang bertabrakan; pasien dapat merasa proses 'cure' menekan sisi 'care'.",
+    "Question": "Aku merasa dokter fokus obat, bukan emosiku. Bagaimana menyuarakan kebutuhan dukungan emosional?",
+    "Answer": "Saat visite, sampaikan langsung: “Dok, selain obat saya butuh tips mengelola kecemasan.” Jika waktu dokter terbatas, minta dirujuk ke psikolog klinis atau perawat konselor di RS untuk sesi edukasi tambahan."
+  },
+  {
+    "Context": "Intervensi video edukasi sebelum operasi terbukti menurunkan kecemasan dan mempercepat pemulihan pasien CABG.",
+    "Question": "Aku akan operasi bypass. Apakah menonton video persiapan benar‑benar membantu?",
+    "Answer": "Ya, riset menunjukkan video yang memuat testimoni pasien pulih dapat meningkatkan rasa siap dan mempercepat keluar dari RS. Pilih sumber resmi rumah sakit atau asosiasi jantung agar informasinya akurat."
+  },
+  {
+    "Context": "Pendekatan coping moderat (tidak terlalu takut, tidak terlalu cuek) paling efektif dalam adaptasi pasca operasi.",
+    "Question": "Bagaimana menyeimbangkan rasa takut agar tidak berlebihan tapi tetap waspada?",
+    "Answer": "Tulis dua kolom: 'fakta medis' vs 'ketakutan'. Bandingkan—mana kekhawatiran yang tidak berdasar data? Fokus pada fakta dan strategi pemulihan yang bisa kamu kendalikan, seperti latihan napas dan mobilisasi dini."
+  },
+  {
+    "Context": "Anak yang dirawat dapat mengalami regresi, mimpi buruk, dan kecemasan; persiapan pra‑op lewat film modeling menurunkan stres.",
+    "Question": "Anakku 6 tahun akan dioperasi. Cara apa yang efektif mempersiapkannya?",
+    "Answer": "Tonton bersama video animasi tentang proses operasi anak, lalu lakukan role‑play dokter‑pasien dengan boneka. Jelaskan jadwal kunjunganmu agar ia tahu kapan Mama akan ada di sampingnya."
+  },
+  {
+    "Context": "Orang tua tidak selalu menenangkan; kecemasan orang tua saat prosedur invasif bisa menular ke anak.",
+    "Question": "Apakah aku harus tetap di ruangan saat anak diambil darah?",
+    "Answer": "Jika kamu merasa akan panik, lebih baik tunjuk pendamping lain yang tenang. Anak menangkap ekspresi wajahmu. Persiapkan ucapan penyemangat singkat sebelum prosedur dan sambut ia dengan pelukan setelah selesai."
+  },
+  {
+    "Context": "Hospital play therapy membantu anak mengekspresikan rasa takut melalui aktivitas bermain terstruktur.",
+    "Question": "Apa bentuk permainan yang cocok untuk menenangkan anak di bangsal?",
+    "Answer": "Gunakan kotak 'dokter‑dokteran' agar ia 'memeriksa' boneka, sambil bercerita fungsi stetoskop. Ini memberi rasa kontrol dan familiar menjaga emosi tetap stabil."
+  },
+  {
+    "Context": "Hak kunjungan orang tua 24 jam meningkatkan penyesuaian psikologis anak.",
+    "Question": "Bagaimana memanfaatkan hak tersebut agar tidak mengganggu perawatan?",
+    "Answer": "Buat jadwal bergantian dengan pasangan agar kamu cukup istirahat. Saat staf melakukan tindakan, tetap di samping ranjang tetapi biarkan tim bekerja; hadirnya wajah dikenal sudah cukup menenangkan anak."
+  },
+  {
+    "Context": "Kecemasan pra operasi pada anak menurun jika informasi diberikan beberapa hari sebelumnya, tidak mendadak.",
+    "Question": "Kapan waktu ideal menjelaskan kepada anak tentang operasi?",
+    "Answer": "Umumnya 3‑5 hari sebelum hari H bagi usia sekolah dasar. Gunakan bahasa sederhana dan jujur tentang rasa 'sedikit tidak nyaman' yang akan cepat hilang, serta hal menyenangkan setelah pulih."
+  },
+  {
+    "Context": "Intervensi coping skills seperti self‑talk positif pada anak menekan perilaku maladaptif pasca rawat.",
+    "Question": "Contoh self‑talk yang bisa diajarkan?",
+    "Answer": "Ajari kalimat: “Aku kuat, napas pelan, sebentar lagi selesai.” Latih bersama dengan isyarat tangan seperti mengepalkan jempol, supaya ia ingat mantra saat prosedur."
+  },
+  {
+    "Context": "Rooming‑in membuat anak merasa aman dan mempercepat penyembuhan namun orang tua juga harus menjaga energi.",
+    "Question": "Tips menjaga stamina saat harus menginap di RS mendampingi anak?",
+    "Answer": "Gunakan kursi lipat ergonomis dan bantal leher. Atur shift istirahat bergantian, bawa cemilan sehat tinggi protein, dan lakukan peregangan ringan di koridor tiap beberapa jam."
+  },
+  {
+    "Context": "Tenaga kesehatan terkadang kekurangan waktu untuk interaksi emosional; keberadaan relawan clown doctor terbukti menurunkan stress anak.",
+    "Question": "Adakah cara meminta layanan badut medis di RS?",
+    "Answer": "Tanyakan ke bagian Humas atau psikolog anak; beberapa RS bekerjasama dengan komunitas clown doctor. Jadwal kunjungan biasanya rutin di hari tertentu."
+  },
+  {
+    "Context": "Model coping aktif pada teman sekamar pasca operasi membantu pasien meniru strategi pemulihan.",
+    "Question": "Apakah penempatan sekamar dengan pasien yang sudah sembuh lebih dulu membantu anakku?",
+    "Answer": "Ya, melihat teman sebaya yang sudah makan sendiri dan bermain ringan memberi harapan. Diskusikan dengan kepala perawat kemungkinan pengaturan kamar sesuai kondisi."
+  },
+  {
+    "Context": "Anak pra remaja bisa malu harus dibantu perawat; komunikasi empatik mencegah konflik.",
+    "Question": "Bagaimana memberitahu perawat bahwa anak ingin lebih privasi saat ganti pakaian?",
+    "Answer": "Sampaikan langsung pada perawat: “Anak saya merasa lebih nyaman jika hanya satu petugas perempuan membantu saat ganti pakaian.” Perawat biasanya akan menghormati permintaan tersebut."
+  },
+  {
+    "Context": "Dua pertiga orang dewasa menggunakan Complementary and Alternative Medicine (CAM); herbal, meditasi, dan pijat populer.",
+    "Question": "Apakah aman menggabungkan jamu herbal dengan obat resep psikiatri?",
+    "Answer": "Konsultasikan selalu sebelum menambah herbal. Beberapa, seperti St. John’s Wort, dapat menurunkan efektivitas antidepresan SSRI dan meningkatkan risiko serotonin syndrome. Catat semua suplemen untuk diberikan ke dokter."
+  },
+  {
+    "Context": "Dietary supplement sering kali dikonsumsi sebagai 'asuransi kesehatan', padahal bukti manfaat pada orang sehat terbatas.",
+    "Question": "Aku rutin minum multivitamin agar tidak gampang stres. Apakah perlu?",
+    "Answer": "Jika pola makanmu sudah beragam (buah, sayur, protein), multivitamin belum tentu memberi ekstra manfaat. Fokus pada tidur cukup, olahraga, dan teknik relaksasi—strategi ini lebih terbukti menurunkan stres."
+  },
+  {
+    "Context": "Meditasi mindfulness efektif menekan kecemasan dan memperbaiki kualitas tidur pada beberapa studi.",
+    "Question": "Bagaimana memulai mindfulness untuk pemula?",
+    "Answer": "Mulai 5 menit sehari: duduk tegak, fokus napas masuk‑keluar, saat pikiran melantur cukup sadari dan kembalikan ke napas. Naikkan durasi perlahan. Gunakan aplikasi berbahasa Indonesia untuk panduan suara."
+  },
+  {
+    "Context": "Yoga mengombinasikan pernapasan, postur, dan meditasi; baik untuk meredakan fatigue pada survivor kanker payudara.",
+    "Question": "Aku belum pernah yoga. Pose apa yang aman agar tidak cedera?",
+    "Answer": "Ikuti kelas pemula, fokus pada pose dasar seperti mountain, child, dan cat‑cow. Dengarkan tubuh; jika timbul sakit tajam, hentikan. Konsultasi instruktur tentang kondisi kesehatanmu sebelum sesi."
+  },
+  {
+    "Context": "Akupunktur efektif untuk beberapa nyeri akut, namun bukti untuk nyeri kronis masih terbatas.",
+    "Question": "Apakah akupunktur bisa menggantikan analgesik kronis punggungku?",
+    "Answer": "Akupunktur dapat menjadi terapi tambahan. Diskusikan rencana taper obat dengan dokter karena penghentian mendadak analgesik bisa berbahaya. Kombinasikan dengan fisioterapi dan latihan inti."
+  },
+  {
+    "Context": "Guided imagery membantu pasien kanker mengelola kecemasan dengan membayangkan skenario menenangkan atau 'berperang' melawan sel jahat.",
+    "Question": "Bagaimana teknik guided imagery sederhana di rumah?",
+    "Answer": "Rebah nyaman, pejam mata. Bayangkan tempat damai (pantai atau taman). Fokus detail—suara ombak, aroma laut. Tarik napas perlahan, hembuskan ketegangan bersama bayangan arus air membawa pergi beban."
+  },
+  {
+    "Context": "Hipnosis sendiri setara efektivitasnya dengan relaksasi otot progresif untuk nyeri kronis.",
+    "Question": "Apakah self‑hypnosis sulit dipelajari?",
+    "Answer": "Tidak. Rekam skrip suara yang memandu relaksasi dan sugesti positif, lalu dengarkan setiap hari. Pilih kalimat sederhana seperti “Tubuhku rileks, punggungku ringan”. Konsistensi kunci keberhasilan."
+  },
+  {
+    "Context": "Chiropractic umum dipakai untuk nyeri punggung, namun bukti ilmiah masih terbatas.",
+    "Question": "Apa yang harus ditanyakan sebelum sesi chiropractic?",
+    "Answer": "Pastikan praktisi bersertifikat, tanyakan rencana perawatan, risiko manipulasi, dan kapan perbaikan diharapkan. Bila ada riwayat osteoporosis atau cedera saraf, konsultasi dokter terlebih dahulu."
+  },
+  {
+    "Context": "Massage terbukti membantu nyeri punggung persisten dalam beberapa studi kecil.",
+    "Question": "Berapa frekuensi pijat yang ideal untuk meredakan ketegangan kerja?",
+    "Answer": "Banyak klien merasakan manfaat dengan sesi 60 menit tiap 2‑3 minggu. Jika ketegangan tinggi, minggu pertama bisa 2 sesi lebih singkat kemudian perawatan berkala."
+  },
+  {
+    "Context": "Penggunaan CAM meningkat ketika akses layanan konvensional terbatas dan biaya tinggi.",
+    "Question": "Aku susah booking psikiater. Bisakah meditasi dijadikan penanganan utama dulu?",
+    "Answer": "Meditasi, journaling, dan olahraga dapat membantu gejala ringan. Namun jika muncul pikiran bunuh diri, gangguan fungsi harian, atau insomnia berat, segera cari bantuan profesional bahkan jika harus antre; nyawa lebih penting."
+  },
+  {
+    "Context": "Placebo adalah prosedur yang memberi efek karena intensi terapeutik, bukan kandungan aktif; ekspektasi positif dapat memicu pelepasan endorfin.",
+    "Question": "Apakah berarti kekuatan pikiran bisa menyembuhkan semua penyakit?",
+    "Answer": "Pikiran positif membantu tubuh rileks dan mendukung imun, tapi tidak menggantikan perawatan medis. Gunakan sugesti positif sebagai pelengkap, bukan pengganti terapi dokter."
+  },
+  {
+    "Context": "Perilaku penyedia layanan mempengaruhi kekuatan placebo; sikap hangat dan yakin meningkatkan hasil.",
+    "Question": "Sebagai tenaga medis, bagaimana meningkatkan efek penyembuhan non-farmakologis pada pasien?",
+    "Answer": "Sambut pasien dengan kontak mata, sebut nama mereka, dan tampil percaya diri. Jelaskan rencana terapi dengan optimisme realistis. Riset menunjukkan pendekatan ini memperkuat harapan positif pasien."
+  },
+  {
+    "Context": "Dalam uji klinis, placebo dapat menimbulkan efek samping yang disebut nocebo jika ekspektasi negatif muncul.",
+    "Question": "Bagaimana menghindari nocebo saat membaca brosur obat yang penuh efek samping?",
+    "Answer": "Fokus pada persentase kejadian—banyak efek hanya dialami <1%. Diskusikan kekhawatiran dengan dokter agar konteks jelas. Ingat: manfaat obat biasanya jauh melebihi risiko untuk kondisi yang tepat."
+  },
+  {
+    "Context": "Placebo analgesia melibatkan area otak yang sama dengan opioid endogen.",
+    "Question": "Apakah latihan mental bisa mengaktifkan jalur analgesia alami?",
+    "Answer": "Ya, meditasi dan visualisasi positif dapat merangsang pelepasan neurotransmiter pengurang nyeri. Praktik 10‑15 menit tiap hari membantu tubuh belajar meredam sinyal nyeri lebih efektif."
+  },
+  {
+    "Context": "Rasa percaya pada kompetensi dokter memperkuat placebo; keraguan halus dapat menurunkan efek.",
+    "Question": "Aku ragu pada dokter baru. Apakah itu mempengaruhi kesembuhanku?",
+    "Answer": "Keterbukaan penting. Jika ragu, ajukan pertanyaan sampai yakin atau pertimbangkan second opinion. Kepercayaan akan meningkatkan kepatuhan dan respon positif tubuh terhadap terapi."
+  },
+  {
+    "Context": "Placebo bisa memicu reaksi fisik bahkan pada penyakit organik, namun tidak bisa mengecilkan tumor.",
+    "Question": "Mengapa ada testimoni kanker sembuh dengan placebo?",
+    "Answer": "Kebanyakan kisah sembuh spontan sulit diverifikasi dan mungkin disertai terapi medis lain. Ilmu kedokteran belum menemukan bukti placebo menghilangkan sel kanker; ikuti protokol onkologi yang teruji."
+  },
+  {
+    "Context": "Kekuatan ritual (mis. warna pil, jumlah suntikan) memengaruhi efek placebo.",
+    "Question": "Apakah memilih pil warna cerah bisa mempengaruhi mood-ku?",
+    "Answer": "Penelitian menunjukkan pil warna hangat diasosiasikan dengan peningkatan energi. Meski efeknya kecil, jika membantu motivasi minum obat tidak ada salahnya."
+  },
+  {
+    "Context": "Dokter yang memakai bahasa tubuh suportif (condong ke depan, senyum) meningkatkan kepercayaan pasien.",
+    "Question": "Bagaimana membaca bahasa tubuh dokter saat konsultasi online?",
+    "Answer": "Perhatikan nada suara, kejelasan penjelasan, dan kesabaran menanggapi pertanyaan. Meski kamera membatasi gerak, dokter yang peduli tetap terdengar hangat dan responsif."
+  },
+  {
+    "Context": "Efek placebo terbesar terjadi pada gejala subyektif seperti nyeri dan kelelahan.",
+    "Question": "Apakah placebo membantu untuk tekanan darah tinggi?",
+    "Answer": "Tekanan darah adalah parameter objektif; placebo berdampak kecil. Perubahan gaya hidup dan obat antihipertensi tetap utama. Sikap positif membantu kepatuhan, namun tidak menggantikan terapi."
+  },
+  {
+    "Context": "Informasi positif tentang prognosis menambah harapan tanpa harus memberi harapan palsu.",
+    "Question": "Bagaimana menyampaikan kabar baik dengan realistis sebagai caregiver?",
+    "Answer": "Gunakan kerangka 'harapan realistis': jelaskan kemajuan ukuran objektif (mis. hasil lab lebih baik), lalu beri rencana langkah selanjutnya. Hindari janji pasti sembuh, fokus pada apa yang bisa dikendalikan hari ini."
+  },
+  {
+    "Context": "Sistem HMO menekan biaya tetapi risiko waktu tunggu lama; beberapa HMO kini menerapkan patient‑centered care.",
+    "Question": "Bagaimana memilih HMO yang tetap mengutamakan pasien?",
+    "Answer": "Periksa rasio pasien‑dokter, kebijakan memilih provider, dan kepuasan pasien publik. Pilih HMO yang menjadwalkan dokter tetap untuk kunjungan berulang agar kontinuitas terjaga."
+  },
+  {
+    "Context": "PPO menawarkan jaringan luas dengan biaya tambahan; cocok bagi pasien yang butuh fleksibilitas spesialis.",
+    "Question": "Apakah PPO worth it untuk terapi kesehatan mental jangka panjang?",
+    "Answer": "Jika kamu sering ganti psikolog mencari kecocokan, PPO memberi kebebasan tanpa rujukan tiap kali. Hitung selisih premi vs biaya out‑of‑network sebelum memutuskan."
+  },
+  {
+    "Context": "Penelitian CAM sering terbatas sampel kecil dan kontrol lemah; sulit disimpulkan efektifitasnya.",
+    "Question": "Sebagai peneliti muda, bagaimana merancang studi CAM yang kuat?",
+    "Answer": "Gunakan randomisasi, grup kontrol placebo, ukuran sampel memadai, dan blinding penilai. Daftarkan protokol di registry agar transparan. Kolaborasi dengan ahli statistik sejak awal."
+  },
+  {
+    "Context": "Transisi terapi alternatif ke konvensional memerlukan bukti berbasis uji klinis.",
+    "Question": "Berapa fase uji yang harus dilalui herbal sebelum diakui BPOM?",
+    "Answer": "Minimal pra‑klinik (keamanan), fase 1 (dosis aman), fase 2 (efikasi awal), fase 3 (efikasi luas). Setelah izin edar, fase 4 pasca pemasaran terus memonitor efek samping."
+  },
+  {
+    "Context": "Integrative medicine menggabungkan CAM dengan terapi konvensional untuk kebutuhan pasien.",
+    "Question": "Bagaimana berdiskusi tentang integrative care tanpa membuat dokter tersinggung?",
+    "Answer": "Sampaikan niat kolaboratif: “Dok, saya tertarik menambah meditasi/pijat untuk bantu pemulihan, apakah aman berdampingan dengan obat ini?” Dokter akan menghargai keterbukaan."
+  },
+  {
+    "Context": "Biaya self‑care CAM sering non‑reimbursable; perencanaan finansial penting.",
+    "Question": "Cara menganggarkan biaya pijat rutin agar tidak mengganggu keuangan?",
+    "Answer": "Masukkan pos 'wellness' 5‑10% dari penghasilan bulanan. Bandingkan paket bundling atau promo membership spa. Prioritaskan ketika stress tinggi, tunda saat budget ketat."
+  },
+  {
+    "Context": "Evaluasi efektivitas CAM penting karena dua pertiga populasi menggunakannya.",
+    "Question": "Apa sumber terpercaya untuk membaca review ilmiah terapi alternatif?",
+    "Answer": "Cek database Cochrane, NCCIH (NIH), dan jurnal peer‑review seperti 'Complementary Therapies in Medicine'. Hindari blog tanpa referensi."
+  },
+  {
+    "Context": "Hospital infection (nosocomial) menjadi pembunuh nomor 6 di AS; kepatuhan cuci tangan wajib.",
+    "Question": "Sebagai pengunjung, apakah penting mencuci tangan sebelum masuk ruang pasien?",
+    "Answer": "Sangat penting. Gunakan hand sanitizer di pintu masuk dan sebelum menyentuh pasien. Langkah sederhana ini mencegah penularan kuman berbahaya."
+  },
+  {
+    "Context": "Pasien yang merasa dipahami kecil kemungkinan menggugat malpraktik.",
+    "Question": "Bagaimana memperbaiki komunikasi saat terjadi kesalahan medis minor?",
+    "Answer": "Segera jelaskan apa yang terjadi, minta maaf tulus, dan jelaskan langkah pencegahan di masa depan. Transparansi dan empati menurunkan potensi litigasi."
+  },
+  {
+    "Context": "Struktur rumah sakit terdiri atas garis medis (skill teknis) dan administratif (bisnis); sinergi keduanya penting.",
+    "Question": "Apa peran pasien dalam mendorong sinergi dokter‑admin?",
+    "Answer": "Berikan feedback tertulis tentang pengalaman klinis dan proses admin. Testimoni positif/negatif pasien sering dijadikan dasar perbaikan koordinasi internal."
+  }
+]

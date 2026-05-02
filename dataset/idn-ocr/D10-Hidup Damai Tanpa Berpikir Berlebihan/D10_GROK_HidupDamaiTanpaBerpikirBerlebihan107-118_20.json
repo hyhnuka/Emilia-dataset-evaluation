@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "Aku merasa tertekan banget kalau kerjaan menumpuk, apa yang harus aku lakukan?",
+        "Answer": "Wajar kok merasa tertekan kalau kerjaan numpuk. Coba ambil napas dalam-dalam dulu, lalu urutkan tugas dari yang paling penting. Lakukan satu per satu, dan kalau merasa nggak sanggup, nggak apa-apa minta bantuan. Prioritaskan kesehatanmu juga, ya, pastikan cukup istirahat."
+    },
+    {
+        "Question": "Kadang aku ragu bisa nggak ya ngerjain tugas yang berat, apa sih cara ngatasin keraguan ini?",
+        "Answer": "Ragu itu manusiawi banget. Coba aja dulu, anggap sebagai percobaan. Kalau ternyata nggak bisa, nggak apa-apa, cari solusi lain atau minta bantuan. Yang penting, jangan terlalu keras sama diri sendiri, oke?"
+    },
+    {
+        "Question": "Aku takut gagal kalau coba sesuatu yang baru, gimana dong?",
+        "Answer": "Takut gagal itu normal, kok. Tapi coba pikir, kalau nggak dicoba, kamu nggak akan tahu hasilnya. Mulai dari langkah kecil, dan ingat, gagal bukan akhir, tapi bagian dari proses belajar."
+    },
+    {
+        "Question": "Aku sering kurang tidur karena kerja, ini buruk nggak sih?",
+        "Answer": "Wah, kurang tidur itu bisa bikin tubuh dan pikiran lelah, lho. Coba atur waktu supaya bisa tidur cukup, minimal 6-8 jam. Kalau kerjaan terlalu banyak, mungkin bisa bicara sama atasan untuk bagi beban. Kesehatanmu nomor satu, ya."
+    },
+    {
+        "Question": "Aku pengen kerja keras terus biar dianggap hebat, tapi capek banget. Salah nggak sih?",
+        "Answer": "Nggak salah pengen berprestasi, tapi kalau sampai bikin capek berlebihan, itu tanda kamu perlu istirahat. Nggak perlu membuktikan apa-apa ke orang lain, yang penting kamu sehat dan bahagia. Coba kasih waktu buat diri sendiri, ya."
+    },
+    {
+        "Question": "Aku merasa nggak cukup baik dibandingkan orang lain di kantor, apa yang salah?",
+        "Answer": "Perasaan nggak cukup baik itu sering muncul, tapi coba lihat, kamu pasti punya kelebihan sendiri. Bandingin diri sama orang lain cuma bikin stres. Fokus aja sama usahamu, dan kalau perlu, bicarain sama temen atau atasan buat dukungan."
+    },
+    {
+        "Question": "Kalau aku tolak tugas karena merasa nggak mampu, apa aku lemah?",
+        "Answer": "Nggak sama sekali! Menolak tugas karena tahu batas kemampuan itu justru bijaksana. Itu artinya kamu peduli sama kualitas kerja dan kesehatanmu. Mungkin coba diskusi sama atasan buat solusi yang lebih pas."
+    },
+    {
+        "Question": "Aku susah makan teratur karena sibuk, apa dampaknya serius?",
+        "Answer": "Iya, makan nggak teratur bisa bikin tubuh lemas dan susah fokus. Coba siapkan makanan sederhana atau camilan sehat yang gampang dibawa. Dengarkan tubuhmu, makan secukupnya biar energimu stabil."
+    },
+    {
+        "Question": "Aku pengen sempurna di kerjaan dan keluarga, tapi selalu gagal. Aku salah apa?",
+        "Answer": "Pengen sempurna itu wajar, tapi nggak realistis. Nggak apa-apa kalau nggak sempurna, yang penting kamu berusaha seimbang. Coba fokus pada apa yang bisa kamu lakukan hari ini, dan jangan terlalu keras sama diri sendiri."
+    },
+    {
+        "Question": "Aku merasa bersalah kalau ninggalin anak demi kerja, apa aku ibu yang buruk?",
+        "Answer": "Perasaan bersalah itu menunjukkan kamu peduli banget sama anakmu. Tapi bekerja juga bagian dari kasih sayang, lho, buat kasih mereka kehidupan yang baik. Coba cari waktu khusus buat anak, meski sebentar, biar kalian tetap dekat."
+    },
+    {
+        "Question": "Aku pengen kerja paruh waktu biar bisa urus keluarga, tapi takut dianggap nggak serius. Gimana?",
+        "Answer": "Pilih kerja paruh waktu itu keputusan yang valid, kok. Yang penting kamu jelasin alasanmu ke atasan atau tim, biar mereka paham. Fokus pada kualitas kerjamu, pasti mereka akan menghargai."
+    },
+    {
+        "Question": "Aku sering stres mikirin masa depan, apa aku terlalu berlebihan?",
+        "Answer": "Khawatir soal masa depan itu wajar, tapi kalau sampai bikin stres, coba tarik napas dan fokus ke hari ini dulu. Buat rencana kecil-kecil yang bisa kamu kontrol, dan ingat, nggak semua harus sempurna."
+    },
+    {
+        "Question": "Kalau aku nggak kerja keras, aku takut nggak dihargai. Apa iya gitu?",
+        "Answer": "Nggak selalu gitu, kok. Orang lebih menghargai kualitas dan konsistensi ketimbang cuma kerja keras tanpa arah. Coba bicarain sama atasan apa yang mereka harapkan, biar kamu nggak overthinking."
+    },
+    {
+        "Question": "Aku merasa hidupku nggak seimbang antara kerja dan keluarga, apa solusinya?",
+        "Answer": "Keseimbangan itu memang susah, tapi coba buat batasan jelas, misalnya jam khusus buat keluarga tanpa gangguan kerja. Juga, jangan ragu minta bantuan keluarga atau teman kalau merasa kewalahan."
+    },
+    {
+        "Question": "Aku pengen coba hal baru, tapi takut nggak berhasil. Apa aku harus tetap coba?",
+        "Answer": "Coba aja dulu, tapi mulai dari langkah kecil biar nggak terlalu menakutkan. Kalau nggak berhasil, nggak apa, itu cuma bagian dari proses. Yang penting kamu belajar sesuatu dari situ."
+    },
+    {
+        "Question": "Aku merasa nggak punya waktu buat diri sendiri, apa itu normal?",
+        "Answer": "Banyak orang ngalamin itu, tapi penting banget lho punya waktu buat diri sendiri. Coba sisihkan 10-15 menit sehari buat hal yang kamu suka, kayak baca atau jalan santai. Itu bisa bikin kamu lebih segar."
+    },
+    {
+        "Question": "Aku kadang ngerasa nggak berguna kalau nggak sibuk terus. Ini kenapa ya?",
+        "Answer": "Bisa jadi kamu terbiasa ngejar produktivitas, tapi istirahat juga penting, lho. Coba latih diri buat nikmati momen santai tanpa merasa bersalah. Kamu berharga, nggak cuma karena sibuk."
+    },
+    {
+        "Question": "Aku takut minta bantuan karena nggak mau kelihatan lemah. Apa salah?",
+        "Answer": "Minta bantuan itu bukan tanda lemah, justru tanda kamu paham batas diri dan mau kerja sama. Coba mulai dari minta tolong hal kecil, pasti orang sekitar senang bantu."
+    },
+    {
+        "Question": "Aku merasa nggak bisa ngapa-ngapain dengan baik, apa aku gagal?",
+        "Answer": "Nggak gagal, kok. Mungkin kamu lagi capek atau terlalu keras sama diri sendiri. Coba istirahat, lalu lihat apa yang udah kamu capai, sekecil apa pun. Kamu pasti lebih hebat dari yang kamu pikir."
+    },
+    {
+        "Question": "Aku pengen hidup tenang tanpa overthinking, gimana caranya?",
+        "Answer": "Hidup tenang itu dimulai dari dengerin tubuh dan pikiranmu. Cukup tidur, makan sehat, dan lakukan hal yang bikin bahagia, meski sederhana. Kalau pikiran berisik, coba tulis atau ceritain ke temen dekat."
+    }
+]

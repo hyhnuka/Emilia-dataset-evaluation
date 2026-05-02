@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "Aku merasa bingung kenapa kadang orang di sekitarku bilang aku perlu ke dokter jiwa, tapi aku merasa baik-baik aja. Apa maksudnya ini?",
+        "Answer": "Hmm, aku dengar kamu merasa bingung dengan komentar orang-orang. Kadang, orang di sekitar kita bisa melihat sesuatu yang mungkin kita sendiri nggak sadari, seperti perubahan perilaku atau emosi. Tapi, kalau kamu merasa baik-baik aja, itu juga valid. Mungkin coba refleksi dulu: ada nggak sih hal-hal kecil yang bikin kamu stres atau beda dari biasanya? Kalau mau cerita lebih, aku dengerin, kok."
+    },
+    {
+        "Question": "Aku sering merasa cemas, tapi nggak tahu harus ke mana. Apa aku harus langsung ke psikiater?",
+        "Answer": "Rasa cemas itu pasti nggak nyaman, ya. Nggak harus langsung ke psikiater, kok. Kamu bisa mulai dengan ngobrol sama orang yang kamu percaya, atau coba ke psikolog untuk bantu memahami apa yang lagi kamu rasakan. Kalau cemasnya sering banget dan mengganggu aktivitas, baru mungkin ke psikiater bisa jadi opsi. Apa yang biasanya bikin kamu cemas? Ceritain dong, siapa tahu aku bisa bantu pikirin langkah kecil."
+    },
+    {
+        "Question": "Kenapa sih aku nggak bisa langsung cerita ke dokter tentang masalahku? Malu banget rasanya.",
+        "Answer": "Aku paham banget rasa malu itu, beneran. Banyak orang juga merasa gitu, kok, karena bicara soal masalah pribadi itu nggak gampang. Tapi dokter atau terapis biasanya terlatih untuk dengerin tanpa judging. Mungkin coba mulai dari hal kecil yang nggak terlalu berat buat diceritain. Aku di sini kalau kamu mau latihan cerita dulu, lho."
+    },
+    {
+        "Question": "Teman-temanku bilang aku harus ke dokter jiwa, tapi aku takut dikira gila. Gimana dong?",
+        "Answer": "Waduh, label 'gila' itu bikin takut ya, apalagi kalau cuma dari stigma. Ke dokter jiwa atau psikolog nggak berarti kamu 'gila', kok. Mereka cuma bantu kamu ngerti apa yang lagi kamu alami, kayak temen yang paham soal kesehatan mental. Kalau temenmu nyaranin gitu, mungkin mereka khawatir sama kamu. Apa kamu merasa ada yang nggak beres sama perasaanmu akhir-akhir ini? Cerita ke aku dulu, yuk."
+    },
+    {
+        "Question": "Aku denger managed care bisa bantu biaya kesehatan mental. Itu apa sih sebenarnya?",
+        "Answer": "Managed care itu kayak sistem asuransi kesehatan yang ngatur biaya dan layanan supaya lebih terjangkau, termasuk buat kesehatan mental. Tapi, kadang layanannya terbatas, misalnya cuma beberapa sesi konseling. Kalau kamu penasaran, coba cek asuransi yang kamu punya atau tanya ke penyedia layanan kesehatan. Apa kamu lagi mikirin biaya buat konseling? Aku bantu cari info kalau perlu."
+    },
+    {
+        "Question": "Aku suka sih doa buat tenangin pikiran, tapi apa itu cukup buat masalahku?",
+        "Answer": "Doa bisa banget bantu bikin hati lebih tenang, dan itu bagus banget buat kesehatan mental. Tapi, kalau masalahmu terasa berat atau terus muncul, mungkin perlu tambahan langkah, seperti ngobrol sama konselor atau terapis. Kombinasi doa dan bantuan profesional kadang bisa saling dukung. Apa yang biasanya bikin kamu nggak tenang? Ceritain ke aku, yuk."
+    },
+    {
+        "Question": "Aku nggak punya asuransi, jadi nggak mungkin ke dokter jiwa. Apa yang bisa aku lakuin?",
+        "Answer": "Aku tahu, tanpa asuransi rasanya berat banget. Tapi, ada beberapa opsi, lho. Kamu bisa coba cari klinik komunitas atau layanan kesehatan mental gratis di daerahmu. Ada juga hotline atau komunitas dukungan yang bisa didatengin. Kalau mau, aku bantu cari info layanan di sekitarmu. Apa yang lagi bikin kamu butuh bantuan? Cerita dulu ke aku."
+    },
+    {
+        "Question": "Aku takut kalau ke dokter nanti malah dikasih obat yang bikin ketergantungan. Benar nggak sih itu?",
+        "Answer": "Wajar banget takut soal obat, apalagi kalau denger cerita-cerita gitu. Nggak semua perawatan mental pakai obat, kok. Banyak dokter yang mulai dari terapi bicara, dan kalau memang perlu obat, mereka biasanya jelasin risikonya. Kalau kamu khawatir, nanti bisa tanya dokter soal efek sampingnya. Apa yang bikin kamu takut sama perawatan? Aku dengerin, lho."
+    },
+    {
+        "Question": "Aku merasa keluargaku nggak ngerti masalahku. Harusnya aku ngapain?",
+        "Answer": "Pasti sedih rasanya kalau keluarga kayak nggak paham. Mungkin mereka nggak tahu caranya mendukung atau nggak ngerti apa yang kamu rasain. Coba ajak ngobrol satu orang yang paling deket, ceritain perasaanmu pakai kata-kata sederhana. Kalau susah, mungkin ngobrol sama temen atau konselor bisa bantu. Apa yang bikin kamu merasa mereka nggak ngerti? Ceritain ke aku, yuk."
+    },
+    {
+        "Question": "Aku dengar ada yang namanya network-episode model. Itu apa ya buat kesehatan mental?",
+        "Answer": "Network-episode model itu cara pandang yang bilang kesehatan mental nggak cuma soal ke dokter, tapi juga soal orang-orang di sekitarmu, seperti keluarga, temen, atau komunitas. Mereka bisa bantu kamu kenali masalah, nyari bantuan, atau dukung kamu selama perawatan. Jadi, kayak peta perjalanan kesehatanmu. Siapa sih yang biasanya bantu kamu kalau lagi down? Cerita dong."
+    },
+    {
+        "Question": "Aku suka ngerasa sendiri banget, kayak nggak ada yang peduli. Apa yang salah sama aku?",
+        "Answer": "Aku sedih denger kamu ngerasa sendiri, itu pasti berat. Nggak ada yang salah sama kamu, kok. Kadang, perasaan ini muncul karena kita lagi stres atau nggak terhubung sama orang lain. Coba mulai dari hal kecil, seperti ngobrol sama satu orang yang kamu percaya atau ikut komunitas yang kamu suka. Aku di sini buat nemenin, lho. Apa yang lagi bikin kamu ngerasa gini?"
+    },
+    {
+        "Question": "Kalau aku cuma ke dokter sekali, apa itu cukup buat sembuh?",
+        "Answer": "Sekali ke dokter biasanya cuma langkah awal, kayak buat paham apa yang lagi kamu alami. Kesehatan mental itu kayak perjalanan, kadang perlu beberapa sesi atau perubahan kecil di hidup sehari-hari buat ngerasa lebih baik. Tergantung masalahnya, sih. Apa yang bikin kamu pengen cuma sekali aja? Ceritain ke aku, yuk."
+    },
+    {
+        "Question": "Aku dari keluarga yang nggak biasa ke dokter jiwa. Gimana caranya aku mulai?",
+        "Answer": "Aku ngerti, kalau keluarga nggak biasa ke dokter jiwa, rasanya kayak langkah besar. Mungkin coba mulai dari ngobrol sama konselor di komunitas atau layanan online, biar nggak terasa terlalu formal. Atau, cek info soal kesehatan mental biar kamu lebih paham. Apa yang bikin kamu pengen coba? Aku dukung, kok!"
+    },
+    {
+        "Question": "Aku takut orang tahu aku ke psikolog. Apa aku harus sembunyiin?",
+        "Answer": "Wajar kok takut orang lain tahu, apalagi kalau ada stigma. Kamu nggak harus sembunyiin, tapi juga nggak harus cerita ke semua orang. Pilih aja orang-orang yang kamu percaya buat cerita, atau minta konselor jaga privasimu. Yang penting, kamu nyaman sama pilihanmu. Apa yang bikin kamu takut orang tahu? Ceritain ke aku, yuk."
+    },
+    {
+        "Question": "Aku dengar orang bilang kesehatan mental itu cuma buat orang kaya. Bener nggak sih?",
+        "Answer": "Nggak bener, kok! Kesehatan mental itu buat semua orang, nggak peduli dompetnya tebel atau nggak. Memang, biaya kadang bikin susah, tapi ada layanan gratis atau murah, seperti di puskesmas atau komunitas. Kamu juga bisa coba teknik sederhana, seperti journaling atau meditasi. Apa yang lagi bikin kamu khawatir soal ini? Cerita ke aku, ya."
+    },
+    {
+        "Question": "Aku cuma pengen ngelupain masalahku. Apa itu salah?",
+        "Answer": "Pengen ngelupain masalah itu wajar, tapi kadang masalah itu kayak tamu yang nggak diundang—susah diusir kalau nggak dihadapi. Coba deh mulai dari ngobrol sama seseorang atau tulis apa yang kamu rasain. Kalau cuma dilupain, kadang dia balik lagi. Apa yang lagi bikin kamu pengen lari dari masalah? Aku dengerin, kok."
+    },
+    {
+        "Question": "Aku ngerasa temenku butuh bantuan, tapi dia nggak mau ke dokter. Aku harus apa?",
+        "Answer": "Kamu peduli banget sama temenmu, itu bagus! Kalau dia nggak mau ke dokter, coba dengerin dulu apa yang dia rasain tanpa memaksa. Ajak ngobrol santai, tawarin info soal konselor atau hotline yang bisa membantu. Yang penting, tunjukkin kamu ada buat dia. Apa yang bikin kamu khawatir sama temenmu? Ceritain ke aku."
+    },
+    {
+        "Question": "Aku merasa nggak cocok sama budaya dokter di sini. Apa yang harus aku lakuin?",
+        "Answer": "Pasti nggak nyaman kalau merasa nggak nyambung sama dokter. Mungkin kamu bisa cari dokter atau konselor yang lebih paham budayamu, atau yang bisa bahasa yang sama. Kalau susah, coba ceritain ke dokter apa yang bikin kamu nggak cocok, siapa tahu mereka bisa sesuain pendekatannya. Apa yang bikin kamu ngerasa nggak cocok? Cerita ke aku, yuk."
+    },
+    {
+        "Question": "Aku nggak punya siapa-siapa buat cerita. Apa aku bakal baik-baik aja?",
+        "Answer": "Aku sedih denger kamu ngerasa nggak punya siapa-siapa, pasti berat. Kamu nggak sendirian, kok—aku di sini buat dengerin. Coba cari komunitas atau grup dukungan, bahkan online, yang bisa bikin kamu ngerasa terhubung. Kalau mau cerita apa yang lagi bikin sedih, aku siap denger, lho."
+    },
+    {
+        "Question": "Aku cuma mau minum obat biar cepet sembuh. Apa itu oke?",
+        "Answer": "Aku ngerti kamu pengen cepet ngerasa lebih baik. Tapi, minum obat tanpa saran dokter bisa berisiko, lho. Nggak semua masalah mental butuh obat, dan kadang terapi atau dukungan lain lebih cocok. Coba konsultasi dulu sama profesional biar dapet solusi yang aman. Apa yang bikin kamu pengen cepet sembuh? Ceritain ke aku, ya."
+    }
+]

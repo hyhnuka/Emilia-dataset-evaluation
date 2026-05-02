@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "Aku sering bangun tengah malam dan susah tidur lagi, ini kenapa ya?",
+        "Answer": "Itu bisa jadi tanda gangguan tidur, mungkin seperti insomnia. Kalau kamu sering bangun dan susah tidur lagi, bisa jadi ada faktor seperti stres atau kebiasaan tidur yang kurang teratur. Coba ceritain lebih detail, misalnya berapa lama ini terjadi atau apa yang biasa kamu lakukan sebelum tidur?"
+    },
+    {
+        "Question": "Kenapa aku selalu merasa capek meskipun sudah tidur lama?",
+        "Answer": "Walaupun tidurnya lama, kalau kualitas tidurmu kurang baik, kamu bisa tetap merasa capek. Ini bisa karena tidurmu tidak cukup dalam atau terganggu, misalnya karena bangun-bangun di malam hari. Apa kamu notice ada kebiasaan seperti main hp sebelum tidur atau lingkungan tidur yang kurang nyaman?"
+    },
+    {
+        "Question": "Aku susah banget tidur cepet, pikiranku nggak bisa berhenti. Apa yang bisa aku lakuin?",
+        "Answer": "Pikiran yang nggak berhenti itu sering bikin susah tidur, dan itu wajar kok kalau sedang ada banyak hal di kepala. Coba mulai dengan rutinitas santai sebelum tidur, seperti membaca atau meditasi ringan. Jurnal tidur juga bisa membantu lihat pola tidurmu. Apa kamu mau coba buat jurnal tidur bareng aku?"
+    },
+    {
+        "Question": "Apa sih tidur yang normal itu seperti apa?",
+        "Answer": "Tidur normal itu biasanya terdiri dari beberapa tahap, ada tahap tidur ringan, tidur dalam, dan tidur REM yang berhubungan dengan mimpi. Semuanya penting untuk bikin tubuh dan pikiranmu segar. Kalau tidurmu sering terganggu, mungkin kita bisa cek apa yang bikin tidurmu nggak nyenyak. Ceritain dong, tidurmu sekarang seperti apa?"
+    },
+    {
+        "Question": "Aku dengar ada model dua proses untuk tidur, itu apa ya?",
+        "Answer": "Model dua proses itu menjelaskan bahwa tidur diatur oleh dua hal: tekanan tidur yang meningkat seiring kamu lama bangun, dan ritme sirkadian yang ngatur kapan kamu merasa ngantuk. Kalau salah satunya terganggu, tidur bisa jadi berantakan. Misalnya, apa kamu tidur dan bangun di jam yang nggak konsisten?"
+    },
+    {
+        "Question": "Aku merasa tidurku nggak pernah cukup, apa ini insomnia?",
+        "Answer": "Bisa jadi tanda insomnia kalau kamu susah tidur, sering bangun malam, atau bangun terlalu pagi selama tiga bulan atau lebih, dan ini bikin kamu capek di siang hari. Tapi, kita perlu cek lebih lanjut. Apa kamu merasa ini berdampak ke aktivitas sehari-harimu?"
+    },
+    {
+        "Question": "Apa bedanya insomnia sama gangguan tidur biasa?",
+        "Answer": "Insomnia itu gangguan tidur yang berlangsung lama, biasanya minimal tiga malam seminggu selama tiga bulan, dan bikin kamu kesulitan beraktivitas di siang hari. Kalau gangguan tidur biasa, mungkin cuma sesekali karena stres atau kebiasaan buruk. Apa kamu merasa ini udah lama banget terjadi?"
+    },
+    {
+        "Question": "Aku sering khawatir nggak bisa tidur, ini ngaruh nggak sih?",
+        "Answer": "Khawatir soal tidur justru bisa bikin susah tidur, lho. Ini seperti lingkaran: khawatir bikin tegang, dan ketegangan bikin tidur makin susah. Mungkin kita bisa coba teknik relaksasi atau mengalihkan pikiran sebelum tidur. Apa yang biasanya bikin kamu khawatir waktu mau tidur?"
+    },
+    {
+        "Question": "Aku dengar CBT-I bisa bantu insomnia, apa itu?",
+        "Answer": "CBT-I adalah terapi yang fokus ke perilaku dan pikiran untuk bantu tidur lebih baik. Ini termasuk hal seperti atur jadwal tidur, kurangi waktu di tempat tidur kalau nggak tidur, dan ubah cara pandang soal tidur. Ini efektif banget, tapi butuh komitmen. Apa kamu tertarik coba beberapa tekniknya?"
+    },
+    {
+        "Question": "Apa aku harus ke dokter kalau susah tidur terus?",
+        "Answer": "Kalau susah tidur udah berlangsung lama, misalnya lebih dari tiga bulan, dan bikin kamu susah beraktivitas, konsultasi ke dokter atau spesialis tidur bisa membantu. Mereka bisa cek apakah ada masalah lain, seperti apnea tidur. Apa kamu udah coba catat pola tidurmu? Itu bisa bantu dokter juga."
+    },
+    {
+        "Question": "Aku cuma tidur 4 jam sehari, apa ini oke?",
+        "Answer": "Tidur cuma 4 jam biasanya nggak cukup untuk kebanyakan orang, karena tubuh butuh sekitar 7-9 jam untuk pulih. Kalau ini terus-terusan, bisa bikin capek, susah fokus, atau masalah kesehatan lain. Apa yang bikin kamu cuma tidur sebentar, mungkin kita bisa cari solusinya?"
+    },
+    {
+        "Question": "Aku suka minum kopi malam, apa ini bikin susah tidur?",
+        "Answer": "Iya, kopi di malam hari bisa ganggu tidur karena kafein bikin otak tetap aktif. Coba kurangi atau hindari kafein setelah sore. Apa kamu notice perbedaan kalau nggak minum kopi malam? Mungkin kita bisa coba ganti dengan teh herbal."
+    },
+    {
+        "Question": "Aku pakai obat tidur tiap malam, apa ini buruk?",
+        "Answer": "Obat tidur kalau dipakai terus-terusan bisa bikin ketergantungan, dan kadang nggak selesain akar masalah tidurmu. Lebih baik konsultasi sama dokter untuk cari cara lain, seperti terapi perilaku. Apa kamu merasa obat ini masih membantu, atau justru bikin khawatir?"
+    },
+    {
+        "Question": "Aku takut kalau nggak tidur, besok bakal berantakan. Gimana ngatasin ini?",
+        "Answer": "Rasa takut itu bisa bikin tekanan tambahan, dan justru bikin tidur makin susah. Coba kita alihkan fokus dari ‘harus tidur’ ke ‘istirahat aja dulu’. Teknik relaksasi seperti napas dalam bisa membantu. Apa kamu mau coba latihan relaksasi bareng aku sekarang?"
+    },
+    {
+        "Question": "Aku tidur siang lama, apa ini bikin susah tidur malam?",
+        "Answer": "Tidur siang yang terlalu lama atau terlalu sore bisa kurangi tekanan tidurmu di malam hari, jadi susah tidur. Coba batasi tidur siang maksimal 20-30 menit dan sebelum jam 3 sore. Apa kamu merasa tidur siang ini bantu atau justru bikin malam lebih susah tidur?"
+    },
+    {
+        "Question": "Kenapa aku selalu bangun pagi banget dan nggak bisa tidur lagi?",
+        "Answer": "Itu bisa jadi tanda insomnia jenis bangun pagi dini, sering terjadi kalau ritme sirkadianmu bergeser atau ada stres. Coba jaga jadwal bangun dan tidur yang konsisten, juga hindari cahaya terang di malam hari. Apa kamu notice pemicunya, misalnya pikiran yang nggak tenang?"
+    },
+    {
+        "Question": "Aku suka main hp di kasur, apa ini masalah?",
+        "Answer": "Main hp di kasur bisa bikin otakmu nggak asosiasikan tempat tidur dengan tidur, apalagi cahaya layar bisa ganggu ritme tidurmu. Coba batasi hp sejam sebelum tidur dan simpan di luar kamar. Apa kamu merasa susah lepas dari hp sebelum tidur? Kita bisa cari cara bareng."
+    },
+    {
+        "Question": "Aku mau coba jurnal tidur, itu ngapain aja sih?",
+        "Answer": "Jurnal tidur itu mencatat kapan kamu tidur, bangun, berapa lama tidur, dan apa yang kamu rasakan. Ini bantu lihat pola tidurmu dan apa yang mungkin ganggu. Aku bisa bantu bikin format sederhana, mau coba mulai malam ini?"
+    },
+    {
+        "Question": "Aku nggak mau ke dokter, apa aku bisa atasi insomnia sendiri?",
+        "Answer": "Kamu bisa coba beberapa cara sendiri, seperti atur jadwal tidur yang tetap, hindari kafein, dan buat rutinitas santai sebelum tidur. Tapi kalau udah lama dan nggak membaik, dokter atau terapis bisa bantu lebih dalam. Apa kamu mau mulai dengan satu kebiasaan baru dulu, seperti kurangi layar sebelum tidur?"
+    },
+    {
+        "Question": "Aku cuma mau tidur pake obat, nggak mau ribet. Apa salah?",
+        "Answer": "Obat tidur mungkin terasa praktis, tapi kalau dipakai jangka panjang, bisa bikin kamu nggak belajar cara tidur alami dan mungkin ada efek samping. Aku ngerti kalau ribet itu nggak enak, tapi coba mulai dengan sesuatu yang sederhana, seperti tidur di jam yang sama setiap hari. Mau coba bareng aku?"
+    }
+]

@@ -1,0 +1,62 @@
+ [
+    {
+      "Question": "Aku merasa nggak bahagia sama hidupku sekarang. Kayaknya semua yang aku pelajari nggak ada gunanya. Apa yang salah sama aku?",
+      "Answer": "Nggak ada yang salah sama kamu. Kadang, kita merasa pengetahuan yang kita punya nggak cukup buat bikin kita bahagia. Tapi, kebahagiaan itu nggak cuma soal apa yang kamu tahu, melainkan bagaimana kamu melihat dirimu sendiri. Coba ceritain, apa yang bikin kamu merasa nggak bahagia?"
+    },
+    {
+      "Question": "Aku pengen banget jadi orang lain, kayak temenku yang kelihatan sempurna. Kenapa aku nggak bisa kayak dia?",
+      "Answer": "Wajar kok kalau kamu kagum sama orang lain, tapi kamu nggak perlu jadi dia buat merasa berharga. Kamu punya keunikan sendiri. Daripada fokus ke apa yang nggak kamu miliki, coba pikirkan apa yang bisa kamu lakukan dengan apa yang sudah kamu punya sekarang."
+    },
+    {
+      "Question": "Tapi aku benci banget sama diriku sendiri. Aku nggak suka sama apa yang aku lakukan atau siapa aku sekarang. Gimana caranya aku berhenti benci diri sendiri?",
+      "Answer": "Aku dengar kamu lagi merasa berat banget. Menerima diri sendiri itu memang nggak gampang, tapi itu langkah pertama. Coba mulai dari hal kecil, seperti mengakui satu hal yang kamu suka dari dirimu, sekecil apa pun. Aku di sini buat bantu kamu menemukan itu, kalau kamu mau cerita lebih banyak."
+    },
+    {
+      "Question": "Kamu bilang menerima diri sendiri, tapi aku nggak tahu caranya. Aku merasa aku harus berubah total biar bisa bahagia. Apa aku salah?",
+      "Answer": "Nggak salah, tapi mungkin kamu terlalu keras sama dirimu. Berubah itu oke, tapi bukan berarti kamu harus buang semua yang ada di dirimu sekarang. Coba fokus ke satu langkah kecil ke depan, misalnya melakukan sesuatu yang bikin kamu merasa sedikit lebih baik. Apa yang kira-kira bisa kamu coba?"
+    },
+    {
+      "Question": "Aku merasa hidupku nggak adil. Ada orang yang lahir dengan keadaan enak, tapi aku enggak. Gimana aku bisa bahagia dengan keadaan kayak gini?",
+      "Answer": "Aku paham, kadang dunia memang terasa nggak adil. Tapi kebahagiaan nggak ditentukan cuma dari apa yang kamu dapat saat lahir. Ini soal bagaimana kamu memanfaatkan apa yang kamu punya sekarang. Mungkin kita bisa cari satu hal kecil yang bisa kamu syukuri hari ini, mau coba?"
+    },
+    {
+      "Question": "Kamu bilang aku memilih untuk nggak bahagia? Maksudnya apa sih? Aku nggak pernah pengen merasa begini!",
+      "Answer": "Aku tahu kamu nggak sengaja memilih merasa nggak bahagia. Maksudnya, kadang tanpa sadar kita terjebak dalam cara berpikir yang bikin kita stuck. Misalnya, fokus ke hal-hal yang nggak bisa kita ubah. Coba ceritain, apa yang biasanya bikin kamu merasa terjebak?"
+    },
+    {
+      "Question": "Aku nggak ngerti kenapa aku memilih untuk nggak bahagia. Buat apa sih aku melakukan itu?",
+      "Answer": "Mungkin ada bagian dari dirimu yang merasa ‘nggak bahagia’ itu lebih aman atau familiar. Tapi aku yakin kamu juga pengen merasa lebih baik. Kita bisa coba cari tahu apa yang bikin kamu bertahan di perasaan itu, dan pelan-pelan cari cara buat melangkah ke arah yang lebih positif. Mau mulai dari mana?"
+    },
+    {
+      "Question": "Kamu bilang dunia penuh ketidakadilan, tapi kenapa aku harus terima kalau hidupku susah? Aku pengen kehidupan yang lebih baik!",
+      "Answer": "Aku dengar kamu pengen kehidupan yang lebih baik, dan itu wajar banget. Menerima keadaan bukan berarti menyerah, tapi memberi ruang buat kamu fokus ke apa yang bisa kamu ubah. Apa satu hal kecil yang menurutmu bisa bikin hidupmu sedikit lebih baik kalau kamu kerjain sekarang?"
+    },
+    {
+      "Question": "Aku merasa kepribadianku bikin aku susah bahagia. Apa aku bisa ubah sifatku biar nggak gini lagi?",
+      "Answer": "Kepribadian itu kayak cara kamu lihat dunia dan dirimu sendiri. Kabar baiknya, itu bukan sesuatu yang kaku dan nggak bisa berubah. Kamu bisa mulai dengan mengubah cara pandangmu, misalnya dengan mencoba satu kebiasaan baru yang bikin kamu merasa lebih baik. Apa yang kira-kira pengen kamu coba ubah?"
+    },
+    {
+      "Question": "Kamu bilang gaya hidup itu cara aku lihat dunia. Tapi aku nggak tahu caranya lihat dunia secara berbeda. Gimana caranya?",
+      "Answer": "Mengubah cara pandang itu memang butuh waktu, tapi bisa dimulai dari hal kecil. Misalnya, coba perhatikan satu hal positif di hari ini, sekecil apa pun, dan tulis kenapa itu berarti buatmu. Aku bisa bantu kamu latihan kalau kamu mau! Apa yang kamu lihat hari ini yang bikin kamu tersenyum?"
+    },
+    {
+      "Question": "Aku takut kalau aku nggak bisa berubah. Aku udah terlalu lama kayak gini. Apa masih ada harapan buat aku?",
+      "Answer": "Pasti ada harapan, nggak peduli berapa lama kamu merasa begini. Perubahan itu nggak harus besar-besaran, kok. Mulai dari satu langkah kecil, seperti melakukan sesuatu yang bikin kamu merasa sedikit lebih baik hari ini. Aku di sini buat dukung kamu. Mau coba apa dulu?"
+    },
+    {
+      "Question": "Aku nggak yakin aku bisa pilih gaya hidup baru. Aku nggak tahu caranya mulai dari mana. Kamu punya saran?",
+      "Answer": "Aku paham itu terasa berat. Coba mulai dengan sesuatu yang sederhana, seperti menulis tiga hal yang kamu syukuri setiap hari. Itu bisa bantu kamu lihat dunia dari sudut yang lebih positif. Kalau mau, kita bisa bikin daftar bareng. Apa yang menurutmu bisa jadi langkah pertama?"
+    },
+    {
+      "Question": "Kadang aku merasa hidupku nggak akan pernah berubah. Aku capek berusaha. Apa yang bisa aku lakukan biar nggak nyerah?",
+      "Answer": "Aku tahu rasanya capek banget, tapi kamu udah kuat banget bisa sampai di sini. Kadang, kita perlu istirahat sejenak buat kumpulin tenaga. Coba lakukan sesuatu yang bikin kamu rileks, seperti jalan-jalan atau dengar musik. Setelah itu, kita bisa pikirkan satu langkah kecil ke depan bareng. Apa yang biasanya bikin kamu merasa tenang?"
+    },
+    {
+      "Question": "Aku merasa nggak punya kendali atas hidupku. Semua kayaknya udah ditentuin dari aku lahir. Gimana aku bisa merasa punya kuasa atas hidupku sendiri?",
+      "Answer": "Aku dengar kamu merasa terjebak, dan itu pasti berat. Tapi, kamu punya kuasa buat memilih cara kamu menanggapi apa yang terjadi. Coba mulai dari sesuatu yang kecil yang bisa kamu kendalikan, seperti rutinitas harian atau cara kamu merespons sesuatu. Apa satu hal kecil yang bisa kamu ubah hari ini?"
+    },
+    {
+      "Question": "Aku nggak suka sama masa laluku. Kalau bisa, aku pengen lahir lagi jadi orang lain. Apa aku salah mikir gitu?",
+      "Answer": "Nggak salah, itu cuma menunjukkan kamu pengen sesuatu yang lebih baik. Tapi, masa lalu nggak bisa diubah, yang bisa kamu ubah adalah cara kamu lihat masa depan. Coba bayangkan satu tujuan kecil yang pengen kamu capai, dan kita bisa pikirkan langkah buat ke sana bareng. Apa yang kamu pengen coba?"
+    }
+  ]

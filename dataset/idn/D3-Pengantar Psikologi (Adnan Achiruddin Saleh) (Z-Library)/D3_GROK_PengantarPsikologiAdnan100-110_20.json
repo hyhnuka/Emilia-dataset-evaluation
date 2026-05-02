@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "Aku merasa sulit memahami hal-hal baru, apakah ini berarti aku tidak cukup pintar?",
+        "Answer": "Kamu tidak perlu khawatir kalau merasa sulit memahami sesuatu. Setiap orang punya kecepatan dan cara sendiri dalam belajar. Mungkin kamu hanya perlu pendekatan yang berbeda, seperti belajar dengan gambar atau diskusi. Coba cari tahu cara belajar yang paling nyaman buatmu, dan jangan ragu untuk minta bantuan kalau perlu."
+    },
+    {
+        "Question": "Kenapa aku merasa lambat dalam mengerjakan tugas dibandingkan temenku?",
+        "Answer": "Perasaan itu wajar, kok. Tiap orang punya kelebihan di bidang yang berbeda. Mungkin temenmu cepat di satu hal, tapi kamu bisa jadi punya keunggulan lain, seperti lebih teliti atau kreatif. Coba fokus pada apa yang sudah kamu capai dan atur waktu supaya tugas terasa lebih ringan."
+    },
+    {
+        "Question": "Aku sering lupa sama hal-hal yang udah aku pelajari, apa ini normal?",
+        "Answer": "Lupa itu hal yang sangat manusiawi. Ingatan kita kadang perlu pengulangan supaya lebih kuat. Coba ulang materi pelan-pelan, mungkin dengan catatan kecil atau ceritain ke temen. Dengan latihan rutin, kamu pasti bisa mengingat lebih lama."
+    },
+    {
+        "Question": "Aku merasa nggak bisa mikir jernih kalau lagi stres, kenapa ya?",
+        "Answer": "Stres memang bisa bikin pikiran kita agak kacau. Itu karena otak kita lagi fokus ke emosi. Coba ambil napas dalam-dalam atau istirahat sejenak. Kadang, jalan-jalan sebentar atau ngobrol sama temen bisa bantu pikiran jadi lebih jernih."
+    },
+    {
+        "Question": "Aku pengen lebih cepet nangkep pelajaran, ada tips nggak?",
+        "Answer": "Pasti bisa ditingkatkan, kok. Coba pecah materi jadi bagian kecil supaya nggak overwheliming. Latihan rutin juga membantu, misalnya bikin ringkasan atau ajak temen diskusi. Yang penting, jangan terlalu keras sama diri sendiri, ya, belajar itu proses."
+    },
+    {
+        "Question": "Aku nggak yakin sama kemampuan diriku sendiri, apa yang harus aku lakukan?",
+        "Answer": "Rasa nggak yakin itu wajar, tapi kamu pasti punya kekuatan yang mungkin belum kamu sadari. Coba inget-inget hal yang pernah kamu berhasil lakukan, sekecil apa pun. Mulai dari situ, dan coba tantang diri dengan langkah kecil. Aku yakin kamu bisa!"
+    },
+    {
+        "Question": "Kenapa aku susah banget fokus sama satu hal?",
+        "Answer": "Susah fokus bisa karena banyak hal, seperti capek atau ada yang bikin khawatir. Coba atur lingkunganmu supaya lebih tenang, misalnya matiin notifikasi HP. Atau, coba teknik fokus kayak pomodoro, kerja 25 menit, istirahat 5 menit. Pelan-pelan pasti bisa."
+    },
+    {
+        "Question": "Aku merasa nggak sehebat orang lain, apa aku memang kurang berbakat?",
+        "Answer": "Jangan bandingin diri kamu sama orang lain, ya. Setiap orang punya keunikan masing-masing. Mungkin kamu nggak lihat bakatmu sekarang, tapi coba eksplor hal-hal baru yang kamu suka. Siapa tahu kamu menemukan sesuatu yang bikin kamu bersinar."
+    },
+    {
+        "Question": "Aku takut gagal kalau coba sesuatu yang baru, gimana cara ngatasinnya?",
+        "Answer": "Takut gagal itu normal banget. Coba lihat kegagalan sebagai bagian dari proses belajar, bukan akhir dari segalanya. Mulai dengan langkah kecil, dan inget bahwa setiap usaha itu udah bikin kamu lebih maju dari sebelumnya."
+    },
+    {
+        "Question": "Aku pengen lebih pinter ngomong sama orang lain, ada saran?",
+        "Answer": "Keren banget kamu mau improve kemampuan ngomong! Coba latihan dengan ngobrol tentang hal yang kamu suka, atau dengar podcast biar kosa katamu nambah. Yang penting, santai aja, orang lebih suka ngobrol sama yang genuine."
+    },
+    {
+        "Question": "Kenapa aku susah ngerti pelajaran yang pake angka-angka?",
+        "Answer": "Nggak semua orang langsung klik sama angka, dan itu oke. Mungkin kamu perlu cara yang lebih visual, seperti bikin diagram atau hubungin angka sama cerita. Coba juga minta penjelasan dari temen atau guru, kadang sudut pandang lain bantu banget."
+    },
+    {
+        "Question": "Aku merasa capek banget belajar, apa aku kurang motivasi?",
+        "Answer": "Capek belajar itu wajar, apalagi kalau kamu push diri terlalu keras. Coba ambil jeda, mungkin nonton film atau jalan-jalan. Kadang motivasi balik lagi kalau kamu kasih waktu buat otakmu istirahat. Kamu nggak kurang motivasi, mungkin cuma butuh recharge."
+    },
+    {
+        "Question": "Aku pengen bisa ngerjain tugas lebih cepet, apa yang salah sama caraku?",
+        "Answer": "Mungkin bukan salah, tapi caranya bisa disesuaikan. Coba bikin daftar prioritas, fokus ke satu tugas dulu sebelum loncat ke yang lain. Atau, cek apakah kamu sering distraksi, misalnya sama HP. Sedikit perubahan kecil bisa bikin beda besar."
+    },
+    {
+        "Question": "Aku nggak suka sama pelajaran tertentu, apa itu berarti aku nggak bisa?",
+        "Answer": "Nggak suka sama pelajaran nggak berarti kamu nggak mampu. Mungkin pelajaran itu belum terasa relevan buatmu. Coba cari tahu apa yang bikin kamu nggak suka, dan cari cara seru buat mendekatinya, seperti nonton video terkait atau hubungin sama hobi kamu."
+    },
+    {
+        "Question": "Aku merasa nggak bisa apa-apa dibandingkan temenku, apa yang bisa aku lakukan?",
+        "Answer": "Perbandingan sama orang lain kadang bikin kita lupa kelebihan sendiri. Coba tulis apa aja yang kamu banggakan dari dirimu, sekecil apa pun. Dari situ, fokus kembangkan satu hal yang kamu suka. Kamu nggak perlu jadi kayak orang lain, cukup jadi versi terbaikmu."
+    },
+    {
+        "Question": "Kenapa aku nggak bisa langsung paham kayak orang lain?",
+        "Answer": "Setiap orang punya ritme belajar sendiri, dan nggak apa-apa kalau kamu butuh waktu lebih. Coba cari tahu cara belajar yang cocok buatmu, misalnya dengan bikin catatan warna-warni atau diskusi. Yang penting, kamu terus berusaha, itu udah hebat."
+    },
+    {
+        "Question": "Aku sering bingung sama kata-kata rumit, gimana cara ngatasinnya?",
+        "Answer": "Kata-kata rumit memang bisa bikin pusing. Coba pecah kalimatnya jadi lebih sederhana, atau cari artinya satu per satu. Baca buku atau tonton video yang bahas topik serupa dengan bahasa yang lebih ringan. Lama-lama kamu pasti lebih terbiasa."
+    },
+    {
+        "Question": "Aku takut salah jawab pas ditanya, apa yang harus aku lakukan?",
+        "Answer": "Takut salah itu wajar, kok. Ingat, salah itu bagian dari belajar. Coba latihan jawab pertanyaan di depan cermin atau sama temen deket dulu. Semakin sering kamu coba, semakin percaya diri kamu nanti."
+    },
+    {
+        "Question": "Aku merasa otakku nggak bisa nyanyi sama pelajaran, apa aku kurang usaha?",
+        "Answer": "Bukan kurang usaha, mungkin caranya yang belum pas. Coba ganti metode belajar, misalnya dari baca buku ke nonton video penjelasan. Atau, cek apakah kamu lagi stres, soalnya itu bisa bikin susah nyanyi. Kamu udah berusaha, tinggal cari pendekatan yang lebih cocok."
+    },
+    {
+        "Question": "Aku pengen belajar lebih baik, tapi nggak tahu mulai dari mana, saran dong?",
+        "Answer": "Keren banget kamu mau belajar lebih baik! Mulai dari bikin tujuan kecil, misalnya belajar satu topik per hari. Buat jadwal yang realistis, dan coba metode yang seru, seperti bikin mind map atau ajak temen belajar bareng. Langkah kecil bakal bawa kamu jauh."
+    }
+]

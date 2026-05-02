@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "Aku sering merasa jantungan aku berdegup kencang tiba-tiba, kayak mau panik. Apa sih ini?",
+        "Answer": "Kedengerannya kamu mungkin mengalami gejala yang mirip dengan panic attack. Itu bisa bikin jantungan berdegup cepat, napas pendek, atau bahkan rasa takut yang mendadak. Tapi tenang, ini nggak berbahaya, meskipun rasanya menakutkan. Coba ceritain lebih detail, apa yang biasanya bikin ini muncul?"
+    },
+    {
+        "Question": "Aku takut banget keluar rumah, takut tiba-tiba panik di tempat umum. Normalkah ini?",
+        "Answer": "Rasa takut itu kedengerannya mirip gejala agoraphobia, di mana seseorang khawatir bakal panik di tempat yang sulit buat kabur atau minta bantuan. Ini nggak 'aneh', tapi bisa bikin hidup terasa berat. Mungkin kita bisa mulai dengan langkah kecil, seperti jalan-jalan di dekat rumah dulu. Mau coba?"
+    },
+    {
+        "Question": "Kalau aku merasa sesak napas tiba-tiba, apa itu cuma pikiran aku aja?",
+        "Answer": "Sesak napas tiba-tiba bisa jadi bagian dari panic attack, bukan cuma pikiranmu. Kadang, tubuh kita bereaksi berlebihan karena merasa 'terancam', meskipun nggak ada bahaya nyata. Coba tarik napas perlahan dari hidung, tahan sebentar, lalu keluarkan dari mulut. Itu bisa bantu tenangin tubuhmu."
+    },
+    {
+        "Question": "Aku suka ngerasa pusing dan takut kehilangan kendali. Apa aku gila?",
+        "Answer": "Nggak, kamu nggak gila. Pusing dan takut kehilangan kendali adalah gejala umum saat panic attack. Itu cuma reaksi tubuh yang lagi 'panik', bukan tanda kamu kehilangan akal. Coba fokus ke napasmu atau pegang sesuatu yang nyata, seperti meja, buat bantu grounding."
+    },
+    {
+        "Question": "Kenapa sih aku takut sama perasaan jantungan yang cepet? Padahal aku tahu itu nggak bahaya.",
+        "Answer": "Itu wajar, lho. Banyak orang dengan panic disorder takut sama sensasi tubuh seperti jantungan cepat karena otak mereka salah menilai itu sebagai bahaya. Ini kayak alarm palsu di kepala. Mungkin kita bisa coba kenali sensasi ini bareng supaya kamu lebih nyaman."
+    },
+    {
+        "Question": "Aku coba tarik napas dalam-dalam, tapi malah tambah panik. Apa salah caraku?",
+        "Answer": "Bisa jadi caramu tarik napas terlalu cepat atau dalam, yang malah bikin hyperventilation. Coba napas pelan-pelan, misalnya tarik napas 4 detik, tahan 4 detik, keluarkan 6 detik. Aku bisa bantu hitung kalau kamu mau!"
+    },
+    {
+        "Question": "Aku takut pergi ke mall karena takut tiba-tiba panik. Apa aku harus maksa diri?",
+        "Answer": "Nggak perlu maksa diri, karena itu bisa bikin tambah stres. Kita bisa mulai dari tempat yang lebih aman, seperti toko kecil dekat rumah. Langkah kecil itu lebih baik daripada memaksa, dan aku bisa dampingi kamu secara virtual, lho!"
+    },
+    {
+        "Question": "Aku ngerasa kayak mau mati tiap panic attack. Apa ini normal?",
+        "Answer": "Iya, rasa takut kayak mau mati itu sering muncul pas panic attack, meskipun sebenarnya tubuhmu aman. Itu cuma otak yang lagi 'berlebihan' ngasih sinyal bahaya. Coba bilang ke diri sendiri, 'Ini cuma sensasi, aku baik-baik aja.' Aku di sini buat ingetin kamu kalau perlu."
+    },
+    {
+        "Question": "Aku cuma mau panic attack ini hilang selamanya. Apa mungkin?",
+        "Answer": "Aku ngerti banget kamu pengen bebas dari ini. Panic attack bisa dikurangi dengan latihan, seperti terapi perilaku atau latihan napas, tapi nggak selalu hilang 100%. Yang penting, kamu bisa belajar ngatasinnya supaya nggak ganggu hidupmu. Mau coba latihan bareng?"
+    },
+    {
+        "Question": "Aku suka hindari tempat ramai biar nggak panik. Apa itu salah?",
+        "Answer": "Hindari tempat ramai itu wajar kalau kamu takut panik, tapi lama-lama bisa bikin ketakutanmu tambah kuat. Mungkin kita bisa coba masuk ke situasi itu perlahan, misalnya ke kafe sepi dulu. Aku bisa bantu bikin rencana, kalau kamu oke."
+    },
+    {
+        "Question": "Aku ngerasa panikku dateng gara-gara stres. Bener nggak sih?",
+        "Answer": "Bisa banget! Stres sering jadi pemicu panic attack, karena bikin tubuh dan pikiran lebih 'siaga'. Coba ceritain apa yang lagi bikin stres, mungkin kita bisa cari cara buat ngurangin tekanannya bareng."
+    },
+    {
+        "Question": "Aku takut minum kopi, soalnya jantungan aku tambah kencang. Apa aku harus berhenti total?",
+        "Answer": "Kopi memang bisa bikin jantungan lebih cepat, yang kadang memicu panik. Nggak harus berhenti total, tapi coba kurangi atau ganti dengan teh herbal dulu. Kita bisa pantau bareng apa yang bikin kamu lebih nyaman."
+    },
+    {
+        "Question": "Aku coba lari biar sehat, tapi malah takut jantungan aku kencang. Apa aku berhenti olahraga?",
+        "Answer": "Nggak perlu berhenti, tapi mungkin kita bisa pilih olahraga yang lebih ringan dulu, seperti jalan kaki. Jantungan yang kencang pas olahraga itu normal, tapi aku ngerti itu bisa bikin takut. Mau coba jalan bareng sambil ngobrol?"
+    },
+    {
+        "Question": "Aku ngerasa malu kalau panik di depan orang. Apa yang harus aku lakukan?",
+        "Answer": "Aku ngerti, rasa malu itu wajar. Tapi ingat, nggak ada yang salah denganmu. Kalau panik dateng, coba alihkan fokus ke napasmu atau pegang sesuatu di tanganmu. Orang lain biasanya nggak ngeh, lho. Aku bisa bantu latihan buat ngatasin ini."
+    },
+    {
+        "Question": "Aku pengen coba terapi, tapi takut nggak cocok. Gimana caranya tahu?",
+        "Answer": "Wajar kok takut coba sesuatu yang baru. Terapi, seperti cognitive-behavioral therapy, bisa bantu atasi panic attack, tapi memang perlu waktu buat nyaman. Coba cari terapis yang bikin kamu merasa didengar. Aku bisa bantu cari info kalau kamu mau!"
+    },
+    {
+        "Question": "Aku kadang ngerasa panik tanpa alasan. Apa ini aneh?",
+        "Answer": "Nggak aneh sama sekali. Panic attack kadang dateng tanpa pemicu jelas, karena otak kita bisa 'misfire' ngasih sinyal bahaya. Yang penting, kamu nggak sendirian, dan kita bisa coba teknik buat ngatasinnya, seperti grounding atau napas pelan."
+    },
+    {
+        "Question": "Aku takut ke dokter, tapi panikku makin parah. Apa aku harus pergi?",
+        "Answer": "Aku ngerti takut ke dokter itu nyata. Kalau panikmu makin parah, cek ke dokter bisa bantu pastiin nggak ada masalah fisik dan kasih opsi pengobatan. Mungkin bawa temen atau aku bisa bantu bikin daftar pertanyaan buat dokter. Mau coba?"
+    },
+    {
+        "Question": "Aku cuma pengen tidur biar nggak panik. Apa itu solusi bagus?",
+        "Answer": "Tidur emang bisa bantu tubuh rileks, tapi kalau cuma tidur buat hindari panik, itu bisa bikin ketakutanmu bertahan. Mungkin kita bisa coba cara lain, seperti journaling atau latihan napas, buat hadapi paniknya. Aku di sini buat bantu, lho."
+    },
+    {
+        "Question": "Aku ngerasa panikku bikin aku gagal di hidup. Apa aku bisa sembuh?",
+        "Answer": "Aku ngerti rasanya berat, tapi panikmu nggak bikin kamu gagal. Banyak orang dengan panic disorder bisa hidup penuh dan bahagia dengan bantuan yang tepat, seperti terapi atau latihan coping. Kita bisa mulai dari langkah kecil bareng, kalau kamu mau."
+    },
+    {
+        "Question": "Aku takut ngomong ke orang lain soal panikku. Gimana caranya mulai?",
+        "Answer": "Wajar kok takut cerita, karena itu terasa pribadi banget. Coba mulai dari orang yang kamu percaya, seperti temen dekat atau keluarga, dan bilang apa adanya. Aku bisa bantu susun kata-kata kalau kamu mau latihan dulu!"
+    }
+]

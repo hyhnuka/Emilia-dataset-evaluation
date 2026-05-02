@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "Aku merasa sedih banget akhir-akhir ini, kayak nggak ada artinya hidup. Ini normal nggak sih?",
+        "Answer": "Sedih itu wajar kok, apalagi kalau ada hal berat yang lagi kamu hadapi. Tapi kalau perasaan ini terus-terusan dan bikin kamu susah menjalani hari, mungkin kita bisa coba cari tahu lebih dalam apa yang bikin kamu begini. Mau ceritain apa yang lagi bikin sedih?"
+    },
+    {
+        "Question": "Aku dengar orang bilang kesehatan mental itu cuma soal nggak punya penyakit mental. Bener nggak sih?",
+        "Answer": "Nggak sepenuhnya gitu. Kesehatan mental bukan cuma soal nggak punya gangguan, tapi juga tentang merasa seimbang, bisa menikmati hidup, dan punya hubungan yang baik dengan orang lain. Kayak puzzle, banyak bagian yang bikin kamu merasa 'utuh'. Kamu sendiri merasa gimana soal hidupmu sekarang?"
+    },
+    {
+        "Question": "Aku stres banget sama kerjaan, rasanya pengen marah terus. Apa ini tanda aku punya masalah mental?",
+        "Answer": "Stres dari kerjaan memang bisa bikin emosi naik-turun, dan itu nggak langsung berarti kamu punya masalah mental. Tapi kalau marahnya sering banget atau bikin kamu susah kendali, mungkin kita bisa coba cari cara buat ngelola stres itu. Pernah coba teknik relaksasi atau ngobrol sama seseorang tentang ini?"
+    },
+    {
+        "Question": "Kalau aku nggak cocok sama budaya di tempat tinggalku, itu bisa bikin aku nggak sehat mental nggak?",
+        "Answer": "Bisa banget. Budaya sekitar kita punya pengaruh besar ke perasaan dan cara kita lihat diri sendiri. Kalau kamu merasa nggak nyambung sama lingkunganmu, itu bisa bikin stres atau merasa terisolasi. Apa yang bikin kamu nggak cocok sama budaya di situ? Mau ceritain?"
+    },
+    {
+        "Question": "Aku takut banget kalau orang tahu aku ke psikiater, nanti dikira gila. Gimana dong?",
+        "Answer": "Wajar kok takut dihakimi, tapi ke psikiater itu langkah berani buat jaga kesehatan mentalmu, sama kayak ke dokter buat badan. Stigma memang ada, tapi kesehatanmu lebih penting. Mungkin kamu bisa mulai cerita ke orang yang kamu percaya dulu, biar nggak terasa sendirian. Gimana menurutmu?"
+    },
+    {
+        "Question": "Aku suka overthinking, apa itu termasuk gangguan mental?",
+        "Answer": "Overthinking nggak otomatis jadi gangguan mental, tapi kalau itu bikin kamu susah fokus atau cemas terus, mungkin ada baiknya kita coba atasi. Biasanya overthinking dipicu sama apa? Mungkin kita bisa coba teknik buat tenangin pikiran, seperti mindfulness. Mau coba?"
+    },
+    {
+        "Question": "Aku pengen tahu, apa sih bedanya gangguan mental sama penyakit mental?",
+        "Answer": "Gangguan mental biasanya soal pola pikir atau perilaku yang bikin hidupmu terganggu, kayak cemas berlebihan. Kalau penyakit mental, biasanya ada disfungsi dalam otak, kayak skizofrenia. Tapi dua-duanya bisa dipengaruhi lingkungan dan pengalaman hidup. Kamu lagi khawatir tentang apa terkait ini?"
+    },
+    {
+        "Question": "Aku ngerasa hidupku flat, nggak buruk tapi nggak bahagia juga. Ini kenapa ya?",
+        "Answer": "Kedengeran kayak kamu lagi di fase 'languishing', di mana hidup terasa biasa aja, nggak buruk tapi juga nggak bersemangat. Ini wajar, tapi mungkin kita bisa coba cari hal kecil yang bikin kamu excited lagi, kayak hobi atau ketemu temen. Apa yang dulu bikin kamu seneng?"
+    },
+    {
+        "Question": "Kalau aku minum obat antidepresan, apa aku bakal ketergantungan?",
+        "Answer": "Obat antidepresan nggak selalu bikin ketergantungan, tapi memang harus dipakai sesuai saran dokter. Mereka bantu atur kimia di otak, tapi nggak selesaikan semua masalah. Kalau kamu khawatir soal ini, mungkin ngobrol sama dokter atau konselor bisa bantu kasih gambaran. Kamu lagi mikir buat coba obat atau cuma penasaran?"
+    },
+    {
+        "Question": "Aku merasa lingkunganku toxic, tapi nggak bisa pindah. Apa yang bisa aku lakuin?",
+        "Answer": "Lingkungan toxic memang berat, apalagi kalau nggak bisa langsung pergi. Mungkin kamu bisa coba buat batasan, seperti kurangin interaksi sama orang yang bikin stres, atau cari waktu buat diri sendiri biar recharge. Apa yang bikin lingkunganmu terasa toxic? Kita bisa pikirin solusi bareng."
+    },
+    {
+        "Question": "Aku pengen nyanyi keras-keras di tengah malam biar stresku hilang. Boleh nggak?",
+        "Answer": "Haha, nyanyi keras-keras memang bisa ngelepasin emosi, tapi tengah malam mungkin bikin tetangga protes. Mungkin coba nyanyi di siang hari atau dengar musik keras pake earphone? Kalau stresnya berat, mungkin kita bisa coba cara lain, kayak jurnal atau olahraga. Apa yang bikin kamu stres banget?"
+    },
+    {
+        "Question": "Aku dengar orang bilang skizofrenia itu sama di semua negara. Bener nggak?",
+        "Answer": "Nggak sepenuhnya. Meskipun skizofrenia punya gejala inti yang mirip di mana-mana, cara gejalanya muncul atau dipahami bisa beda karena budaya. Misalnya, di satu tempat orang bilang itu 'kerasukan', di tempat lain dianggap penyakit otak. Kamu penasaran soal ini karena apa?"
+    },
+    {
+        "Question": "Aku nggak suka sama DSM, kok kayak semua orang bisa dikotak-kotakin gitu?",
+        "Answer": "Aku ngerti, DSM memang punya sisi kontroversial karena coba kasih label buat pengalaman yang sebenarnya kompleks. Itu lebih buat bantu dokter dan peneliti, tapi kadang nggak nampung konteks hidup seseorang. Kamu merasa label itu nggak adil buat siapa atau apa?"
+    },
+    {
+        "Question": "Aku merasa nggak punya tujuan hidup. Gimana caranya biar nggak gitu?",
+        "Answer": "Merasa nggak punya tujuan itu bisa bikin bingung, ya. Kadang, tujuan itu nggak harus besar, bisa dari hal kecil kayak bikin orang lain tersenyum atau nyobain sesuatu yang baru. Apa yang dulu bikin kamu semangat? Mungkin kita bisa mulai dari situ."
+    },
+    {
+        "Question": "Aku cemas terus, apa ini karena lingkunganku atau karena otakku?",
+        "Answer": "Cemas bisa datang dari dua-duanya. Lingkungan yang penuh tekanan bisa picu cemas, tapi otak juga punya peran, kayak ketidakseimbangan kimia. Kalau cemasnya sering, mungkin kita bisa coba lihat apa pemicunya di hidupmu. Apa yang biasanya bikin kamu cemas?"
+    },
+    {
+        "Question": "Aku pengen coba terapi, tapi takut nggak cocok. Gimana caranya milih terapi?",
+        "Answer": "Pilih terapi memang perlu coba-coba, karena tiap orang cocok sama pendekatan beda. Mungkin kamu bisa mulai cari tahu soal terapi kognitif atau terapi berbasis mindfulness, terus cari terapis yang bikin kamu nyaman. Mau aku jelasin beda-beda terapinya biar kamu punya gambaran?"
+    },
+    {
+        "Question": "Aku ngerasa orang-orang nggak ngerti aku, apa ini salahku?",
+        "Answer": "Nggak selalu salahmu. Kadang orang lain memang susah ngerti perasaan kita, apalagi kalau mereka nggak pernah ngalamin hal yang sama. Tapi mungkin kamu bisa coba ceritain apa yang kamu rasain ke seseorang yang deket. Siapa yang biasanya bikin kamu merasa didengar?"
+    },
+    {
+        "Question": "Aku pengen berhenti mikirin masa lalu, tapi susah banget. Ada saran?",
+        "Answer": "Masa lalu memang bisa nempel di pikiran, ya. Salah satu cara buat lepasin itu adalah coba fokus ke sekarang, misalnya dengan meditasi atau nulis apa yang kamu syukuri hari ini. Apa yang di masa lalu yang bikin kamu susah lepas? Mungkin ngobrolin itu bisa bantu."
+    },
+    {
+        "Question": "Aku dengar ada yang bilang depresi itu cuma sedih biasa. Bener nggak?",
+        "Answer": "Nggak bener. Depresi bukan cuma sedih biasa, tapi kondisi yang bikin seseorang susah berfungsi, kayak kehilangan motivasi atau energi buat hidup. Sedih biasa biasanya ada pemicu jelas dan nggak lama. Kalau kamu khawatir soal depresi, mau ceritain apa yang lagi kamu rasain?"
+    },
+    {
+        "Question": "Aku suka ngerasa sendiri, padahal banyak orang di sekitarku. Ini kenapa ya?",
+        "Answer": "Rasa kesepian nggak selalu soal jumlah orang di sekitarmu, tapi lebih ke seberapa nyambung kamu sama mereka. Mungkin kamu lagi butuh hubungan yang lebih dalam atau seseorang yang beneran ngerti. Ada nggak temen atau keluarga yang bisa kamu ajak ngobrol dari hati?"
+    }
+]

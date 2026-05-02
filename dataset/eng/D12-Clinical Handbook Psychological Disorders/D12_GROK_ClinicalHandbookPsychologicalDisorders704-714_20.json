@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "Aku merasa stres banget akhir-akhir ini karena sakit yang nggak kunjung sembuh. Apa yang bisa aku lakukan?",
+        "Answer": "Aku tahu rasanya berat banget kalau tubuh terus nggak enak. Coba mulai dengan latihan pernapasan diafragma, ini bisa bantu menenangkan pikiran dan tubuh. Tarik napas perlahan lewat hidung selama 3 detik, biarkan perutmu mengembang, lalu hembuskan perlahan lewat mulut selama 5 detik. Lakukan ini 10 menit sehari, mungkin di pagi hari. Mau coba? Aku bisa ingatkan kalau kamu mau."
+    },
+    {
+        "Question": "Kadang aku takut keluar rumah karena khawatir sakitku kambuh. Gimana caranya biar aku lebih berani?",
+        "Answer": "Wajar kok merasa takut, tapi kalau terus menghindari, bisa makin susah. Coba mulai dengan langkah kecil, misalnya pergi ke toko dekat rumah untuk beli satu barang aja. Tulis apa yang bikin takut sebelum pergi, dan setelah pulang, lihat apakah ketakutan itu beneran terjadi. Ini bisa bantu kamu lihat bahwa kadang kekhawatiran itu nggak seburuk kenyataannya. Aku dukung kamu, mulai kapan?"
+    },
+    {
+        "Question": "Aku merasa nggak berguna karena nggak bisa ngapa-ngapain seperti dulu. Apa aku bakal gini selamanya?",
+        "Answer": "Rasanya pasti berat banget, tapi pikiran ‘nggak berguna’ itu cuma salah satu cara pikiranmu ngomong sekarang, bukan fakta. Coba kita buat daftar kecil tentang hal-hal yang masih bisa kamu lakukan, sekecil apa pun, misalnya jalan kaki 5 menit. Lalu, kita bisa bikin tujuan kecil untuk nambah aktivitas perlahan. Mau coba tulis satu hal yang kamu masih bisa lakukan sekarang?"
+    },
+    {
+        "Question": "Aku cuma pengen nyerah, ngapain berusaha kalau sakit ini nggak hilang-hilang?",
+        "Answer": "Aku dengar kamu lagi merasa putus asa, dan itu wajar kalau kamu udah berjuang lama. Tapi nyerah mungkin bikin kamu kehilangan kesempatan buat merasa lebih baik. Coba kita fokus ke satu hal kecil yang bisa bikin harimu sedikit lebih nyaman, misalnya dengar musik yang kamu suka atau latihan relaksasi otot. Apa satu hal kecil yang bisa kamu coba hari ini?"
+    },
+    {
+        "Question": "Aku sering marah sama diri sendiri karena nggak bisa kayak orang lain. Gimana caranya berhenti gitu?",
+        "Answer": "Marah sama diri sendiri itu kayak nyanyi lagu yang bikin sedih berulang-ulang. Coba kita ganti lagunya. Setiap kali kamu mulai marah, tulis pikiran itu, misalnya ‘Aku nggak bisa apa-apa’. Lalu tanya, ‘Apa bener aku nggak bisa apa-apa?’ Cari bukti yang menunjukkan kamu masih bisa melakukan sesuatu, sekecil apa pun. Ini namanya restrukturisasi kognitif. Mau coba sekarang bareng aku?"
+    },
+    {
+        "Question": "Aku coba relaksasi, tapi pikiranku malah kemana-mana. Apa aku salah melakukannya?",
+        "Answer": "Nggak salah kok! Pikiran yang lari-lari itu normal, apalagi kalau kamu baru mulai. Saat pikiranmu melayang, cuma perhatikan aja, lalu bawa fokus kembali ke napasmu. Bayangin pikiran itu kayak awan yang lewat. Coba latihan diafragma lagi, mungkin 5 menit dulu, dan catat apa yang bikin susah. Nanti kita obrolin bareng, oke?"
+    },
+    {
+        "Question": "Aku pengen aktif lagi, tapi takut sakitku tambah parah. Apa yang harus aku lakukan?",
+        "Answer": "Takut itu wajar, tapi menghindari aktivitas bisa bikin ototmu makin lemah, dan itu malah nambah rasa sakit. Coba mulai dengan tujuan kecil, kayak jalan kaki sekali seminggu di sekitar rumah. Tulis apa yang kamu rasakan sebelum dan sesudah. Kalau khawatir, mungkin konsultasi dulu sama dokter buat pastikan aktivitas yang aman. Apa tujuan kecil yang pengen kamu coba minggu ini?"
+    },
+    {
+        "Question": "Aku merasa kesepian karena nggak bisa ketemu temen seperti dulu. Apa yang bisa aku lakukan?",
+        "Answer": "Kesepian itu berat, ya. Coba mulai dengan sesuatu yang ringan, misalnya telepon atau kirim pesan ke satu teman yang kamu percaya. Nggak perlu langsung ketemu, cukup ngobrol singkat. Atau, kalau kamu suka, coba visual imagery: bayangin tempat favoritmu yang bikin tenang, rasakan suasananya. Ini bisa bantu sedikit kurangi rasa sendirian. Mau coba yang mana dulu?"
+    },
+    {
+        "Question": "Aku suka bayangin tempat yang tenang, tapi apa itu beneran membantu?",
+        "Answer": "Pasti! Visual imagery itu kayak liburan singkat buat pikiranmu. Bayangin tempat yang bikin kamu nyaman, perhatikan detailnya—bau, suara, apa yang kamu lihat. Ini bisa bantu tubuhmu rileks dan kurangi stres. Coba lakukan 10 menit sehari, mungkin sebelum tidur. Tempat apa yang biasa kamu bayangin? Ceritain dong!"
+    },
+    {
+        "Question": "Kadang aku merasa nggak ada gunanya ngomongin perasaanku. Buat apa sih?",
+        "Answer": "Aku tahu rasanya kayak buang-buang waktu, tapi ngomongin perasaan itu kayak buka jendela di ruangan pengap. Bantu pikiranmu lebih lega. Coba tulis satu perasaan yang lagi berat hari ini, misalnya di buku harian atau aplikasi catatan. Kalau mau, aku bisa dengerin juga. Apa satu hal yang lagi bikin kamu sesak sekarang?"
+    },
+    {
+        "Question": "Aku coba jalan kaki, tapi malah capek dan sakit. Apa aku harus berhenti?",
+        "Answer": "Capek dan sakit setelah jalan itu bisa jadi tanda kamu perlu atur ulang langkahnya, bukan berhenti. Coba kurangi durasinya, misalnya dari 10 menit jadi 5 menit, atau jalan di tempat yang lebih datar. Catat apa yang bikin sakit, lalu kita lihat polanya. Kalau sakitnya parah, mungkin cek ke dokter dulu. Mau coba atur ulang tujuannya sekarang?"
+    },
+    {
+        "Question": "Aku merasa hidupku nggak akan pernah normal lagi. Apa aku salah berpikir gitu?",
+        "Answer": "Pikiran itu wajar muncul kalau kamu lagi berat, tapi itu nggak berarti bener. Coba kita cek: apa sih ‘normal’ buatmu? Tulis satu hal kecil yang bisa bikin harimu terasa lebih ‘normal’, misalnya minum kopi sambil dengar musik. Lalu kita mulai dari situ. Pikiran itu kayak kacamata buram, kita coba bersihin perlahan. Mau coba tulis sekarang?"
+    },
+    {
+        "Question": "Aku pengen coba relaksasi otot, tapi takut salah. Gimana caranya?",
+        "Answer": "Keren, kamu mau coba relaksasi otot! Caranya gampang: mulai dari satu kelompok otot, misalnya tangan. Kencangkan otot itu selama 5 detik, lalu lepas dan rasakan rileksnya selama 10 detik. Lanjut ke kelompok otot lain, seperti kaki. Lakukan di tempat tenang, mungkin 10 menit. Kalau bingung, aku bisa pandu langkah-langkahnya. Mau mulai dari otot mana dulu?"
+    },
+    {
+        "Question": "Aku suka overthinking, apa ada cara buat tenangin pikiran?",
+        "Answer": "Overthinking itu kayak roda yang nggak berhenti muter, ya. Coba latihan pernapasan diafragma: tarik napas 3 detik, tahan, lalu hembuskan 5 detik. Fokus ke napasmu, kalau pikiran lari, bawa balik ke napas. Lakukan ini 5 menit tiap kali overthinking muncul. Atau, tulis pikiranmu di kertas buat ‘buang’ dari kepala. Mana yang mau dicoba dulu?"
+    },
+    {
+        "Question": "Aku pengen balik kerja, tapi takut nggak kuat. Apa yang bisa aku lakukan?",
+        "Answer": "Keren banget kamu udah mikirin balik kerja! Coba mulai dengan tujuan kecil, misalnya simulasi kerja di rumah: duduk di meja selama 30 menit sambil fokus ke tugas ringan. Catat apa yang bikin khawatir, lalu kita obrolin cara atasin. Kalau memungkinkan, ngobrol sama dokter atau atasan buat atur beban kerja. Apa langkah kecil yang bisa kamu coba minggu ini?"
+    },
+    {
+        "Question": "Aku merasa orang-orang nggak ngerti sakitku. Apa aku harus cerita ke mereka?",
+        "Answer": "Pasti frustrasi kalau merasa nggak dipahami. Cerita ke orang lain bisa bantu, tapi pilih yang kamu percaya dan mulai dengan hal sederhana, misalnya bilang, ‘Aku lagi berusaha atasi sakitku, kadang butuh waktu.’ Kalau nggak nyaman cerita, coba tulis perasaanmu dulu buat bantu pikiran lebih jernih. Mau coba tulis atau cerita ke seseorang? Aku dengerin kalau kamu mau."
+    },
+    {
+        "Question": "Aku coba ke dokter, tapi kok nggak ada perubahan. Apa aku harus nyerah aja?",
+        "Answer": "Frustrasi banget ya kalau udah coba tapi nggak ada hasil. Tapi nyerah mungkin bukan jawaban, karena tiap orang butuh pendekatan beda. Coba catat gejala yang masih ada, lalu bawa ke dokter untuk diskusi ulang, mungkin perlu pendekatan lain. Sambil itu, kita bisa coba relaksasi atau tujuan kecil kayak jalan kaki buat bantu mood. Mau coba catat gejalanya sekarang?"
+    },
+    {
+        "Question": "Aku pengen coba visual imagery, tapi bingung mulai dari mana. Bantu aku dong!",
+        "Answer": "Asyik, visual imagery itu seru! Coba bayangin tempat yang bikin kamu tenang, misalnya pantai. Tutup mata, tarik napas dalam, lalu bayangin: apa yang kamu lihat, dengar, cium? Mungkin ombak, pasir, atau bau laut. Lakukan 5-10 menit di tempat tenang. Tempat apa yang pengen kamu bayangin? Ceritain, aku bantu pandu!"
+    },
+    {
+        "Question": "Aku merasa nggak ada yang peduli sama aku. Apa aku salah merasa gitu?",
+        "Answer": "Rasa nggak dipedulikan itu berat, dan wajar kok muncul kalau kamu lagi struggle. Tapi kadang pikiran ini bikin kita lupa orang-orang yang sebenarnya peduli. Coba ingat satu orang yang pernah bantu kamu, sekecil apa pun. Kalau mau, hubungi dia untuk ngobrol ringan. Atau ceritain ke aku apa yang bikin kamu merasa gitu, aku dengerin."
+    },
+    {
+        "Question": "Aku takut kalau sakitku bikin aku nggak bisa bahagia lagi. Apa yang bisa aku lakukan?",
+        "Answer": "Takut kehilangan kebahagiaan itu wajar, tapi sakitmu nggak harus menentukan segalanya. Coba kita cari satu hal kecil yang bikin kamu senyum, misalnya nonton film favorit atau ngobrol sama temen. Tulis apa yang bikin bahagia, sekecil apa pun, lalu kita coba tambah pelan-pelan. Apa satu hal yang bikin kamu senyum akhir-akhir ini?"
+    }
+]

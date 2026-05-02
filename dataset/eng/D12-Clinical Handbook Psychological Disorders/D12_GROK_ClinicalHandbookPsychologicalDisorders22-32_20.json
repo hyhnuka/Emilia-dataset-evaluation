@@ -1,0 +1,82 @@
+ [
+    {
+      "Question": "Aku sering merasa panik tiba-tiba tanpa alasan yang jelas, itu kenapa ya?",
+      "Answer": "Itu bisa jadi tanda gangguan panik. Panic attack biasanya muncul mendadak dan bikin takut, tapi bukan berarti ada bahaya nyata. Mungkin kamu khawatir tentang serangan itu datang lagi? Coba ceritain lebih detail, aku dengerin."
+    },
+    {
+      "Question": "Kalau jantungan tiba-tiba pas panik, itu artinya aku sakit jantungan beneran, kan?",
+      "Answer": "Nggak selalu. Sensasi jantungan atau detak jantung cepat sering terjadi saat panic attack karena tubuh lagi dalam mode ‘fight or flight’. Tapi, kalau kamu khawatir, sebaiknya periksa ke dokter untuk memastikan. Apa kamu sering merasa begini?"
+    },
+    {
+      "Question": "Aku takut keluar rumah karena khawatir panik di tempat umum, apa ini normal?",
+      "Answer": "Rasa takut itu bisa jadi tanda agoraphobia, di mana seseorang menghindari situasi yang bikin cemas, seperti tempat ramai. Itu bukan hal yang ‘aneh’, tapi bisa bikin hidup terbatas. Apa kamu mau coba langkah kecil untuk menghadapi ketakutan ini bareng aku?"
+    },
+    {
+      "Question": "Kenapa aku selalu merasa ada bahaya besar tiap jantungan atau pusing?",
+      "Answer": "Itu mungkin karena otakmu ‘membaca’ sensasi tubuh, seperti jantungan, sebagai tanda bahaya besar, padahal belum tentu. Ini sering terjadi pada gangguan panik. Coba tarik napas dalam-dalam perlahan, itu bisa membantu menenangkan. Mau aku pandu?"
+    },
+    {
+      "Question": "Aku suka kabur kalau mulai panik, apa itu salah?",
+      "Answer": "Wajar kalau kamu ingin kabur dari rasa takut itu, tapi itu bisa bikin ketakutanmu bertambah di masa depan. Mencoba bertahan di situasi itu sedikit demi sedikit justru bisa membantu. Apa kamu mau coba teknik relaksasi dulu untuk mengurangi paniknya?"
+    },
+    {
+      "Question": "Aku nggak takut apa-apa, tapi tiba-tiba panik, ini aneh nggak?",
+      "Answer": "Nggak aneh. Panic attack bisa datang tanpa pemicu yang jelas, itu disebut ‘unexpected’. Itu ciri gangguan panik. Yang bikin takut biasanya khawatir serangan itu datang lagi. Apa kamu merasa begitu juga?"
+    },
+    {
+      "Question": "Kalau aku panik di rapat, pasti orang-orang nge-judge aku, kan?",
+      "Answer": "Aku ngerti kamu takut orang lain notice atau judge, tapi seringkali orang nggak se-critical yang kamu bayangin. Kalau ini sering terjadi, mungkin ada kecemasan sosial juga. Apa yang bikin kamu paling takut kalau orang notice kamu panik?"
+    },
+    {
+      "Question": "Aku cemas soal anakku kalau aku sakit, sampe panik. Apa ini gangguan panik?",
+      "Answer": "Kecemasanmu tentang anakmu terdengar lebih seperti generalized anxiety disorder, di mana kekhawatiran sulit dikontrol. Paniknya mungkin akibat dari cemas yang menumpuk. Apa kamu sering merasa cemas berlebihan soal hal lain juga?"
+    },
+    {
+      "Question": "Aku cuma mau minum obat biar nggak panik lagi, apa itu cukup?",
+      "Answer": "Obat bisa membantu, tapi gangguan panik sering lebih tahan lama diatasi dengan terapi, seperti cognitive-behavioral therapy. Itu bantu kamu mengelola ketakutan dan sensasi tubuh. Apa kamu tertarik tahu lebih banyak soal terapi ini?"
+    },
+    {
+      "Question": "Aku takut mati tiap panic attack, apa itu wajar?",
+      "Answer": "Rasa takut mati itu sering muncul saat panic attack karena sensasi tubuhnya intens. Tapi itu bukan tanda bahaya nyata, hanya reaksi tubuh yang berlebihan. Coba ceritain apa yang bikin kamu paling takut, aku bantu tenangin."
+    },
+    {
+      "Question": "Aku nggak mau ke dokter, takut dibilang gila. Apa aku bisa sembuh sendiri?",
+      "Answer": "Kamu nggak gila, gangguan panik itu kondisi yang umum dan bisa diatasi. Sembuh sendiri mungkin sulit, tapi ada self-help seperti buku atau aplikasi. Tapi, ketemu profesional bakal lebih cepat bantu. Apa yang bikin kamu takut ketemu dokter?"
+    },
+    {
+      "Question": "Aku coba tarik napas dalam, tapi malah tambah panik, kenapa?",
+      "Answer": "Kadang fokus ke napas justru bikin orang lebih peka sama sensasi tubuh, yang bikin panik bertambah. Coba alihkan perhatian ke sekitar, seperti hitung benda di ruangan. Mau aku ajarin teknik grounding lain?"
+    },
+    {
+      "Question": "Aku takut ke dokter mata karena khawatir panik di ruang tunggu, apa yang harus kulakukan?",
+      "Answer": "Itu bisa jadi tanda agoraphobia. Coba mulai dengan langkah kecil, seperti datang ke klinik tapi nggak masuk dulu, cuma duduk di parkiran. Aku bisa bantu buat rencana langkah demi langkah, mau coba?"
+    },
+    {
+      "Question": "Aku merasa panik itu karena aku lemah, bener nggak?",
+      "Answer": "Nggak, panik bukan tanda kamu lemah. Itu reaksi otak dan tubuh yang berlebihan terhadap sesuatu yang dianggap ancaman. Banyak orang kuat mengalami ini. Apa kamu sering merasa menyalahkan diri sendiri soal ini?"
+    },
+    {
+      "Question": "Aku coba hindari kafein biar nggak panik, tapi nggak membantu, kenapa?",
+      "Answer": "Menghindari kafein bagus karena itu bisa memicu sensasi mirip panik, tapi kalau nggak membantu, mungkin ada pemicu lain, seperti pikiran cemas atau situasi tertentu. Apa kamu notice kapan panik itu paling sering muncul?"
+    },
+    {
+      "Question": "Aku takut panik di lift, jadi selalu naik tangga. Apa ini buruk?",
+      "Answer": "Menghindari lift bisa bikin kamu merasa aman sementara, tapi itu bisa memperkuat ketakutan jangka panjang. Coba hadapi lift sedikit demi sedikit, mungkin mulai dari masuk lift tanpa naik. Aku bisa bantu bikin rencana, tertarik?"
+    },
+    {
+      "Question": "Aku panik tiap buah hati ngeluh sakit, apa ini gangguan panik?",
+      "Answer": "Kedengerannya lebih seperti kecemasan berlebih tentang kesehatan anakmu, mungkin mirip generalized anxiety. Paniknya muncul karena kekhawatiran itu. Apa kamu sering cemas soal hal lain selain kesehatan anak?"
+    },
+    {
+      "Question": "Aku mau coba terapi online, apa itu efektif buat gangguan panik?",
+      "Answer": "Iya, terapi online, terutama cognitive-behavioral therapy, bisa sangat efektif untuk gangguan panik. Bahkan ada studi yang bilang hasilnya mirip dengan terapi tatap muka. Apa kamu mau aku bantu cari tahu lebih banyak soal ini?"
+    },
+    {
+      "Question": "Aku merasa panik karena aku nggak bisa kontrol tubuhku, apa itu normal?",
+      "Answer": "Perasaan kehilangan kontrol itu umum saat panic attack, karena sensasi tubuhnya begitu kuat. Tapi kamu nggak benar-benar kehilangan kontrol. Coba teknik grounding, seperti pegang benda di dekatmu. Mau aku ajarin caranya?"
+    },
+    {
+      "Question": "Aku cuma mau panikku hilang tanpa usaha, apa bisa?",
+      "Answer": "Aku ngerti kamu ingin cepat sembuh, tapi gangguan panik biasanya butuh usaha, seperti terapi atau latihan relaksasi, untuk bener-bener membaik. Tanpa usaha, mungkin sulit. Apa kamu mau coba satu teknik kecil dulu bareng aku?"
+    }
+  ]

@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "Aku merasa hidupku nggak ada artinya, apalagi kalau lihat orang lain yang sukses. Apa yang salah sama aku?",
+        "Answer": "Aku ngerti banget rasanya membandingkan diri sama orang lain, itu bisa bikin kita merasa kecil. Tapi, setiap orang punya perjalanan sendiri, dan nilaimu nggak ditentukan oleh apa yang orang lain capai. Coba ceritain, apa sih yang lagi bikin kamu merasa nggak berarti? Mungkin kita bisa cari satu hal kecil yang bisa bikin kamu merasa lebih baik hari ini."
+    },
+    {
+        "Question": "Kenapa ya aku selalu merasa cemas kalau soal uang? Tiap bayar tagihan rasanya deg-degan.",
+        "Answer": "Rasa cemas soal uang itu wajar, apalagi kalau lagi ketat. Berdasarkan apa yang aku tahu, kesulitan ekonomi bisa bikin kita merasa nggak aman, dan itu normal. Mungkin kita bisa coba buat rencana kecil, seperti catat pengeluaran atau cari cara hemat di satu area. Apa kamu mau coba ceritain apa yang paling bikin cemas soal tagihanmu?"
+    },
+    {
+        "Question": "Aku pengen punya banyak uang biar hidupku nggak susah. Emang bener nggak sih uang bisa bikin bahagia?",
+        "Answer": "Uang memang bisa membantu mengurangi stres, misalnya buat kebutuhan dasar seperti makanan atau kesehatan. Tapi, kebahagiaan nggak cuma dari situ. Kadang, merasa punya tujuan atau hubungan yang baik dengan orang lain juga besar pengaruhnya. Apa sih yang kamu pikir bakal bikin hidupmu lebih bahagia kalau punya uang?"
+    },
+    {
+        "Question": "Aku kerja full-time, tapi kok rasanya hidupku nggak seimbang. Aku capek banget.",
+        "Answer": "Kerja full-time memang bisa nguras energi, apalagi kalau nggak ada waktu buat diri sendiri. Aku denger, kerja itu bisa bikin kita merasa berharga, tapi kalau terlalu berat, bisa bikin stres. Coba ceritain, apa yang bikin kamu merasa nggak seimbang? Mungkin kita bisa pikirin cara kecil buat kasih ruang buat istirahat."
+    },
+    {
+        "Question": "Aku nggak kerja sekarang, dan rasanya aku nggak berguna. Gimana caranya biar aku nggak merasa gini?",
+        "Answer": "Nggak kerja bisa bikin kita merasa kehilangan arah, dan itu wajar. Tapi, nilai kamu nggak cuma dari pekerjaan. Mungkin kita bisa cari satu aktivitas kecil yang bikin kamu merasa produktif, seperti belajar sesuatu yang kamu suka atau bantu orang di sekitar. Apa ada sesuatu yang pengen kamu coba?"
+    },
+    {
+        "Question": "Aku udah menikah, tapi kok kadang merasa kesepian. Apa aku salah harapan dari pernikahan?",
+        "Answer": "Merasa kesepian meski sudah menikah itu bisa terjadi, dan nggak berarti kamu salah. Pernikahan memang bisa kasih dukungan, tapi kadang kita juga butuh koneksi di luar itu atau waktu buat diri sendiri. Coba ceritain, apa yang bikin kamu merasa kesepian? Mungkin kita bisa pikirin cara buat ngatasinnya bareng."
+    },
+    {
+        "Question": "Pernikahanku lagi nggak baik, dan aku pengen pisah. Tapi aku takut nggak bisa hidup sendiri.",
+        "Answer": "Itu pasti berat banget, dan wajar kalau kamu takut. Memikirkan perpisahan itu besar, dan penting buat pertimbangin apa yang bikin kamu nggak bahagia di pernikahanmu. Mungkin kita bisa ngobrol soal apa yang lagi bikin kamu nggak nyaman, atau kamu bisa coba bicara sama seseorang yang kamu percaya. Apa yang lagi bikin kamu ragu?"
+    },
+    {
+        "Question": "Aku punya anak, tapi kok rasanya aku nggak cukup sebagai orang tua. Aku takut gagal.",
+        "Answer": "Jadi orang tua itu tantangan besar, dan rasa takut gagal itu menunjukkan kamu peduli. Anak-anak memang bisa bikin stres, apalagi kalau keuangan atau waktu terbatas. Coba ceritain, apa yang bikin kamu merasa nggak cukup? Mungkin kita bisa cari satu cara kecil buat bikin kamu merasa lebih percaya diri."
+    },
+    {
+        "Question": "Orang tuaku bercerai waktu aku kecil, dan sekarang aku susah percaya sama orang. Apa ini normal?",
+        "Answer": "Wajar banget kalau pengalaman itu bikin kamu sulit percaya. Perpisahan orang tua bisa ninggalin luka yang berpengaruh sampai dewasa. Tapi, kamu nggak sendiri, dan perlahan kamu bisa belajar buka hati lagi. Apa kamu mau ceritain apa yang bikin kamu susah percaya sekarang? Aku di sini buat dengerin."
+    },
+    {
+        "Question": "Aku nggak punya pendidikan tinggi, dan rasanya aku tertinggal sama temen-temenku. Apa aku bisa sukses?",
+        "Answer": "Pendidikan memang membantu, tapi itu bukan satu-satunya jalan buat sukses. Banyak orang berhasil dengan kerja keras, keterampilan, atau koneksi yang mereka bangun. Coba ceritain, apa definisi sukses buat kamu? Mungkin kita bisa cari langkah kecil buat menuju ke sana."
+    },
+    {
+        "Question": "Aku merasa nggak bisa ngontrol hidupku. Semua kayak kejadian begitu aja. Gimana caranya biar aku nggak gini?",
+        "Answer": "Rasa nggak punya kendali itu bisa bikin kita lelah. Kadang, mulai dari hal kecil, seperti bikin jadwal harian atau pilih satu tujuan kecil, bisa membantu. Aku tahu, hidup nggak selalu bisa dikontrol, tapi kita bisa coba ambil langkah kecil. Apa satu hal yang pengen kamu coba kendalikan?"
+    },
+    {
+        "Question": "Aku sering merasa sedih tanpa alasan. Apa ini cuma perasaan biasa atau ada yang salah sama aku?",
+        "Answer": "Merasa sedih tanpa alasan itu bisa terjadi, dan nggak selalu berarti ada yang salah. Tapi, kalau ini sering, mungkin ada baiknya perhatiin pola hidupmu atau bicara sama seseorang yang bisa bantu, seperti konselor. Coba ceritain, apa yang biasanya bikin kamu sedih? Aku di sini buat ngobrol."
+    },
+    {
+        "Question": "Kesehatanku lagi nggak baik, dan aku takut nggak bisa ngapa-ngapain lagi. Gimana caranya biar aku nggak stres?",
+        "Answer": "Masalah kesehatan itu berat, dan wajar kalau bikin takut. Kadang, fokus pada apa yang masih bisa kamu lakukan, sekecil apa pun, bisa membantu. Mungkin kita bisa pikirin satu aktivitas ringan yang bikin kamu merasa lebih baik. Apa yang lagi bikin kamu khawatir soal kesehatanmu?"
+    },
+    {
+        "Question": "Aku pengen coba bunuh diri biar nggak susah lagi. Apa aku salah kalau mikir gini?",
+        "Answer": "Aku sedih banget denger kamu merasa gini, dan kamu nggak salah punya pikiran itu—itu tanda kamu lagi berat banget. Tapi, tolong jangan lakukan apa-apa dulu. Hidupmu berharga, dan ada orang yang peduli. Bisakah kamu ceritain apa yang bikin kamu merasa nggak tahan? Aku di sini, atau mungkin kamu bisa hubungi nomor darurat seperti 112."
+    },
+    {
+        "Question": "Aku nggak punya temen deket, dan rasanya nggak ada yang peduli. Gimana caranya biar aku nggak kesepian?",
+        "Answer": "Kesepian itu berat, dan wajar kalau kamu pengen koneksi. Mungkin kita bisa mulai dari hal kecil, seperti ikut komunitas yang kamu suka atau ngobrol sama seseorang di sekitar. Coba ceritain, apa yang biasanya bikin kamu seneng? Mungkin dari situ kita bisa cari cara buat ketemu orang baru."
+    },
+    {
+        "Question": "Aku takut tua, soalnya kayaknya hidup bakal lebih susah. Apa bener gitu?",
+        "Answer": "Takut tua itu wajar, apalagi kalau kita dengar cerita soal kesehatan atau keuangan. Tapi, banyak orang tua yang justru merasa lebih bijak dan tenang karena pengalaman. Mungkin kita bisa fokus pada apa yang bisa kamu lakukan sekarang buat bikin masa depan lebih baik. Apa yang paling bikin kamu takut soal tua?"
+    },
+    {
+        "Question": "Aku merasa orang-orang cuma manfaatin aku. Gimana caranya biar aku nggak gampang percaya?",
+        "Answer": "Rasa nggak percaya itu bisa muncul kalau kita pernah disakiti. Penting buat jaga batasan, tapi juga nggak nutup diri total. Mungkin kita bisa ngobrol soal situasi yang bikin kamu merasa dimanfaatkan. Apa yang biasanya bikin kamu curiga sama orang?"
+    },
+    {
+        "Question": "Aku pengen berhenti kerja, tapi takut nggak punya penghasilan. Apa aku harus tahan aja?",
+        "Answer": "Itu keputusan besar, dan wajar kalau kamu bimbang. Berhenti kerja bisa bikin lega, tapi keuangan memang perlu dipikirin. Coba ceritain, apa yang bikin kamu pengen berhenti? Mungkin kita bisa cari cara buat kurangin stres di kerjaanmu dulu."
+    },
+    {
+        "Question": "Aku nggak punya anak, dan kadang merasa nggak lengkap. Apa aku egois kalau nggak mau punya anak?",
+        "Answer": "Nggak ada yang egois dari pilihan itu. Setiap orang punya alasan sendiri soal anak, dan itu nggak bikin kamu kurang berharga. Coba ceritain, apa yang bikin kamu merasa nggak lengkap? Mungkin kita bisa cari hal lain yang bikin hidupmu terasa penuh."
+    },
+    {
+        "Question": "Aku merasa hidupku nggak akan pernah berubah. Apa ada harapan buat aku?",
+        "Answer": "Aku ngerti rasanya stuck, tapi perubahan itu selalu mungkin, meski kecil. Kadang, langkah kecil seperti coba hobi baru atau ngobrol sama orang baru bisa bikin beda. Coba ceritain, apa yang pengen kamu ubah? Aku di sini buat bantu pikirin langkah pertamanya."
+    }
+]

@@ -1,0 +1,82 @@
+ [
+    {
+      "Question": "Aku sering bingung kenapa aku bertindak begitu. Apa yang bikin aku berperilaku seperti ini?",
+      "Answer": "Perilaku kita itu kayak puzzle, dipengaruhi banyak hal. Bisa dari dalam diri, seperti perasaan atau motivasi, tapi juga dari lingkungan sekitar, seperti temen atau situasi. Coba pikirin, apa yang lagi bikin kamu merasa tertekan atau termotivasi akhir-akhir ini? Ceritain ke aku, mungkin kita bisa lihat polanya bareng."
+    },
+    {
+      "Question": "Aku merasa susah banget milih keputusan yang bener. Gimana caranya biar gak salah pilih?",
+      "Answer": "Memilih itu emang gak gampang, apalagi kalau banyak opsi. Coba deh pikirkan, apa yang paling penting buat kamu dari pilihan itu? Tulis pro dan kontra, terus bayangin apa dampaknya buat kamu nanti. Gak usah buru-buru, ambil waktu buat merenung. Apa yang bikin kamu ragu dari keputusan ini? Ceritain ke aku."
+    },
+    {
+      "Question": "Aku ngerasa aku gak bisa berubah, kayak sifatku udah gitu dari lahir. Bener gitu?",
+      "Answer": "Gak sepenuhnya gitu. Memang ada sifat bawaan, tapi kamu juga punya kekuatan buat berubah lewat pengalaman dan lingkungan. Misalnya, kalau kamu merasa pemalu, coba pelan-pelan ajak diri sendiri ngobrol sama orang baru. Perubahan kecil bisa bikin beda. Apa sifat yang pengen kamu ubah? Kita bisa coba langkah kecil bareng."
+    },
+    {
+      "Question": "Kenapa ya aku merasa lingkungan sekitar bikin aku stres terus?",
+      "Answer": "Lingkungan memang bisa pengaruh besar ke perasaan kita. Misalnya, tempat yang ramai atau hubungan yang tegang bisa bikin stres. Coba perhatiin, apa di lingkunganmu yang bikin kamu gak nyaman? Mungkin kita bisa cari cara buat ngatasinnya, seperti ambil waktu buat relaks atau ngobrol sama orang yang suportif."
+    },
+    {
+      "Question": "Aku ngerasa gak punya bakat apa-apa. Apa ini karena keturunan?",
+      "Answer": "Gak usah khawatir soal keturunan. Setiap orang punya potensi, tapi kadang perlu lingkungan yang tepat buat nemuinnya. Coba inget-inget, apa yang pernah bikin kamu seneng atau penasaran? Mulai dari situ, pelan-pelan coba eksplor. Apa yang lagi pengen kamu pelajari? Aku bisa bantu kasih ide."
+    },
+    {
+      "Question": "Aku takut gagal kalau coba hal baru. Gimana cara ngatasinnya?",
+      "Answer": "Takut gagal itu wajar banget. Coba mulai dari langkah kecil, jadi gak terasa berat. Misalnya, kalau mau coba hobi baru, mulai dari yang sederhana dulu. Ingat, gagal itu cuma bagian dari proses belajar. Apa hal baru yang lagi pengen kamu coba? Ceritain, aku bantu dukung!"
+    },
+    {
+      "Question": "Aku ngerasa hidupku gak berkembang. Apa yang salah?",
+      "Answer": "Kadang kita merasa stuck karena gak yakin arah yang mau dituju. Coba renungin, apa yang bikin kamu merasa hidupmu gak berkembang? Mungkin kamu bisa coba sesuatu yang baru, seperti hobi atau ngobrol sama orang baru. Apa yang lagi bikin kamu merasa gitu? Aku dengerin kok."
+    },
+    {
+      "Question": "Aku susah ngontrol emosi. Apa ini karena sifat bawaan?",
+      "Answer": "Emosi memang bisa dipengaruhi sifat bawaan, tapi kamu juga bisa latih buat ngelolanya. Misalnya, tarik napas dalam-dalam pas lagi kesel, atau tulis apa yang bikin emosi. Lama-lama, kamu bakal lebih paham pemicunya. Apa yang biasanya bikin kamu emosi? Ceritain ke aku."
+    },
+    {
+      "Question": "Aku ngerasa lingkungan keluargaku bikin aku gak bebas. Apa yang harus kulakukan?",
+      "Answer": "Lingkungan keluarga emang bisa ngerasa membatasi. Coba cari waktu buat ngobrol jujur sama mereka, tapi dengan cara yang kalem. Jelasin apa yang kamu butuhin buat merasa lebih bebas. Kalau susah, mungkin kamu bisa cari ruang buat ekspresi diri di luar rumah, seperti hobi. Apa yang bikin kamu merasa terbatas? Aku dengerin."
+    },
+    {
+      "Question": "Aku pengen jadi lebih percaya diri, tapi gak tahu caranya. Bisa bantu?",
+      "Answer": "Percaya diri itu bisa dilatih. Coba mulai dari hal kecil, seperti puji diri sendiri pas berhasil sesuatu, sekecil apa pun. Atau coba lakuin sesuatu yang bikin kamu nyaman, kayak olahraga atau seni. Apa yang bikin kamu gak percaya diri? Ceritain, kita cari cara bareng."
+    },
+    {
+      "Question": "Aku ngerasa pendidikan gak ngaruh apa-apa ke hidupku. Bener gitu?",
+      "Answer": "Pendidikan gak selalu ngaruh langsung, tapi bisa buka cara pandang baru. Tapi gak cuma pendidikan formal, pengalaman hidup juga ngajarin banyak. Coba pikir, apa yang lagi pengen kamu pelajari, di sekolah atau di luar? Apa yang bikin kamu merasa gitu? Aku dengerin."
+    },
+    {
+      "Question": "Aku ngerasa sifatku mirip orang tuaku. Apa ini gak bisa diubah?",
+      "Answer": "Wajar kalau ada kemiripan sama orang tua, tapi kamu bukan cuma kopian mereka. Kamu punya kesempatan buat bentuk sifatmu sendiri lewat pilihan dan pengalaman. Coba pikir, sifat apa yang pengen kamu kembangkan? Aku bisa bantu kasih saran."
+    },
+    {
+      "Question": "Aku ngerasa lingkungan bikin aku jadi orang yang gak aku suka. Apa yang harus kulakukan?",
+      "Answer": "Lingkungan emang bisa ngubah kita, tapi kamu punya kuasa buat milih responmu. Coba cari lingkungan yang lebih suportif, seperti komunitas atau temen yang sevisi. Apa di lingkunganmu yang bikin kamu gak nyaman? Ceritain, kita pikirin solusi bareng."
+    },
+    {
+      "Question": "Aku ngerasa gak punya kendali atas hidupku. Gimana caranya ambil kendali?",
+      "Answer": "Merasa gak punya kendali itu berat. Coba mulai dari hal kecil yang bisa kamu atur, seperti rutinitas harian atau hobi. Tulis apa yang pengen kamu capai, terus pecah jadi langkah kecil. Apa yang bikin kamu merasa gak berdaya? Aku dengerin kok."
+    },
+    {
+      "Question": "Aku pengen berubah jadi lebih baik, tapi gak tahu mulai dari mana. Saran?",
+      "Answer": "Berubah itu proses, gak usah buru-buru. Coba pilih satu hal kecil yang pengen kamu tingkatkan, misalnya tidur lebih teratur atau lebih sering bersyukur. Tulis progresmu biar kelihatan. Apa yang pengen kamu ubah? Ceritain, aku bantu kasih ide."
+    },
+    {
+      "Question": "Aku ngerasa orang tuaku ngatur hidupku banget. Gimana ngatasinnya?",
+      "Answer": "Wajar kalau orang tua pengen ngatur, tapi kamu juga punya hak buat punya suara. Coba ngobrol sama mereka dengan kepala dingin, jelasin apa yang kamu mau. Kalau susah, cari ruang buat ekspresi diri di luar rumah. Apa yang bikin kamu merasa diatur? Aku dengerin."
+    },
+    {
+      "Question": "Aku ngerasa bakatku gak berkembang. Apa karena lingkunganku?",
+      "Answer": "Lingkungan bisa bantu atau malah nahan bakat. Coba cari tempat yang dukung bakatmu, seperti komunitas atau kursus. Mulai dari yang kecil, seperti latihan rutin. Apa bakat yang pengen kamu kembangkan? Ceritain, aku bantu kasih saran."
+    },
+    {
+      "Question": "Aku ngerasa sifat jelekku dari keturunan. Bisa diubah gak?",
+      "Answer": "Keturunan mungkin ngasih pengaruh, tapi kamu gak terjebak sama itu. Sifat jelek bisa diubah dengan latihan dan kesadaran. Misalnya, kalau gampang marah, coba teknik napas atau refleksi. Apa sifat yang pengen kamu ubah? Kita bisa cari cara bareng."
+    },
+    {
+      "Question": "Aku ngerasa pendiam karena lingkungan. Gimana biar lebih terbuka?",
+      "Answer": "Lingkungan bisa bikin kita pendiam, tapi kamu bisa latih buat lebih terbuka. Coba mulai ngobrol sama orang yang bikin kamu nyaman, atau ikut komunitas yang seru. Pelan-pelan aja. Apa yang bikin kamu pendiam? Ceritain ke aku."
+    },
+    {
+      "Question": "Aku ngerasa hidupku ditentuin sama orang lain. Gimana caranya ambil alih?",
+      "Answer": "Merasa hidup ditentuin orang lain itu berat. Coba fokus ke apa yang bisa kamu kendalikan, seperti pilihan kecil sehari-hari. Tulis tujuanmu, terus buat rencana kecil buat capai itu. Apa yang bikin kamu merasa gitu? Aku dengerin kok."
+    }
+  ]

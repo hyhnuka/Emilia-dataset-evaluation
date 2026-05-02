@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "Aku merasa sangat sulit untuk berhenti pakai obat-obatan, meskipun aku tahu itu buruk buatku. Apa yang bisa aku lakukan?",
+    "Answer": "Aku paham banget itu pasti berat buatmu. Berhenti dari obat-obatan memang nggak mudah, tapi kamu nggak sendirian. Coba mulai dengan langkah kecil, seperti ceritain ke seseorang yang kamu percaya atau cari klinik yang punya program pendampingan. Ada treatment seperti buprenorphine yang bisa bantu kurangi keinginan pakai obat, tapi harus dengan pengawasan dokter. Mau ceritain lebih detail apa yang lagi kamu rasain? Aku dengerin kok."
+  },
+  {
+    "Question": "Aku takut kalau aku coba treatment, nanti malah ketahuan orang-orang di sekitarku. Gimana ya?",
+    "Answer": "Wajar banget kalau kamu khawatir soal privasi. Treatment itu seharusnya aman dan rahasia, kok. Banyak klinik yang punya aturan ketat buat jaga kerahasiaan pasien. Kamu bisa tanya ke klinik soal kebijakan privasi mereka sebelum mulai. Kalau mau, aku bisa bantu kasih ide cara ngomong ke orang-orang dekat tanpa merasa dihakimi. Apa yang bikin kamu takut ketahuan?"
+  },
+  {
+    "Question": "Kadang aku merasa pengen nyoba obat lagi, meskipun aku udah janji buat berhenti. Normal nggak sih?",
+    "Answer": "Perasaan itu memang sering muncul, dan itu nggak berarti kamu gagal. Keinginan buat pakai obat lagi itu bagian dari proses pemulihan, karena otakmu udah terbiasa sama obat itu. Penting banget buat punya strategi, seperti ngobrol sama orang yang mendukungmu atau alihin perhatian ke aktivitas yang kamu suka. Apa yang biasanya bikin kamu pengen nyoba lagi? Mungkin kita bisa pikirin cara hadapinnya bareng."
+  },
+  {
+    "Question": "Aku dengar buprenorphine itu obat buat berhenti dari opioid. Apa bener aman?",
+    "Answer": "Buprenorphine memang sering dipakai buat bantu orang berhenti dari opioid, dan banyak penelitian bilang itu aman kalau dipakai sesuai petunjuk dokter. Obat ini bantu kurangi rasa pengen pakai opioid tanpa bikin kamu 'high'. Tapi, harus dipantau ketat biar nggak disalahgunakan. Kalau kamu penasaran, coba tanya dokter soal plus-minusnya buat situasimu. Apa lagi yang bikin kamu ragu soal obat ini?"
+  },
+  {
+    "Question": "Aku merasa hidupku nggak berarti kalau nggak pakai obat. Gimana caranya aku nemuin semangat lagi?",
+    "Answer": "Aku denger banget betapa beratnya kamu ngerasa gitu. Obat mungkin bikin kamu merasa hidupmu 'penuh' sementara, tapi sebenarnya kamu punya banyak hal lain yang bisa kasih makna. Coba kita cari tahu apa yang dulu bikin kamu senang, seperti hobi atau orang-orang yang penting buatmu. Kalau susah, mungkin ngobrol sama konselor bisa bantu. Apa satu hal kecil yang bisa bikin kamu merasa lebih baik hari ini?"
+  },
+  {
+    "Question": "Aku pernah nyoba berhenti, tapi gagal. Aku takut coba lagi. Apa aku emang nggak bisa sembuh?",
+    "Answer": "Gagal itu nggak berarti kamu nggak bisa sembuh, kok. Pemulihan itu proses panjang, dan banyak orang yang akhirnya berhasil setelah beberapa kali coba. Setiap kali gagal, kamu belajar sesuatu yang bisa bikin percobaan berikutnya lebih kuat. Coba pikirin apa yang bikin gagal dulu, dan kita cari cara biar nggak keulang. Apa yang bikin kamu takut buat coba lagi?"
+  },
+  {
+    "Question": "Aku suka minum alkohol biar rileks, tapi aku juga pakai obat-obatan. Bahaya nggak sih?",
+    "Answer": "Kombinasi alkohol sama obat-obatan itu bisa berbahaya banget, karena dua-duanya bisa bikin kamu susah berpikir jernih dan tambah risiko overdosis. Aku tahu minum bikin rileks, tapi mungkin kita bisa cari cara lain buat tenang, seperti meditasi atau olahraga ringan. Apa yang biasanya bikin kamu pengen minum? Mungkin kita bisa atasi pemicunya bareng."
+  },
+  {
+    "Question": "Aku pengen nyoba treatment, tapi aku tinggal di desa, susah banget akses klinik. Ada solusi nggak?",
+    "Answer": "Aku paham banget kalau tinggal di desa bikin susah akses treatment. Ada program interim buprenorphine yang dirancang buat orang yang sulit ke klinik, pakai alat khusus buat ngatur dosis obat dan cek lewat telepon. Kamu bisa tanya ke puskesmas terdekat apa ada program kayak gitu. Apa lagi kendala yang kamu hadapi buat ke klinik?"
+  },
+  {
+    "Question": "Aku takut kalau aku berhenti pakai obat, nanti sakit banget. Gimana cara ngatasinnya?",
+    "Answer": "Rasa sakit waktu berhenti dari obat, atau yang disebut withdrawal, emang bisa bikin takut. Makanya treatment kayak buprenorphine ada buat bantu kurangi gejala itu, jadi prosesnya lebih tertahankan. Kalau kamu mau coba, dokter biasanya mulai dengan dosis kecil dan pantau kondisimu. Apa yang bikin kamu paling takut soal withdrawal?"
+  },
+  {
+    "Question": "Aku kadang ngerasa malu ceritain masalahku ke dokter. Gimana caranya biar nggak malu?",
+    "Answer": "Wajar banget kalau kamu merasa malu, karena ceritain hal pribadi itu nggak gampang. Tapi dokter dan konselor udah terlatih buat denger tanpa judge. Coba mulai dengan ceritain sedikit dulu, yang kamu nyaman, dan bilang kalau kamu nervous. Mereka biasanya bakal bantu kamu rileks. Apa yang bikin kamu malu ceritain ke dokter?"
+  },
+  {
+    "Question": "Aku merasa temen-temenku semua pakai obat, susah banget buat nggak ikutan. Apa yang harus aku lakuin?",
+    "Answer": "Pasti susah banget kalau lingkungan sekitarmu kayak gitu. Coba cari satu atau dua orang yang nggak pakai obat, atau gabung ke komunitas baru, seperti grup olahraga atau hobi. Kalau temen-temenmu bikin susah buat berhenti, mungkin perlu batasin waktu bareng mereka. Apa yang biasanya bikin kamu ikut pakai obat sama mereka?"
+  },
+  {
+    "Question": "Aku dengar ada alat Med-O-Wheel buat treatment. Itu apa sih?",
+    "Answer": "Med-O-Wheel itu alat khusus yang dipakai di beberapa program treatment buat ngatur dosis buprenorphine. Alat ini nyimpen obat dalam kompartemen terkunci yang cuma bisa dibuka sesuai jadwal, biar nggak ada penyalahgunaan. Keren, kan? Kalau kamu tertarik, tanya ke klinik apa mereka pakai alat ini. Apa lagi yang pengen kamu tahu soal treatment?"
+  },
+  {
+    "Question": "Aku ngerasa capek banget sama hidupku yang gini. Kadang pengen nyerah. Apa yang bisa aku lakuin?",
+    "Answer": "Aku denger betapa lelahnya kamu, dan nggak apa-apa merasa gitu. Tapi kamu masih di sini, itu artinya kamu kuat. Coba cari satu hal kecil yang bikin kamu merasa hidup, seperti jalan-jalan atau denger musik. Kalau rasa pengen nyerah kuat banget, ngobrol sama konselor atau hotline bisa bantu. Apa yang bikin kamu merasa capek banget akhir-akhir ini?"
+  },
+  {
+    "Question": "Aku pengen nyoba jual obatku biar dapet duit. Itu ide buruk nggak sih?",
+    "Answer": "Jujur, itu ide yang berisiko banget. Jual obat itu nggak cuma bisa bikin kamu kehilangan treatment, tapi juga bisa bawa masalah hukum serius. Aku tahu mungkin keuangan lagi susah, tapi kita bisa pikirin cara lain buat dapet duit, seperti kerja sampingan atau minta bantuan sosial. Apa yang bikin kamu pengen jual obat?"
+  },
+  {
+    "Question": "Aku merasa nggak punya siapa-siapa buat ngomong soal masalahku. Apa yang bisa aku lakuin?",
+    "Answer": "Aku tahu rasanya ngerasa sendirian itu berat. Kamu udah langkah besar dengan ceritain ke aku. Coba cari komunitas, seperti grup dukungan buat pemulihan, di mana orang-orang punya pengalaman sama. Kalau nggak ada di dekatmu, hotline atau konselor online juga bisa bantu. Apa yang bikin kamu merasa nggak bisa cerita ke orang lain?"
+  },
+  {
+    "Question": "Aku kadang lupa minum obat treatmentku. Gimana caranya biar nggak lupa?",
+    "Answer": "Lupa minum obat itu wajar, kok. Coba set alarm di HP-mu setiap hari buat inget waktu minum obat. Kalau kamu pakai alat kayak Med-O-Wheel, itu juga bantu ngatur dosis. Atau, taruh obat di tempat yang selalu kamu lihat, seperti deket cangkir kopi. Apa yang biasanya bikin kamu lupa?"
+  },
+  {
+    "Question": "Aku takut kalau treatment nggak berhasil buatku. Apa yang harus aku pikirin sebelum mulai?",
+    "Answer": "Wajar banget takut gagal, tapi treatment itu punya peluang berhasil kalau kamu komitmen. Sebelum mulai, pastiin kamu paham apa yang diharapkan, seperti jadwal klinik atau aturan minum obat. Tanyain ke dokter apa yang bisa bantu bikin treatment berhasil buatmu. Apa yang bikin kamu takut treatment nggak berhasil?"
+  },
+  {
+    "Question": "Aku merasa kerjaanku bikin stres, dan itu bikin pengen pakai obat lagi. Gimana cara ngatasinnya?",
+    "Answer": "Stres dari kerja emang bisa jadi pemicu. Coba cari cara kecil buat kurangi stres, seperti ambil napas dalam-dalam atau jalan sebentar pas istirahat. Kalau bisa, ngobrol sama bos atau temen kerja soal beban kerjamu. Apa yang di kerjaanmu yang bikin paling stres?"
+  },
+  {
+    "Question": "Aku dengar ada tes urin buat treatment. Itu kenapa sih?",
+    "Answer": "Tes urin itu buat ngecek apakah kamu masih pakai obat-obatan lain selain yang diresepin, biar treatment-nya aman dan efektif. Ini juga bantu dokter tahu kalau kamu butuh dukungan ekstra. Kalau kamu khawatir soal tes ini, ceritain aja ke dokter. Apa yang bikin kamu penasaran soal tes urin?"
+  },
+  {
+    "Question": "Aku pengen hidup normal lagi, tapi nggak tahu caranya. Dari mana aku mulai?",
+    "Answer": "Keinginan buat hidup normal itu langkah besar, dan aku bangga sama kamu. Mulai dari hal kecil, seperti bikin rutinitas harian yang sehat atau hubungi orang yang mendukungmu. Treatment kayak buprenorphine bisa bantu stabilin hidupmu, tapi juga penting cari aktivitas yang bikin bahagia. Apa yang kamu bayangin kalau hidupmu ‘normal’ lagi?"
+  }
+]
