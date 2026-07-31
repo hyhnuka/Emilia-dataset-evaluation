@@ -1,0 +1,107 @@
+📊 SUMMARY
+Total file diproses: 326
+Total data masuk: 7488
+
+ENG = 3443
+D1 revisi = 502
+D11 clean = 1080
+D12 clean = 1400
+D2 revisi = 461
+
+IDN = 2517
+D13 clean = 203
+D14 clean = 91
+D15 revisi = 422
+D16 clean = 308
+D17 clean = 23
+D18 clean = 466
+D3 clean = 440
+D4 clean = 422
+D5 clean = 40
+D7 clean = 102
+
+
+IDN-OCR = 1528
+D10 clean = 260
+D6 clean = 413
+D8 clean = 375
+D9 clean = 480
+
+Note: data7500 itu ada yg duplikat dan random, kemungkinan Ketika otomasi merge karena Ketika di cek ke tiap file json dan dilakukan otomasi merge ulang hasilnya 7488
+
+
+CEK SCORE
+1. Hallucination
+======================
+IDN-OCR (1528, 12 kolom) DONEMERGE
+D10 done 260 ✅v
+D6 done 413 ADA 0
+D8 done 375 ✅v
+D9 bdone 480 ✅v
+
+ENG (12 kolom) -> is_hallu >> is_fathfull
+D1 done 502 ✅
+D2 done 461 ✅
+D11 done 1080 ✅
+D12 done 1400
+
+IDN -HALU (2517, 12 kolom) DONEMERGE
+D13 clean = 203 ✅v
+D14 clean = 91 ✅v
+D15 revisi = 422 ✅v  >> 2 file belum diganti ke gpt
+D16 clean = 308 ✅v
+D17 clean = 23 ✅v
+D18 clean = 466 ✅V
+D3 clean = 440 ✅V
+D4 clean = 422 ✅v
+D5 clean = 40 ✅V
+D7 clean = 102 ✅V
+0   folder                2517 non-null   object
+ 1   page_range            2517 non-null   object
+ 2   question_id           2517 non-null   int64
+ 3   question_id_original  2517 non-null   object
+ 4   question_en           2517 non-null   object
+ 5   answer_id_original    2517 non-null   object
+ 6   answer_en             2517 non-null   object
+ 7   score_5               2517 non-null   int64
+ 8   score_01              2517 non-null   float64
+ 9   feedback              2517 non-null   object
+ 10  is_hallucinated       2517 non-null   bool
+ 11  source_file           2517 non-null   object
+
+2. Answer Relevance
+========================
+IDN-OCR (1528, 12 kolom) DONEMERGE
+D10 260 done ✅v
+D6 done 413 ✅V
+D8 done 375 ✅v
+D9 done 480 ✅v
+
+ENG (3443 x 12)
+D1 done 502 ✅v
+D2 done 461 ✅v
+D11 done 1080 ✅v
+D12 done  1400 ✅v
+
+IDN = 2291 DONE MERGE
+D13 clean = 203 ✅v
+D14 clean = 91 ✅v
+D15 revisi = 422 ✅v
+D16 clean = 308 ✅v
+D17 clean = 23 ✅v
+D18 clean = 466 ✅v
+D3 clean = 440 ✅v
+D4 clean = 422 ✅v
+D5 clean = 40 ✅v
+D7 clean = 102 ✅v
+
+
+Liza, sekalian dilengkapi filenya utk pengumpulan KP selain Laporan KP ya.
+File pengumpulan KP:
+1. Laporan KP (docx) >> ✅
+2. Semua source code (ipynb) >> nli, halu, ar, bertopic✅
+3. Dataset (raw dan data yg sudah diolah) >> dokumen dataset ✅
+4. Semua hasil ujicoba (dalam bentuk tabel di excel, jika ada)
+5. Logbook >> otw
+6. Draf paper (on going) --> ini menyusul gpp
+
