@@ -1,0 +1,11 @@
+﻿Super_Cluster_ID,Num_Topics,Num_Documents,Topics,Top_Words,Super_Cluster_Name
+0,4,829,"[1, 13, 19, 24]",obat - ganggu - terapi - psikolog - takut - mental - dokter - sehat - khawatir - tahu,[MANUAL: Isi nama cluster]
+1,7,4566,"[0, 2, 5, 7, 8, 12, 25]",stres - diri - jalan - sehat - kecil - sendiri - hidup - laku - aktivitas - takut,[MANUAL: Isi nama cluster]
+2,4,502,"[4, 9, 10, 15]",salah - kecil - temen - dukung - keluarga - stres - ngerasa - mental - anak - sekolah,[MANUAL: Isi nama cluster]
+3,2,82,"[20, 21]",trauma - takut - hidup - kecil - sendiri - terus - cemas - masa - ngerasa - berat,[MANUAL: Isi nama cluster]
+4,2,100,"[16, 17]",kecil - diri - mimpi - takut - tuju - masa - hidup - arti - ngerasa - sendiri,[MANUAL: Isi nama cluster]
+5,1,30,[23],rokok - henti - sehat - remaja - sehat mental - stres - mental - kurang - anak - cemas,[MANUAL: Isi nama cluster]
+6,2,170,"[11, 22]",diri - sendiri - salah - takut - hakim - ngerasa - judge - cemas - nyaman - tahu,[MANUAL: Isi nama cluster]
+7,1,41,[18],cuci - tangan - kuman - mandi - pintu - kompulsif - obsesif kompulsif - ganggu obsesif - obsesif - takut,[MANUAL: Isi nama cluster]
+8,1,211,[3],tidur - susah tidur - susah - meditasi - tidur tidur - tenang - relaksasi - atur - ganggu - nyenyak,[MANUAL: Isi nama cluster]
+9,2,247,"[6, 14]",otak - kecil - lupa - ingat - ulang - susah - simpan - materi - lama - kenang,[MANUAL: Isi nama cluster]

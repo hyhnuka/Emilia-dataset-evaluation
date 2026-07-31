@@ -1,0 +1,39 @@
+{
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "cluster_name": "Gangguan Mental Klinis dan Faktor Biologis",
+      "topics": [13, 24, 21, 18]
+    },
+    {
+      "cluster_id": 2,
+      "cluster_name": "Akses dan Etika Kesehatan Mental",
+      "topics": [1, 19]
+    },
+    {
+      "cluster_id": 3,
+      "cluster_name": "Stres, Kecemasan, dan Kesulitan Emosional",
+      "topics": [0, 11, 2, 7, 20, 22, 15, 10]
+    },
+    {
+      "cluster_id": 4,
+      "cluster_name": "Motivasi, Arah Hidup, dan Pengembangan Diri",
+      "topics": [25, 16, 17]
+    },
+    {
+      "cluster_id": 5,
+      "cluster_name": "Hubungan Sosial dan Media",
+      "topics": [9, 10]
+    },
+    {
+      "cluster_id": 6,
+      "cluster_name": "Gaya Hidup dan Kesehatan Mental",
+      "topics": [5, 12, 8, 23]
+    },
+    {
+      "cluster_id": 7,
+      "cluster_name": "Fungsi Kognitif: Tidur, Memori, dan Persepsi",
+      "topics": [3, 6, 14]
+    }
+  ]
+}
